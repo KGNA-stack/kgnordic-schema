@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-12",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Illegal Constructions Greece: What Buyers Inherit",
       description: "Illegal constructions in Greece transfer to the buyer on purchase. Fines range from EUR 200 to 2,000 per sqm or demolition. What to find before you sign.",
       datePublished: "2026-03-11",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-12",
       faqs: [
         {
           question: "Do illegal constructions transfer to the buyer in Greece?",
@@ -379,7 +379,63 @@ window.addEventListener('DOMContentLoaded', function() {
           answer: "Yes. While many Golden Visa acquisitions focus on legal eligibility, technical due diligence helps identify hidden liabilities, permit issues, construction risks and future capital expenditure requirements before funds are committed."
         }
       ]
-    }
+    },
+      "anakainizo-greece-renovation-programme-foreign-buyers": {
+    headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
+    description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
+    datePublished: "2026-06-10",
+    dateModified: "2026-06-12",
+    faqs: [
+      {
+        question: "What is the Anakainizo programme in Greece?",
+        answer: "Anakainizo is a 480 million euro government renovation programme targeting vacant and deteriorated properties in Greece. It offers subsidies covering 70% to 95% of renovation costs, subject to a cap of 300 euros per square metre and a maximum grant of 36,000 to 46,000 euros per applicant. The eligibility platform opens 15 June 2026. Applications open September 2026. Properties must have been built under permits issued before 31 December 1990 and have a maximum floor area of 120 square metres."
+      },
+      {
+        question: "Can foreign buyers use the Anakainizo renovation subsidy?",
+        answer: "Yes, subject to income eligibility. Foreign buyers who acquire a qualifying vacant pre-1990 property in Greece and meet the income thresholds can apply. The property must be used for owner-occupation or long-term rental for at least five years. Short-term rental and resale within five years are not permitted."
+      },
+      {
+        question: "Why do unauthorised constructions block Anakainizo eligibility?",
+        answer: "Every Anakainizo application requires an Energy Performance Certificate before renovation begins. An EPC cannot be issued for a property with unresolved permit violations. A permit file cross-check confirming the physical structure matches the approved drawings is required before the EPC process can start. Properties with Category 5 coastal zone violations cannot be regularised and are permanently ineligible."
+      },
+      {
+        question: "What happens if renovation costs exceed the programme cap?",
+        answer: "The programme subsidises up to 300 euros per square metre. Any costs above this threshold are the buyer's responsibility. A technical condition assessment before acquisition identifies deferred maintenance and structural issues likely to push renovation costs beyond the programme cap, allowing the buyer to calculate the real cost of ownership before committing capital."
+      },
+      {
+        question: "What does the five-year lock-in mean for property buyers?",
+        answer: "Properties renovated under Anakainizo cannot be sold or used for short-term rental for five years after completion. Rents are frozen at the initial rate for the first three years. The programme is designed for long-term residential occupation or rental, not short-term letting or early resale."
+      }
+    ]
+  },
+    "what-to-check-before-signing-property-contract-greece": {
+      headline: "What to Check Before Signing a Property Contract in Greece",
+      description: "Before signing a Greek property contract, verify urban planning status, Law 3819/2010 legacy, title chain and structural condition.",
+      datePublished: "2026-06-12",
+      dateModified: "2026-06-12",
+      faqs: [
+        {
+          question: "What does Law 3819/2010 mean for a property I am buying in Greece?",
+          answer: "Law 3819/2010 allowed owners of unauthorised constructions to register them and receive a certificate of suspension, which halted demolition orders and administrative penalties. The certificate did not legalise the unauthorised elements. If a property you are evaluating has a 3819/2010 registration, you need to verify whether the original suspension is still active and whether the owner followed up with full legalisation under a later law. A lapsed suspension with no subsequent action leaves the construction exposed to enforcement under the current regularisation framework, which closes in March 2028."
+        },
+        {
+          question: "Is it safe to sign a preliminary property contract in Greece without a technical review?",
+          answer: "Signing without a technical review is a financial risk. The preliminary contract binds you to a deposit, typically 10% of the purchase price. If a technical assessment after signing reveals unauthorised construction, structural problems or permit gaps, your options are limited to renegotiation with capital already committed. A pre-contract review is the point at which findings can be acted on without losing money."
+        },
+        {
+          question: "What documents should I request before signing a property contract in Greece?",
+          answer: "Before signing, request the current building permit and approved floor plans, the certificate of building legality or the most recent legalisation certificate, the energy performance certificate, two years of ENFIA tax statements, and the full title deed chain covering at least the last 20 years. If the seller cannot produce these promptly, that delay is itself a finding worth acting on."
+        },
+        {
+          question: "What is the difference between a legal check and a technical review in Greece?",
+          answer: "A legal check confirms ownership, encumbrances and whether the property is legally transferable. A technical review confirms whether what is physically built matches what was permitted, whether unauthorised elements exist, and what their current legal status is. Both are necessary before signing. Neither substitutes for the other."
+        },
+        {
+          question: "What does a property inspection cost in Greece before signing a contract?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros. The scope covers structural condition, building permit compliance and technical risk indicators. A preliminary remote acquisition review can be conducted from documents and publicly available records before a physical site visit is arranged."
+        }
+      ]
+    },
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
