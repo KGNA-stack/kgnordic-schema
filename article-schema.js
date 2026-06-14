@@ -464,6 +464,34 @@ window.addEventListener('DOMContentLoaded', function() {
       }
     ]
   },
+    "property-survey-greece-buyers-guide": {
+  headline: "Property Survey Greece | Independent Buyer's Guide",
+  description: "What a property survey in Greece covers, what it costs and how to commission one independently before contracts are signed. British buyer's guide.",
+  datePublished: "2026-06-14",
+  dateModified: "2026-06-14",
+  faqs: [
+    {
+      question: "What is a property survey in Greece?",
+      answer: "A property survey in Greece is an independent technical inspection commissioned by the buyer before purchase. It covers structural condition, permit compliance, building systems and deferred capital expenditure. Greece does not have a regulated pre-purchase survey market equivalent to the UK system. The seller-mandated Technical Diagnostic File covers energy and electrical compliance only and is not a structural assessment."
+    },
+    {
+      question: "How much does a property survey cost in Greece?",
+      answer: "An independent technical survey of a residential property in Greece starts from 5,000 euros. This covers travel to site, a full inspection day, permit document review and a written English report. Island locations carry additional logistics costs. Surveys priced below 2,000 euros generally reflect a scope that does not include a full permit compliance review."
+    },
+    {
+      question: "When should I commission a property survey in Greece?",
+      answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the price, attach conditions to the agreement or withdraw without financial penalty. A survey commissioned after the preliminary contract loses all of that leverage."
+    },
+    {
+      question: "Is a building survey legally required in Greece?",
+      answer: "No. Greek law requires the seller to provide a Technical Diagnostic File covering energy performance, electrical compliance and environmental checks. An independent structural and permit survey is not legally required but is the only mechanism available to a buyer for identifying structural defects, unauthorised constructions and deferred maintenance costs before purchase."
+    },
+    {
+      question: "What is the difference between a property survey and a property inspection in Greece?",
+      answer: "In practice, the terms refer to the same service when commissioned independently by the buyer. Survey is the terminology more commonly used by British buyers. Inspection is more common among American and Nordic buyers. Both describe an independent technical assessment of physical condition, permit compliance and capital expenditure exposure."
+    }
+  ]
+},
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
