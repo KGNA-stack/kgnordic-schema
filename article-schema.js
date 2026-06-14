@@ -436,6 +436,34 @@ window.addEventListener('DOMContentLoaded', function() {
         }
       ]
     },
+      "house-inspection-greece": {
+      headline: "House Inspection Greece | Independent Buyer's Guide",
+      description: "What a house inspection in Greece covers, what it costs, and why the US model does not transfer. Independent guide for American and Canadian buyers.",
+      datePublished: "2026-06-14",
+      dateModified: "2026-06-14",
+      faqs: [
+      {
+        question: "Is a home inspection required when buying property in Greece?",
+        answer: "No. Greek law requires the seller to provide a Technical Diagnostic File covering energy performance, electrical compliance and environmental checks. An independent structural and permit inspection is not legally required. It is the only mechanism available to the buyer for identifying structural defects, unauthorised constructions and deferred maintenance costs before purchase. The seller is not required to disclose these. Without an independent inspection, the buyer assumes them."
+      },
+      {
+        question: "What does a house inspection in Greece cover?",
+        answer: "An independent house inspection in Greece covers structural condition, permit compliance (comparing the physical structure against approved building permit drawings held at the urban planning authority), building systems including electrical, plumbing and HVAC, roof and waterproofing condition, and a ten-year capital expenditure projection. The permit compliance review is the element that differs most from US home inspection practice and the one that carries the highest financial risk if omitted."
+      },
+      {
+        question: "How much does a home inspection cost in Greece?",
+        answer: "An independent technical inspection of a residential property in Greece starts from 5,000 euros. This covers travel to site, a full inspection day, permit document review and a written English report. Island locations carry additional logistics costs. Inspections priced below 2,000 euros generally do not include a complete permit compliance review."
+      },
+      {
+        question: "When should I get a house inspection in Greece?",
+        answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the purchase price, attach repair conditions or withdraw without financial penalty. A house inspection commissioned after the preliminary contract loses all practical leverage to act on what it finds."
+      },
+      {
+        question: "What is the difference between a house inspection and technical due diligence in Greece?",
+        answer: "A house inspection, also called a property inspection, covers physical condition, permit compliance, building systems and capital expenditure exposure. It is appropriate for most private residential acquisitions. Technical due diligence is a more extensive mandate for acquisitions above approximately 500,000 euros, hospitality assets and institutional purchases. It extends the inspection scope with formal CapEx modelling, MEP systems review and a report structure suitable for financing or investment committee review."
+      }
+    ]
+  },
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
