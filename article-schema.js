@@ -76,7 +76,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-14",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -300,7 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece as an American: 2026 Guide",
       description: "Americans can buy property in Greece without restrictions. The process has US-specific tax and reporting layers most buyers discover too late. What to know before you commit.",
       datePublished: "2026-05-27",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-14",
       faqs: [
         {
           question: "Can Americans buy property in Greece?",
@@ -324,7 +324,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Building Survey Greece: The UK Buyer's Guide",
       description: "What UK buyers call a building survey does not exist in Greece in the same form. What independent technical assessment covers, what it costs, and what British buyers get wrong.",
       datePublished: "2026-06-05",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-14",
       faqs: [
         {
           question: "What is the equivalent of a UK building survey in Greece?",
