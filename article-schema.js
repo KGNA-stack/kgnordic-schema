@@ -492,6 +492,34 @@ window.addEventListener('DOMContentLoaded', function() {
     }
   ]
 },
+    "tdd-vs-property-inspection-greece": {
+  headline: "TDD vs Property Inspection Greece: Which Do You Need?",
+  description: "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
+  datePublished: "2026-06-15",
+  dateModified: "2026-06-15",
+  faqs: [
+    {
+      question: "What is the difference between a house inspection and technical due diligence in Greece?",
+      answer: "A house inspection, also called a property inspection, building survey or property survey depending on the buyer's nationality, covers structural condition, permit compliance, building systems and deferred capital expenditure. It is appropriate for most private residential acquisitions. Technical due diligence is a more extensive mandate covering full MEP systems review, regulatory compliance mapping, formal CapEx modelling and a report structure suitable for lenders, investment committees or legal negotiations. TDD is the right instrument for acquisitions above approximately 500,000 euros, hospitality assets and institutional purchases."
+    },
+    {
+      question: "Is a property survey the same as a property inspection in Greece?",
+      answer: "Yes. In the Greek market, property survey and property inspection describe the same independent technical assessment when commissioned by the buyer. Property survey is the term more commonly used by British buyers; property inspection is more common among American, Nordic and international buyers; building survey is the formal UK RICS terminology. All three describe an independent review of structural condition, permit compliance, building systems and capital expenditure exposure."
+    },
+    {
+      question: "Do I need TDD or a property inspection for a Greek villa purchase?",
+      answer: "For most private villa purchases below 500,000 euros, an independent property inspection is the appropriate scope. TDD becomes relevant above 500,000 euros, if the report needs to support financing or co-investor review, or if the acquisition includes a hospitality or development component."
+    },
+    {
+      question: "When should I commission a property inspection in Greece?",
+      answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the purchase price, attach repair conditions or withdraw without financial penalty. An inspection commissioned after the preliminary contract loses all practical leverage to act on what it identifies."
+    },
+    {
+      question: "What is the difference between a house inspection in Greece and the US?",
+      answer: "In the United States and Canada, home inspections are conducted by licensed professionals in a regulated market. In Greece, no equivalent regulated profession exists. The key difference is the permit compliance review: comparing the physical structure against approved building permits is the most consequential part of any pre-purchase inspection in Greece, and requires specific knowledge of the Greek planning system that standard US home inspection practice does not address."
+    }
+  ]
+},
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
