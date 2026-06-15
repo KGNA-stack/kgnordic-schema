@@ -76,7 +76,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-06-14",
+      dateModified: "2026-06-15",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -348,7 +348,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-15",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
@@ -440,7 +440,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "House Inspection Greece | Independent Buyer's Guide",
       description: "What a house inspection in Greece covers, what it costs, and why the US model does not transfer. Independent guide for American and Canadian buyers.",
       datePublished: "2026-06-14",
-      dateModified: "2026-06-14",
+      dateModified: "2026-06-15",
       faqs: [
       {
         question: "Is a home inspection required when buying property in Greece?",
