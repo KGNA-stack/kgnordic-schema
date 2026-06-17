@@ -520,6 +520,34 @@ window.addEventListener('DOMContentLoaded', function() {
     }
   ]
 },
+    "lawyers-buyers-agents-technical-advisors-greece": {
+  headline: "How Lawyers in Greece Use Independent Technical Advisors",
+  description: "Legal due diligence ends at title and encumbrances. How lawyers and buyer's agents in Greece use independent technical advisors to cover the rest.",
+  datePublished: "2026-06-17",
+  dateModified: "2026-06-17",
+  faqs: [
+    {
+      question: "What is the difference between legal due diligence and technical due diligence in Greece?",
+      answer: "Legal due diligence confirms ownership, encumbrances and whether a property is legally transferable. Technical due diligence confirms whether the building matches its permits, whether unauthorized elements exist, and what their current legal status is. Both are needed before signing, and neither substitutes for the other."
+    },
+    {
+      question: "Can a lawyer in Greece check for illegal constructions?",
+      answer: "A lawyer confirms the legal status of the title, not whether the physical building matches the approved drawings. Identifying unauthorized constructions requires reading the permit file at the poleodomia and comparing it against what is actually built on site, which is a technical review."
+    },
+    {
+      question: "Does an independent technical advisor represent the buyer or the agent?",
+      answer: "The engagement is buyer-side and independent, with no relationship to the seller, agent or developer on the transaction. We work alongside the lawyer and the buyer's agent, and the report is delivered to the buyer or to the professional acting on the buyer's behalf."
+    },
+    {
+      question: "What does an independent technical review cost in Greece?",
+      answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the asset type and location. A preliminary remote asset review can be arranged from documents and public records before a site visit is scheduled."
+    },
+    {
+      question: "When should a lawyer or buyer's agent bring in a technical advisor?",
+      answer: "Before the preliminary contract, while the buyer still has leverage. Findings identified before signing become a price adjustment or a clean exit. The same findings after signing become a dispute. For any property built before 2010 or showing gaps in its permit history, the review is not optional."
+    }
+  ]
+},
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
