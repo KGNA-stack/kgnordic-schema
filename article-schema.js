@@ -1,10 +1,38 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "energy-upgrade-grants-greece-2026": {
+      headline: "Greek Property Energy Upgrade Grants 2026: A Foreign Owner's Guide",
+      description: "Greece is funding home energy upgrades through 2032. What foreign owners can claim, who qualifies, and how the grant actually reaches your project.",
+      datePublished: "2026-06-26",
+      dateModified: "2026-06-26",
+      faqs: [
+        {
+          question: "How much does the Greek energy upgrade grant cover?",
+          answer: "The next Exoikonomo round indicatively covers up to 80 percent of eligible costs, with eligible costs up to around 24,800 euros and an owner contribution from around 5,000 euros, VAT included. The exact figures and opening date are confirmed at the start of each cycle, expected in autumn 2026, so treat them as indicative until the official guide is published."
+        },
+        {
+          question: "Can a foreign owner get an energy grant in Greece?",
+          answer: "Yes, foreign ownership is not a barrier in itself. Ownership through the E9 register qualifies, a special-case route exists for owners living abroad, and a low Greek income places you in the highest subsidy band. The property must be a primary residence, yours or a long-term tenant's."
+        },
+        {
+          question: "Does a holiday home qualify for the Greek energy grant?",
+          answer: "No. The main residential grant is for primary residences only. A holiday or second home is upgraded on a privately financed basis, focused on coming standards, running costs and comfort, with rooftop solar programs assessed separately."
+        },
+        {
+          question: "Do you add a fee on top of the subsidy?",
+          answer: "No. The contractor invoices you directly and we never mark up subsidized costs. Our fee is for assessment, application navigation and project management, kept separate from the state-funded works."
+        },
+        {
+          question: "When does the 2026 Greek energy grant open?",
+          answer: "The next Exoikonomo round is expected in autumn 2026, but the exact application date is not yet fixed. We confirm what applies to a specific address in the Eligibility Check once the cycle and its official guide are published."
+        }
+      ]
+    },
     "buying-property-greece-risk": {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-06-12",
+      dateModified: "2026-06-25",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -128,7 +156,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-25",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -348,7 +376,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-06-15",
+      dateModified: "2026-06-24",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
@@ -384,7 +412,7 @@ window.addEventListener('DOMContentLoaded', function() {
     headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
     description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
     datePublished: "2026-06-10",
-    dateModified: "2026-06-12",
+    dateModified: "2026-06-25",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
@@ -440,7 +468,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "House Inspection Greece | Independent Buyer's Guide",
       description: "What a house inspection in Greece covers, what it costs, and why the US model does not transfer. Independent guide for American and Canadian buyers.",
       datePublished: "2026-06-14",
-      dateModified: "2026-06-15",
+      dateModified: "2026-06-25",
       faqs: [
       {
         question: "Is a home inspection required when buying property in Greece?",
@@ -468,7 +496,7 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "Property Survey Greece | Independent Buyer's Guide",
   description: "What a property survey in Greece covers, what it costs and how to commission one independently before contracts are signed. British buyer's guide.",
   datePublished: "2026-06-14",
-  dateModified: "2026-06-14",
+  dateModified: "2026-06-25",
   faqs: [
     {
       question: "What is a property survey in Greece?",
@@ -496,7 +524,7 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "TDD vs Property Inspection Greece: Which Do You Need?",
   description: "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
   datePublished: "2026-06-15",
-  dateModified: "2026-06-15",
+  dateModified: "2026-06-25",
   faqs: [
     {
       question: "What is the difference between a house inspection and technical due diligence in Greece?",
