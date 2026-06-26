@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "property-project-manager-greece": {
+  headline: "Property Project Manager Greece | Independent Oversight",
+  description: "What a property project manager, construction project manager or renovation project manager does in Greece and what independent oversight costs.",
+  datePublished: "2026-06-26",
+  dateModified: "2026-06-26",
+  faqs: [
+    {
+      question: "What does a property project manager do in Greece?",
+      answer: "An independent property project manager in Greece oversees the construction or renovation process on the owner's behalf. This covers contractor procurement, written scope and contract management, construction oversight with site visits at critical stages, quality verification and close-out documentation. The role is structurally separate from the contractor's site manager, who reports to and works for the contractor."
+    },
+    {
+      question: "What is the difference between a construction project manager and owner's representation in Greece?",
+      answer: "In Greece, foreign buyers searching for a construction project manager or renovation project manager are describing the owner's representation function. Owner's representation is the professional term for an advisor paid by and reporting exclusively to the property owner. A construction project manager on the contractor side reports to the contractor and optimises for the contractor's schedule and margin. The distinction determines whose interests are being protected on site."
+    },
+    {
+      question: "When does a renovation in Greece need independent project management?",
+      answer: "Any renovation above 100,000 euros in scope benefits from independent management. At this scale, informal contractor arrangements routinely produce cost overruns of 25 to 40% above the original budget. Independent management fees typically run at 8 to 12% of construction contract value, which is less than the average overrun on unmanaged projects in this range."
+    },
+    {
+      question: "Can a property project manager be hired remotely for a renovation in Greece?",
+      answer: "Partial remote oversight is practical for the procurement and planning phases. Construction oversight requires physical site presence at critical stages, including structural work, waterproofing installation and MEP commissioning. KG Nordic provides local site representation with English-language reporting delivered directly to the owner."
+    },
+    {
+      question: "Does KG Nordic act as a general contractor in Greece?",
+      answer: "No. KG Nordic provides owner's representation and independent technical oversight. We do not act as a general contractor and maintain no commercial relationships with construction or renovation firms. The independence of the oversight function from the contractor is the basis on which it operates."
+    }
+  ]
+},
     "energy-upgrade-grants-greece-2026": {
       headline: "Greek Property Energy Upgrade Grants 2026: A Foreign Owner's Guide",
       description: "Greece is funding home energy upgrades through 2032. What foreign owners can claim, who qualifies, and how the grant actually reaches your project.",
@@ -132,7 +160,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property CapEx Planning Greece: 10-Year Cost Framework",
       description: "The acquisition price is not the cost of ownership. A technical condition assessment projects what a Greek property will require over 10 years before you commit.",
       datePublished: "2026-05-04",
-      dateModified: "2026-06-09",
+      dateModified: "2026-06-26",
       faqs: [
         {
           question: "What is a property condition assessment in Greece?",
@@ -412,7 +440,7 @@ window.addEventListener('DOMContentLoaded', function() {
     headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
     description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
     datePublished: "2026-06-10",
-    dateModified: "2026-06-25",
+    dateModified: "2026-06-26",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
