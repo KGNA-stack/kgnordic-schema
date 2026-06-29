@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "epc-greece-property": {
+      headline: "EPC in Greece: Why Every Sale Needs One",
+      description: "Greece requires an energy performance certificate at every sale and after major renovation. What an EPC is, what it costs and why buyers should read it.",
+      datePublished: "2026-06-29",
+      dateModified: "2026-06-29",
+      faqs: [
+        {
+          question: "Is an EPC required to sell property in Greece?",
+          answer: "Yes. An energy performance certificate is legally required at every property sale in Greece and at every new long-term lease, presented at the notary. It is issued by an accredited energy inspector and grades the building from A to H."
+        },
+        {
+          question: "What is a PEA in Greece?",
+          answer: "PEA is the Greek term for the energy performance certificate, the same document as the EPC. It records the building's energy rating and is mandatory for sales and long-term leases."
+        },
+        {
+          question: "When do you need a new EPC in Greece?",
+          answer: "A new certificate is required after a renovation that affects more than a quarter of the building envelope, and at each new sale or long-term lease. Every energy upgrade therefore generates a fresh certificate."
+        },
+        {
+          question: "Can the EPC be free in Greece?",
+          answer: "In some cases yes. The state has allocated funding that can cover the cost of issuing the certificate. Whether it applies to a specific property is confirmed cycle by cycle."
+        },
+        {
+          question: "Why should a buyer read the EPC?",
+          answer: "Because a low rating signals poor insulation, inefficient heating and high running costs, which are a comfort, bill and asset-value problem. Read before signing, it is negotiating material. Read after, it is a renovation bill."
+        }
+      ]
+    },
     "property-project-manager-greece": {
   headline: "Property Project Manager Greece | Independent Oversight",
   description: "What a property project manager, construction project manager or renovation project manager does in Greece and what independent oversight costs.",
@@ -32,7 +60,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Energy Upgrade Grants 2026: A Foreign Owner's Guide",
       description: "Greece is funding home energy upgrades through 2032. What foreign owners can claim, who qualifies, and how the grant actually reaches your project.",
       datePublished: "2026-06-26",
-      dateModified: "2026-06-26",
+      dateModified: "2026-06-29",
       faqs: [
         {
           question: "How much does the Greek energy upgrade grant cover?",
@@ -468,7 +496,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What to Check Before Signing a Property Contract in Greece",
       description: "Before signing a Greek property contract, verify urban planning status, Law 3819/2010 legacy, title chain and structural condition.",
       datePublished: "2026-06-12",
-      dateModified: "2026-06-12",
+      dateModified: "2026-06-29",
       faqs: [
         {
           question: "What does Law 3819/2010 mean for a property I am buying in Greece?",
