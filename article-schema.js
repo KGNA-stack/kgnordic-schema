@@ -689,3 +689,4 @@ window.addEventListener('DOMContentLoaded', function() {
     }
   }
 });
+  
