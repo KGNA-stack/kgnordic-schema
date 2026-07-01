@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "meps-greece-property-owners": {
+      headline: "Greece MEPS: New Minimum Energy Standards",
+      description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
+      datePublished: "2026-07-01",
+      dateModified: "2026-07-01",
+      faqs: [
+        {
+          question: "What are MEPS in Greece?",
+          answer: "MEPS are minimum energy performance standards for buildings, introduced by the EU Energy Performance of Buildings Directive and being transposed into Greek law through a revision of the KENAK building energy code. They push the worst-performing buildings to improve, triggered at points like sale or lease for non-residential stock and through a national renovation trajectory for homes."
+        },
+        {
+          question: "When do Greek minimum energy standards take effect?",
+          answer: "The EU deadline to transpose the directive was 29 May 2026. Greece is finalising this through its KENAK building energy code, so the exact national thresholds and trigger dates are still being set and should be verified against the Greek law as it lands. At EU level, the worst-performing 16 percent of non-residential buildings must be renovated by 2030 and 26 percent by 2033, while homes fall under a national renovation trajectory."
+        },
+        {
+          question: "Does MEPS affect older and holiday homes?",
+          answer: "The standards apply to existing buildings and press hardest on the worst-performing, older stock. Holiday homes are not exempt from the standards, though they are not eligible for the primary-residence grant and are upgraded on a privately financed basis."
+        },
+        {
+          question: "Can fossil-fuel boilers still be subsidized in Greece?",
+          answer: "No. Subsidies for standalone fossil-fuel boilers have been banned since the start of 2025, with a phase-out toward 2040 under the EU directive. Support is directed to efficient systems such as heat pumps."
+        },
+        {
+          question: "How do I find out if my Greek home meets the standard?",
+          answer: "Start with the building's energy performance certificate, which records its current rating, and an assessment of the gap to the coming standard. We provide an independent read on both in the Eligibility Check."
+        }
+      ]
+    },
     "epc-greece-property": {
       headline: "EPC in Greece: Why Every Sale Needs One",
       description: "Greece requires an energy performance certificate at every sale and after major renovation. What an EPC is, what it costs and why buyers should read it.",
@@ -689,4 +717,3 @@ window.addEventListener('DOMContentLoaded', function() {
     }
   }
 });
-  
