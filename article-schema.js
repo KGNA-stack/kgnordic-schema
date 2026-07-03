@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "can-you-buy-property-greece-without-inspection": {
+      headline: "Can You Buy Property in Greece Without an Inspection?",
+      description: "No Greek law requires a property inspection before you buy. What the notary and the sellers engineer actually check, and the risk nobody checks for you.",
+      datePublished: "2026-07-03",
+      dateModified: "2026-07-03",
+      faqs: [
+        {
+          question: "Is a property inspection legally required when buying property in Greece?",
+          answer: "No. Greek law requires a notary, tax clearance, a sellers engineer certificate on permit compliance and an energy performance certificate at the sale. None of these involves an assessment of the buildings condition. A buyer-side inspection happens only if the buyer commissions it directly."
+        },
+        {
+          question: "Does the notary or my lawyer check the condition of the property?",
+          answer: "No. The notary validates the contract, the taxes and the transfer as a public official. The lawyer checks title, liens and the inheritance chain at the registry. Neither role includes visiting the property or assessing the building, and in practice neither does."
+        },
+        {
+          question: "What does the sellers engineer certificate actually confirm?",
+          answer: "It confirms that the property has no unpermitted constructions, or that any have been regularized under Law 4495/2017. It is a permit compliance statement, not a condition assessment. It says nothing about structure, roof, moisture, concrete or installations, and it is produced by an engineer paid by the seller."
+        },
+        {
+          question: "How much does a property inspection cost in Greece?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size, location and type of the asset. Set against a typical deposit of 10 percent committed at the preliminary contract, it is the smaller figure in the transaction. A remote asset review from documents and public records can be arranged before any site visit."
+        }
+      ]
+    },
     "meps-greece-property-owners": {
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
@@ -116,7 +140,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-06-25",
+      dateModified: "2026-07-01",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -140,7 +164,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Illegal Constructions Greece: What Buyers Inherit",
       description: "Illegal constructions in Greece transfer to the buyer on purchase. Fines range from EUR 200 to 2,000 per sqm or demolition. What to find before you sign.",
       datePublished: "2026-03-11",
-      dateModified: "2026-06-12",
+      dateModified: "2026-07-01",
       faqs: [
         {
           question: "Do illegal constructions transfer to the buyer in Greece?",
@@ -188,7 +212,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-06-15",
+      dateModified: "2026-07-03",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -240,7 +264,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-06-25",
+      dateModified: "2026-07-01",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -292,7 +316,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-01",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -313,10 +337,10 @@ window.addEventListener('DOMContentLoaded', function() {
       ]
     },
     "illegal-construction-law-5261-2025": {
-      headline: "Greece Illegal Constructions Law 5261/2025: Buyer's Guide",
+      headline: "Greece Illegal Construction Law 5261/2025: 2028 Deadline",
       description: "Greece extended the illegal construction regularization deadline to March 2028 under Law 5261/2025. What this means for foreign buyers and what it does not change.",
       datePublished: "2026-05-18",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-01",
       faqs: [
         {
           question: "What does Law 5261/2025 change for property buyers in Greece?",
@@ -340,7 +364,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-03",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
@@ -524,7 +548,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What to Check Before Signing a Property Contract in Greece",
       description: "Before signing a Greek property contract, verify urban planning status, Law 3819/2010 legacy, title chain and structural condition.",
       datePublished: "2026-06-12",
-      dateModified: "2026-06-29",
+      dateModified: "2026-07-03",
       faqs: [
         {
           question: "What does Law 3819/2010 mean for a property I am buying in Greece?",
