@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "heat-pump-solar-subsidy-greece": {
+      headline: "Heat Pump and Rooftop Solar Subsidies in Greece 2026",
+      description: "Greece subsidizes heat pumps and rooftop solar with battery storage. What foreign owners can claim in 2026, the flat rates, and how the schemes combine.",
+      datePublished: "2026-07-06",
+      dateModified: "2026-07-06",
+      faqs: [
+        {
+          question: "Is there a heat pump subsidy in Greece?",
+          answer: "Yes. Greece runs a heat pump and solar thermal program, indicatively around 930 million euros, with a flat owner contribution in the region of 2,000 euros per household. Figures are indicative and confirmed at the start of each cycle."
+        },
+        {
+          question: "How much is the rooftop solar subsidy in Greece?",
+          answer: "The Fotovoltaika sti Stegi program offers subsidies indicatively up to around 75 percent for households, with the battery component subsidized up to 90 to 100 percent, run through pvstegi.gov.gr. The exact rates are confirmed cycle by cycle."
+        },
+        {
+          question: "Can a holiday home get the rooftop solar subsidy?",
+          answer: "Possibly. The rooftop solar program may in some cases be tied to the electricity meter rather than primary residency, which can open it to second homes. This must be verified per cycle, as it is not guaranteed."
+        },
+        {
+          question: "Can you combine the heat pump and solar subsidies?",
+          answer: "The schemes are separate but not mutually exclusive. A renovation grant, a heat pump scheme and a rooftop solar program target different parts of the upgrade, and sequencing them correctly maximizes the funded portion."
+        },
+        {
+          question: "Do you mark up the subsidized equipment cost?",
+          answer: "No. The contractor invoices you directly and we never add a margin on subsidized costs. Our fee is for assessment, scheme navigation and coordination, kept separate from the funded works."
+        }
+      ]
+    },
     "can-you-buy-property-greece-without-inspection": {
       headline: "Can You Buy Property in Greece Without an Inspection?",
       description: "No Greek law requires a property inspection before you buy. What the notary and the sellers engineer actually check, and the risk nobody checks for you.",
@@ -28,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
       datePublished: "2026-07-01",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-06",
       faqs: [
         {
           question: "What are MEPS in Greece?",
@@ -56,7 +84,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "EPC in Greece: Why Every Sale Needs One",
       description: "Greece requires an energy performance certificate at every sale and after major renovation. What an EPC is, what it costs and why buyers should read it.",
       datePublished: "2026-06-29",
-      dateModified: "2026-06-29",
+      dateModified: "2026-07-06",
       faqs: [
         {
           question: "Is an EPC required to sell property in Greece?",
@@ -112,7 +140,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Energy Upgrade Grants 2026: A Foreign Owner's Guide",
       description: "Greece is funding home energy upgrades through 2032. What foreign owners can claim, who qualifies, and how the grant actually reaches your project.",
       datePublished: "2026-06-26",
-      dateModified: "2026-06-29",
+      dateModified: "2026-07-06",
       faqs: [
         {
           question: "How much does the Greek energy upgrade grant cover?",
