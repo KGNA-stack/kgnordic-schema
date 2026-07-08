@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "snagging-survey-greece-new-build-villa": {
+      headline: "Snagging Survey Greece: New-Build Villa Inspection",
+      description: "A snagging survey documents defects before a new-build Greek villa is accepted. What it covers, what it costs, and the window that closes fast.",
+      datePublished: "2026-07-08",
+      dateModified: "2026-07-08",
+      faqs: [
+        {
+          question: "What is a snagging survey?",
+          answer: "A snagging survey is an independent inspection of a new-build or fully renovated property carried out at or near handover. It documents construction and finishing defects, tests MEP systems including electrical, plumbing and HVAC, and produces an itemized, photographed report the owner can use to require the contractor to fix issues before final payment or the defects period expires."
+        },
+        {
+          question: "Does Greece have a legal requirement for a snagging survey?",
+          answer: "No. Greek law requires a building permit compliance certificate at completion, confirming the structure matches the approved drawings, but this does not assess workmanship, test systems under load, or document finishing quality. An independent snagging survey is not legally required and is commissioned directly by the owner."
+        },
+        {
+          question: "How much does a snagging survey cost in Greece?",
+          answer: "A snagging survey starts from 5,000 euros for a single villa, scaling with the size and complexity of the property. Larger estates, multiple structures, or extensive pool and MEP scope increase the fee to reflect additional site time and system count."
+        },
+        {
+          question: "When should a snagging survey be carried out?",
+          answer: "At or immediately after handover, and before the final payment or retention is released to the contractor. Findings identified at this stage carry the most leverage. A survey commissioned after the defects period has lapsed, commonly around twelve months, has significantly less practical weight."
+        },
+        {
+          question: "What is the difference between a snagging survey and a property inspection?",
+          answer: "A property inspection is typically commissioned by a buyer before purchasing an existing property, assessing condition, permit compliance and deferred maintenance. A snagging survey is commissioned by an owner at handover of a new-build or renovated property, focused on construction and finishing defects against the contract specification rather than the general condition of an older asset."
+        }
+      ]
+    },
     "heat-pump-solar-subsidy-greece": {
       headline: "Heat Pump and Rooftop Solar Subsidies in Greece 2026",
       description: "Greece subsidizes heat pumps and rooftop solar with battery storage. What foreign owners can claim in 2026, the flat rates, and how the schemes combine.",
@@ -240,7 +268,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-07-03",
+      dateModified: "2026-07-08",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -268,7 +296,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property CapEx Planning Greece: 10-Year Cost Framework",
       description: "The acquisition price is not the cost of ownership. A technical condition assessment projects what a Greek property will require over 10 years before you commit.",
       datePublished: "2026-05-04",
-      dateModified: "2026-06-26",
+      dateModified: "2026-07-08",
       faqs: [
         {
           question: "What is a property condition assessment in Greece?",
@@ -392,7 +420,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-07-03",
+      dateModified: "2026-07-08",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
