@@ -8,7 +8,7 @@ window.addEventListener('DOMContentLoaded', function() {
       faqs: [
         {
           question: "What is a snagging survey?",
-          answer: "A snagging survey is an independent inspection of a new-build or fully renovated property carried out at or near handover. It documents construction and finishing defects, tests MEP systems including electrical, plumbing and HVAC, and produces an itemized, photographed report the owner can use to require the contractor to fix issues before final payment or the defects period expires."
+          answer: "A snagging survey is an independent inspection of a new-build or fully renovated property carried out at or near handover. It documents construction and finishing defects, visually inspects and functionally checks MEP installations including electrical, plumbing and HVAC, and produces an itemized, photographed report the owner can use to require the contractor to fix issues before final payment or the defects period expires."
         },
         {
           question: "Does Greece have a legal requirement for a snagging survey?",
@@ -28,11 +28,39 @@ window.addEventListener('DOMContentLoaded', function() {
         }
       ]
     },
+    "energy-upgrade-holiday-home-greece": {
+      headline: "Energy Upgrading a Holiday Home in Greece",
+      description: "The main Greek energy grant is for primary residences only. How to upgrade a holiday home on a privately financed basis, and why it still pays.",
+      datePublished: "2026-07-10",
+      dateModified: "2026-07-10",
+      faqs: [
+        {
+          question: "Can a holiday home get the Greek energy upgrade grant?",
+          answer: "No. The flagship Exoikonomo renovation grant is for primary residences only, so a second or holiday home does not qualify. The upgrade is done on a privately financed basis instead, with a narrower, value-led scope."
+        },
+        {
+          question: "Is any state support available for a second home in Greece?",
+          answer: "Possibly. The rooftop solar with battery storage program has in some cycles been tied to the electricity meter rather than to primary-residence status, which can reach holiday homes. Eligibility must be verified against the current cycle before it is counted on."
+        },
+        {
+          question: "Do Greek minimum energy standards apply to holiday homes?",
+          answer: "Yes, as currently drafted the standards apply to existing buildings without a primary-residence exemption. Thresholds and dates are not yet fixed in Greek law, but a poorly rated second home faces the same direction of travel at sale or lease as any other property."
+        },
+        {
+          question: "Will ETS2 make a Greek holiday home more expensive to run?",
+          answer: "If the house heats with oil or gas, yes. From 2027 the EU second emissions trading system is set to put a carbon price on fuels burned in buildings. A house that has switched to a heat pump running partly on rooftop solar is largely outside that exposure."
+        },
+        {
+          question: "What should a privately financed holiday-home upgrade prioritize?",
+          answer: "Fabric first, then system, then solar: insulation and glazing to cut the load, a heat pump that both heats and cools, and rooftop solar to run it cheaply. Done in that order, each measure makes the next one smaller and cheaper."
+        }
+      ]
+    },
     "heat-pump-solar-subsidy-greece": {
       headline: "Heat Pump and Rooftop Solar Subsidies in Greece 2026",
       description: "Greece subsidizes heat pumps and rooftop solar with battery storage. What foreign owners can claim in 2026, the flat rates, and how the schemes combine.",
       datePublished: "2026-07-06",
-      dateModified: "2026-07-06",
+      dateModified: "2026-07-10",
       faqs: [
         {
           question: "Is there a heat pump subsidy in Greece?",
@@ -84,7 +112,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
       datePublished: "2026-07-01",
-      dateModified: "2026-07-06",
+      dateModified: "2026-07-10",
       faqs: [
         {
           question: "What are MEPS in Greece?",
@@ -320,11 +348,11 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-10",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
-          answer: "The minimum investment is €400,000 for properties in Attica, Thessaloniki, Mykonos, Santorini and islands with populations above 3,100. A €250,000 threshold applies to commercial-to-residential conversions and listed heritage buildings across Greece. The qualifying property must be a single asset of at least 120 square metres and cannot be used for short-term rental."
+          answer: "The minimum investment is €800,000 for properties in Attica, Thessaloniki, Mykonos, Santorini and islands with populations above 3,100, and €400,000 in the rest of Greece. A €250,000 threshold applies to commercial-to-residential conversions and listed heritage buildings across Greece. The qualifying property must be a single asset of at least 120 square metres and cannot be used for short-term rental."
         },
         {
           question: "Can I buy any property for the Greece Golden Visa?",
