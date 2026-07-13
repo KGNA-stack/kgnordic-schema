@@ -1,10 +1,34 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "buying-villa-mykonos-technical-due-diligence": {
+      headline: "Mykonos Villa: Technical Due Diligence Guide",
+      description: "Mykonos carries Greece's highest property prices, not its highest build quality. What technical due diligence on a Mykonos villa covers, and why.",
+      datePublished: "2026-07-13",
+      dateModified: "2026-07-13",
+      faqs: [
+        {
+          question: "Do I really need due diligence on a brand-new villa in Mykonos?",
+          answer: "Yes, arguably more than on an older house. A new build has no history to learn from, and its completion certificate confirms permit compliance, not workmanship. Independent verification at or before handover is the only point where defects are still the contractor's problem instead of yours."
+        },
+        {
+          question: "How much does a property inspection or technical due diligence cost on Mykonos?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size and complexity of the asset. On Mykonos acquisition values, that is a fraction of one percent of the purchase price, set against defect and regularization exposure that routinely reaches six figures."
+        },
+        {
+          question: "What is the Golden Visa threshold for property on Mykonos?",
+          answer: "Mykonos is in Zone A under Law 5100/2024, so the minimum qualifying investment is 800,000 euros in a single property, held for the duration of the residency. That concentration is exactly why the technical condition of the asset should be verified before the investment is committed."
+        },
+        {
+          question: "What are the most common technical problems in Mykonos villas?",
+          answer: "Waterproofing failures at pools, terraces and flat roofs, salt-driven corrosion in exposed steel and concrete, unpermitted extensions such as closed-in semi-outdoor areas and converted basements, and water or power installations undersized for peak-season use. Most are invisible at a viewing and all are expensive at Mykonos remediation prices."
+        }
+      ]
+    },
     "snagging-survey-greece-new-build-villa": {
       headline: "Snagging Survey Greece: New-Build Villa Inspection",
       description: "A snagging survey documents defects before a new-build Greek villa is accepted. What it covers, what it costs, and the window that closes fast.",
       datePublished: "2026-07-08",
-      dateModified: "2026-07-08",
+      dateModified: "2026-07-13",
       faqs: [
         {
           question: "What is a snagging survey?",
@@ -348,7 +372,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-10",
+      dateModified: "2026-07-13",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -544,7 +568,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Building Survey Greece: The UK Buyer's Guide",
       description: "What UK buyers call a building survey does not exist in Greece in the same form. What independent technical assessment covers, what it costs, and what British buyers get wrong.",
       datePublished: "2026-06-05",
-      dateModified: "2026-06-14",
+      dateModified: "2026-07-13",
       faqs: [
         {
           question: "What is the equivalent of a UK building survey in Greece?",
