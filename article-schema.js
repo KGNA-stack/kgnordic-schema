@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "hidden-costs-of-buying-property-in-greece": {
+      headline: "Hidden Costs of Buying Property in Greece (2026)",
+      description: "Transfer tax, notary and agent fees are only the start. The hidden costs of buying property in Greece include unpermitted construction and structural risk.",
+      datePublished: "2026-07-15",
+      dateModified: "2026-07-15",
+      faqs: [
+        {
+          question: "What are the total costs of buying property in Greece?",
+          answer: "On a standard resale, plan for closing costs of roughly 8 to 12 percent above the purchase price. The main components are property transfer tax at 3.09 percent of the taxable value, notary fees of around 0.8 to 1 percent plus VAT, legal fees of 1 to 2 percent, an agent fee commonly 2 percent plus VAT, and registration of about 0.5 percent. These figures exclude any technical or repair costs identified on the property."
+        },
+        {
+          question: "What hidden costs do foreign buyers in Greece miss?",
+          answer: "The costs most often missed are technical rather than administrative. Regularizing unpermitted construction, which transfers to the buyer with the title, can run from a few thousand to tens of thousands of euros. The electronic building identity required to transfer carries its own engineer fee, and structural problems such as chloride corrosion in coastal concrete are invisible at a viewing but expensive to remediate. None of these appear on a standard fee schedule."
+        },
+        {
+          question: "How much is property transfer tax in Greece?",
+          answer: "Property transfer tax is 3.09 percent of the taxable value, which is the objective value set by the tax authority rather than the agreed price. New builds sold by a developer can fall under 24 percent VAT instead, although a long-running suspension has kept most transfers under the transfer tax. The tax is paid before the contract is signed at the notary."
+        },
+        {
+          question: "Do you pay annual property tax in Greece?",
+          answer: "Yes. ENFIA, the unified property tax, is charged every year based on the property's size, location, age and objective value. A separate municipal duty, TAP, runs at 0.025 to 0.035 percent of the objective value and is collected through the electricity bill. Both continue for as long as the property is held."
+        },
+        {
+          question: "How much does it cost to check a property before buying in Greece?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the asset type and location. A preliminary remote asset review can be arranged from documents and public records before a site visit. Against typical closing costs and an unknown regularization bill, this is the smallest and most useful number in the transaction."
+        }
+      ]
+    },
     "buying-villa-mykonos-technical-due-diligence": {
       headline: "Mykonos Villa: Technical Due Diligence Guide",
       description: "Mykonos carries Greece's highest property prices, not its highest build quality. What technical due diligence on a Mykonos villa covers, and why.",
@@ -112,7 +140,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Can You Buy Property in Greece Without an Inspection?",
       description: "No Greek law requires a property inspection before you buy. What the notary and the sellers engineer actually check, and the risk nobody checks for you.",
       datePublished: "2026-07-03",
-      dateModified: "2026-07-03",
+      dateModified: "2026-07-15",
       faqs: [
         {
           question: "Is a property inspection legally required when buying property in Greece?",
@@ -248,7 +276,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-15",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -472,7 +500,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-07-08",
+      dateModified: "2026-07-15",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
