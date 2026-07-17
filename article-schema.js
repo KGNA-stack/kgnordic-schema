@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "make-greek-home-energy-efficient": {
+      headline: "Make an Older Greek Home Energy Efficient",
+      description: "A practical guide to upgrading an older Greek house: insulation, glazing, heat pump and solar, in the order that cuts both the bills and the budget.",
+      datePublished: "2026-07-17",
+      dateModified: "2026-07-17",
+      faqs: [
+        {
+          question: "What is the most cost-effective way to make a Greek home energy efficient?",
+          answer: "Start with the building fabric, insulation and glazing, before buying equipment. A tight envelope lets you fit a heating and cooling system one or two capacity classes smaller, so the order of works directly decides both the total cost and the yearly savings."
+        },
+        {
+          question: "Do I need insulation in a hot country like Greece?",
+          answer: "Yes. Insulation keeps summer heat out as much as it keeps winter warmth in, so in the Greek climate the cooling benefit is worth as much as the heating one. Combined with external shading and a light roof finish, it is what shrinks the cooling system the house needs."
+        },
+        {
+          question: "What heating system is best for an older Greek house?",
+          answer: "A modern heat pump is the default. It heats and cools from one unit, delivers roughly three to four units of output per unit of electricity, and replaces both the oil boiler and aging air conditioners. Fossil-boiler subsidies have ended across the EU and ETS2 is set to price carbon into heating oil from 2027."
+        },
+        {
+          question: "Will upgrading an older home improve its energy rating?",
+          answer: "Yes. The measures that make the house comfortable are the same ones that lift its energy performance certificate class, and grant-funded work must document an improvement of at least one class with a certificate before and after the works."
+        },
+        {
+          question: "Can this work be grant-funded in Greece?",
+          answer: "Where the home is a primary residence, most of it can be, with rates and eligible costs confirmed each cycle. A holiday home upgrades on a privately financed basis. The Eligibility Check confirms which route applies to a specific property."
+        }
+      ]
+    },
     "hidden-costs-of-buying-property-in-greece": {
       headline: "Hidden Costs of Buying Property in Greece (2026)",
       description: "Transfer tax, notary and agent fees are only the start. The hidden costs of buying property in Greece include unpermitted construction and structural risk.",
@@ -164,7 +192,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
       datePublished: "2026-07-01",
-      dateModified: "2026-07-10",
+      dateModified: "2026-07-17",
       faqs: [
         {
           question: "What are MEPS in Greece?",
@@ -656,7 +684,7 @@ window.addEventListener('DOMContentLoaded', function() {
     headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
     description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
     datePublished: "2026-06-10",
-    dateModified: "2026-06-26",
+    dateModified: "2026-07-17",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
