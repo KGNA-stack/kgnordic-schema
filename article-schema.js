@@ -32,7 +32,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Hidden Costs of Buying Property in Greece (2026)",
       description: "Transfer tax, notary and agent fees are only the start. The hidden costs of buying property in Greece include unpermitted construction and structural risk.",
       datePublished: "2026-07-15",
-      dateModified: "2026-07-15",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What are the total costs of buying property in Greece?",
@@ -60,7 +60,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Mykonos Villa: Technical Due Diligence Guide",
       description: "Mykonos carries Greece's highest property prices, not its highest build quality. What technical due diligence on a Mykonos villa covers, and why.",
       datePublished: "2026-07-13",
-      dateModified: "2026-07-13",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "Do I really need due diligence on a brand-new villa in Mykonos?",
@@ -84,7 +84,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Snagging Survey Greece: New-Build Villa Inspection",
       description: "A snagging survey documents defects before a new-build Greek villa is accepted. What it covers, what it costs, and the window that closes fast.",
       datePublished: "2026-07-08",
-      dateModified: "2026-07-13",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What is a snagging survey?",
@@ -304,7 +304,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-07-15",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -328,7 +328,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Illegal Constructions Greece: What Buyers Inherit",
       description: "Illegal constructions in Greece transfer to the buyer on purchase. Fines range from EUR 200 to 2,000 per sqm or demolition. What to find before you sign.",
       datePublished: "2026-03-11",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "Do illegal constructions transfer to the buyer in Greece?",
@@ -376,7 +376,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-07-08",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -404,7 +404,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property CapEx Planning Greece: 10-Year Cost Framework",
       description: "The acquisition price is not the cost of ownership. A technical condition assessment projects what a Greek property will require over 10 years before you commit.",
       datePublished: "2026-05-04",
-      dateModified: "2026-07-08",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What is a property condition assessment in Greece?",
@@ -428,7 +428,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-13",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -456,7 +456,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "How to Check for Illegal Constructions in Greece Before You Buy",
       description: "Most illegal constructions in Greece are invisible to buyers without a permit check. Here is exactly how to identify them before contracts are signed.",
       datePublished: "2026-05-13",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "Can a lawyer identify illegal constructions in Greece?",
@@ -480,7 +480,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -528,7 +528,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-07-15",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
@@ -648,7 +648,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-06-24",
+      dateModified: "2026-07-19",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
