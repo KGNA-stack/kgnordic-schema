@@ -456,7 +456,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "How to Check for Illegal Constructions in Greece Before You Buy",
       description: "Most illegal constructions in Greece are invisible to buyers without a permit check. Here is exactly how to identify them before contracts are signed.",
       datePublished: "2026-05-13",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-20",
       faqs: [
         {
           question: "Can a lawyer identify illegal constructions in Greece?",
@@ -473,6 +473,30 @@ window.addEventListener('DOMContentLoaded', function() {
         {
           question: "Who carries out an illegal construction check in Greece?",
           answer: "An independent technical advisor carries out the permit file review and physical cross-check. This is separate from a lawyer's role in the transaction. The assessment covers the planning authority file, comparison against the physical structure and documented discrepancies in a written report."
+        }
+      ]
+    },
+    "building-permit-due-diligence-greece": {
+      headline: "Building Permit Due Diligence in Greece",
+      description: "What to verify in a Greek building permit file before you buy: drawings, structural study, Building Identity, and the mismatches that cost buyers.",
+      datePublished: "2026-07-20",
+      dateModified: "2026-07-20",
+      faqs: [
+        {
+          question: "What is building permit due diligence in Greece?",
+          answer: "It is the buyer-side verification that the physical building matches its approved permit file: the architectural drawings, structural study, site plan and permit certificate held by the planning authority. It identifies unpermitted additions and conversions before they become the buyer's legal and financial problem at transfer."
+        },
+        {
+          question: "Does the Electronic Building Identity prove a property is legal?",
+          answer: "Not by itself. The Building Identity under Law 4495/2017 is a digital dossier compiled from documents and declarations, usually by an engineer engaged by the seller. It records what has been declared, not what an independent measurement finds on site, so it should be read alongside the original permit file, not instead of it."
+        },
+        {
+          question: "What happens if I buy a property with unpermitted construction in Greece?",
+          answer: "The exposure transfers with the property. Unpermitted works must be regularized under Law 4495/2017, with fines based on the size and category of the violation, and Greece's settlement deadline for older violations now runs to 2028 under Law 5261/2025. Whatever is unsettled at transfer becomes the new owner's cost and risk."
+        },
+        {
+          question: "Who verifies the permit file when I buy property in Greece?",
+          answer: "In the standard transaction, effectively no one on the buyer's side. The notary handles the contract, the lawyer checks title, and the seller's engineer certifies compliance from documents. An independent technical advisor engaged by the buyer is the only party who measures the building against its permits, typically as part of a property inspection or technical due diligence starting from 5,000 euros."
         }
       ]
     },
@@ -504,7 +528,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece Illegal Construction Law 5261/2025: 2028 Deadline",
       description: "Greece extended the illegal construction regularization deadline to March 2028 under Law 5261/2025. What this means for foreign buyers and what it does not change.",
       datePublished: "2026-05-18",
-      dateModified: "2026-07-01",
+      dateModified: "2026-07-20",
       faqs: [
         {
           question: "What does Law 5261/2025 change for property buyers in Greece?",
@@ -648,7 +672,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-20",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
