@@ -820,11 +820,11 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "TDD vs Property Inspection Greece: Which Do You Need?",
   description: "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
   datePublished: "2026-06-15",
-  dateModified: "2026-06-25",
+  dateModified: "2026-07-21",
   faqs: [
     {
       question: "What is the difference between a house inspection and technical due diligence in Greece?",
-      answer: "A house inspection, also called a property inspection, building survey or property survey depending on the buyer's nationality, covers structural condition, permit compliance, building systems and deferred capital expenditure. It is appropriate for most private residential acquisitions. Technical due diligence is a more extensive mandate covering full MEP systems review, regulatory compliance mapping, formal CapEx modelling and a report structure suitable for lenders, investment committees or legal negotiations. TDD is the right instrument for acquisitions above approximately 500,000 euros, hospitality assets and institutional purchases."
+      answer: "A house inspection, also called a property inspection, building survey or property survey depending on the buyer's nationality, covers structural condition, permit compliance, building systems and deferred capital expenditure. It is appropriate for most private residential acquisitions. Technical due diligence is a more extensive mandate covering MEP systems review at operational depth, regulatory compliance mapping, formal CapEx modelling and a report structure suitable for lenders, investment committees or legal negotiations. TDD is the right instrument for hospitality assets, multi-unit developments and institutional purchases, and becomes increasingly likely as acquisition value rises above approximately 500,000 euros, though value alone never decides it."
     },
     {
       question: "Is a property survey the same as a property inspection in Greece?",
@@ -832,7 +832,7 @@ window.addEventListener('DOMContentLoaded', function() {
     },
     {
       question: "Do I need TDD or a property inspection for a Greek villa purchase?",
-      answer: "For most private villa purchases below 500,000 euros, an independent property inspection is the appropriate scope. TDD becomes relevant above 500,000 euros, if the report needs to support financing or co-investor review, or if the acquisition includes a hospitality or development component."
+      answer: "For most straightforward private villa purchases, particularly below 500,000 euros, an independent property inspection is the appropriate scope. TDD becomes the right instrument as value rises above 500,000 euros, if the report needs to support financing or co-investor review, or if the acquisition includes a hospitality or development component. Complexity and reporting audience matter more than the price alone."
     },
     {
       question: "When should I commission a property inspection in Greece?",
