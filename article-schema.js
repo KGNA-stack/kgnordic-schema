@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "greece-golden-visa-from-dubai": {
+      headline: "Greece Golden Visa from Dubai: Technical Checklist",
+      description: "What Dubai and UAE based buyers should verify before committing to a Greece golden visa property: permit file, Building Identity, pricing and capex.",
+      datePublished: "2026-07-22",
+      dateModified: "2026-07-22",
+      faqs: [
+        {
+          question: "Can I get a Greece golden visa while living in Dubai?",
+          answer: "Yes. The purchase and the application can be completed while resident in the UAE, typically through a Greek lawyer acting under power of attorney. Residency in Greece is not required to hold the permit. The practical risk is not the process but the asset: remote buyers rarely have anyone independent verify the building before committing."
+        },
+        {
+          question: "Can I buy Greek property without visiting Greece?",
+          answer: "Legally yes, and it happens routinely through power of attorney. Technically, the document phase can be handled remotely through a remote asset review, but the building itself should be inspected on site before contracts are signed. The inspection is carried out by an independent technical advisor, so the buyer does not need to travel for it."
+        },
+        {
+          question: "What should I verify before buying a golden visa property from Dubai?",
+          answer: "Four things, in order: the building permit file from the planning authority, the Electronic Building Identity read against that file, the category and payment status of any regularization declarations, and an independent measurement of the building against its approved drawings. Price and yield only mean something after those four checks."
+        },
+        {
+          question: "How much does an independent inspection cost for a golden visa property?",
+          answer: "A property inspection in Greece starts from 5,000 euros, scaled to the size and complexity of the asset. Set against a purchase at the 400,000 or 800,000 euro threshold, it is the smallest number in the transaction, and it is the only spend whose purpose is to find reasons not to proceed."
+        }
+      ]
+    },
     "make-greek-home-energy-efficient": {
       headline: "Make an Older Greek Home Energy Efficient",
       description: "A practical guide to upgrading an older Greek house: insulation, glazing, heat pump and solar, in the order that cuts both the bills and the budget.",
@@ -304,7 +328,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-22",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -376,7 +400,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -404,7 +428,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property CapEx Planning Greece: 10-Year Cost Framework",
       description: "The acquisition price is not the cost of ownership. A technical condition assessment projects what a Greek property will require over 10 years before you commit.",
       datePublished: "2026-05-04",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What is a property condition assessment in Greece?",
@@ -428,7 +452,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-22",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -504,7 +528,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-22",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -528,7 +552,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece Illegal Construction Law 5261/2025: 2028 Deadline",
       description: "Greece extended the illegal construction regularization deadline to March 2028 under Law 5261/2025. What this means for foreign buyers and what it does not change.",
       datePublished: "2026-05-18",
-      dateModified: "2026-07-20",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What does Law 5261/2025 change for property buyers in Greece?",
@@ -552,7 +576,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
@@ -576,7 +600,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property Inspection Crete: Foreign Buyer's Guide",
       description: "Crete sits in seismic Zone 4. Active demolitions of illegal coastal structures began in January 2026. What a property inspection in Crete must cover before you commit.",
       datePublished: "2026-05-22",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What are the specific risks of buying property in Crete?",
@@ -600,7 +624,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "How to Choose a Property Inspector in Athens",
       description: "Foreign buyers account for 40% of Athens transactions. Properties sell in 58 days. Here is how to choose an inspector who protects you, not the deal.",
       datePublished: "2026-05-25",
-      dateModified: "2026-06-09",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "How do I find an independent property inspector in Athens?",
@@ -648,7 +672,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Building Survey Greece: The UK Buyer's Guide",
       description: "What UK buyers call a building survey does not exist in Greece in the same form. What independent technical assessment covers, what it costs, and what British buyers get wrong.",
       datePublished: "2026-06-05",
-      dateModified: "2026-07-13",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What is the equivalent of a UK building survey in Greece?",
@@ -672,7 +696,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-07-20",
+      dateModified: "2026-07-21",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
