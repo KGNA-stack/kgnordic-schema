@@ -108,7 +108,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Mykonos Villa: Technical Due Diligence Guide",
       description: "Mykonos carries Greece's highest property prices, not its highest build quality. What technical due diligence on a Mykonos villa covers, and why.",
       datePublished: "2026-07-13",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-24",
       faqs: [
         {
           question: "Do I really need due diligence on a brand-new villa in Mykonos?",
@@ -528,7 +528,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Building Permit Due Diligence in Greece",
       description: "What to verify in a Greek building permit file before you buy: drawings, structural study, Building Identity, and the mismatches that cost buyers.",
       datePublished: "2026-07-20",
-      dateModified: "2026-07-20",
+      dateModified: "2026-07-24",
       faqs: [
         {
           question: "What is building permit due diligence in Greece?",
@@ -920,6 +920,34 @@ window.addEventListener('DOMContentLoaded', function() {
     }
   ]
 },
+    "technical-due-diligence-report-mykonos-villa": {
+      headline: "Technical Due Diligence Report: Mykonos Villa Guide",
+      description: "What a technical due diligence report for a Mykonos villa covers: permit checks, title risk and who verifies each part before you buy.",
+      datePublished: "2026-07-24",
+      dateModified: "2026-07-24",
+      faqs: [
+        {
+          question: "What is included in a technical due diligence report for a Greek villa?",
+          answer: "A permit cross-check measuring the built structure against its approved drawings, a visual and functional condition assessment of the structure and building systems, a summary of any title or regularization flags found on site, and a capital expenditure forecast for the holding period. Depending on complexity, the permit cross-check can be carried out by the independent technical advisor alone or alongside a licensed civil engineer or architect brought in for the control measurement."
+        },
+        {
+          question: "How do you verify a Mykonos property's building permit?",
+          answer: "Confirming that a permit number exists in Greece's digital registry only tells you the permit was issued, not that the building on the plot today matches the drawings filed under it. Verification means an on-site measurement of the physical structure against the approved permit drawings, room by room, which is why this is done as part of a property inspection or technical due diligence rather than through an online check alone."
+        },
+        {
+          question: "What is the process for legalizing illegal building works on Mykonos?",
+          answer: "Unpermitted works are regularized under Law 4495/2017 through an engineer-certified declaration and a fine based on the size and category of the violation. Greece extended the settlement deadline for older violations to 2028 under Law 5261/2025. Confirm the current status and requirements for any specific property with your legal advisor before relying on a declaration."
+        },
+        {
+          question: "What is the risk of buying a Mykonos property with an unverified title?",
+          answer: "Island properties often carry multi-generational inheritance chains and informally agreed boundaries that predate full land registry coverage on the islands. A title search can appear clean while sitting on an undocumented inheritance gap or a boundary a neighbor later disputes, which is why a site-based technical review should flag any occupation or boundary inconsistency alongside the legal title search rather than instead of it."
+        },
+        {
+          question: "What does a due diligence quote for a Mykonos villa cost?",
+          answer: "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to the size and complexity of the villa and the number of specialists the permit check requires. On a Mykonos acquisition, that is a small fraction of the purchase price set against regularization and defect exposure that routinely runs into six figures."
+        }
+      ]
+    },
   };
 
   var slug = window.location.pathname.split("/").filter(Boolean).pop();
