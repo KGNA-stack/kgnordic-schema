@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "ets2-greece-heating-costs": {
+      headline: "ETS2 Greece: Heating Costs Rise from 2027",
+      description: "From 2027 the EU's ETS2 puts a carbon price on heating fuel. What it means for Greek property owners, and how the same system funds the way out.",
+      datePublished: "2026-07-24",
+      dateModified: "2026-07-24",
+      faqs: [
+        {
+          question: "What is ETS2 and when does it start?",
+          answer: "ETS2 is the EU's second emissions trading system, extending carbon pricing to fuels used in buildings and road transport. Fuel suppliers must buy allowances from 2027 and the cost passes into retail fuel prices. A mechanism is designed to moderate the price around 45 euros per ton of CO2 in 2020 prices, but the final level will only be known once trading starts."
+        },
+        {
+          question: "How much will ETS2 add to heating costs in Greece?",
+          answer: "Indicatively, a carbon price near the 45 euro reference adds roughly 12 cents per liter of heating oil before VAT, on the order of a 10 percent increase at recent prices. A poorly insulated house burning 1,500 liters a season would pay an extra amount in the low hundreds of euros per year, rising if the carbon price runs higher."
+        },
+        {
+          question: "Does ETS2 apply to holiday homes in Greece?",
+          answer: "Yes. The carbon price is charged on the fuel, not the owner's residency status, so an oil-heated holiday home carries the same exposure per liter. Holiday homes fall outside the main renovation grant and upgrade on a privately financed basis, though the rooftop solar scheme has in some cycles been tied to the meter rather than residency."
+        },
+        {
+          question: "What is the best way to escape ETS2 exposure?",
+          answer: "Reduce the demand, then change the fuel: insulation and glazing first, then a heat pump delivering three to four units of heat per unit of electricity, then rooftop solar to supply it. For primary residences in Greece most of this can currently be grant-funded, with support covering up to 80 percent of eligible costs, confirmed cycle by cycle."
+        }
+      ]
+    },
     "greece-golden-visa-from-dubai": {
       headline: "Greece Golden Visa from Dubai: Technical Checklist",
       description: "What Dubai and UAE based buyers should verify before committing to a Greece golden visa property: permit file, Building Identity, pricing and capex.",
@@ -164,7 +188,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Heat Pump and Rooftop Solar Subsidies in Greece 2026",
       description: "Greece subsidizes heat pumps and rooftop solar with battery storage. What foreign owners can claim in 2026, the flat rates, and how the schemes combine.",
       datePublished: "2026-07-06",
-      dateModified: "2026-07-10",
+      dateModified: "2026-07-24",
       faqs: [
         {
           question: "Is there a heat pump subsidy in Greece?",
@@ -216,7 +240,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
       datePublished: "2026-07-01",
-      dateModified: "2026-07-17",
+      dateModified: "2026-07-24",
       faqs: [
         {
           question: "What are MEPS in Greece?",
