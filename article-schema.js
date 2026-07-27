@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "basic-vs-premium-property-inspection-greece": {
+      headline: "Basic vs Premium Property Inspection in Greece",
+      description: "Not all property inspections in Greece are the same. What separates a basic walkthrough from a premium technical assessment, and why it matters.",
+      datePublished: "2026-07-27",
+      dateModified: "2026-07-27",
+      faqs: [
+        {
+          question: "What is the difference between a basic and a premium property inspection in Greece?",
+          answer: "A basic inspection is typically a short walkthrough completed in under an hour, producing a brief summary with limited photographs and no systematic cross-check against the property's documentation. A premium inspection covers every accessible room and system, cross-references findings against the permit and planning file, and runs to several hours on site before the written report is prepared. The scope, not the label on the report, is what separates the two."
+        },
+        {
+          question: "How long does a property inspection in Greece take?",
+          answer: "A basic walkthrough can be completed in under an hour. A properly conducted technical inspection covering the structure, envelope and accessible systems typically runs to several hours on site, followed by a further review at the desk where documents, photographs and drawings are checked against each other before the report is written. Larger or more complex properties take longer."
+        },
+        {
+          question: "Is a more expensive property inspection actually worth it?",
+          answer: "Yes, when the added cost reflects a wider scope rather than just a higher price for the same walkthrough. An inspection starting from €5,000 typically includes a full site review, cross-referencing against the property's permit documentation, and a written English-language report with findings categorised by severity. A basic inspection priced in the hundreds of euros is not built to deliver the same level of scrutiny, regardless of what it is called."
+        },
+        {
+          question: "What should I ask before commissioning a property inspection in Greece?",
+          answer: "Ask how long the site visit will run, whether the report cross-checks the property against its own permit and planning documentation, and whether the inspector has any commercial relationship with the seller, the agent or the developer. These questions apply regardless of budget and reveal more about the actual scope than the price alone."
+        }
+      ]
+    },
     "ets2-greece-heating-costs": {
       headline: "ETS2 Greece: Heating Costs Rise from 2027",
       description: "From 2027 the EU's ETS2 puts a carbon price on heating fuel. What it means for Greek property owners, and how the same system funds the way out.",
@@ -424,7 +448,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-07-21",
+      dateModified: "2026-07-27",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -600,7 +624,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "What Does a Building Survey in Greece Actually Cost?",
       description: "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
       datePublished: "2026-05-20",
-      dateModified: "2026-07-21",
+      dateModified: "2026-07-27",
       faqs: [
         {
           question: "How much does a building survey cost in Greece?",
@@ -648,7 +672,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "How to Choose a Property Inspector in Athens",
       description: "Foreign buyers account for 40% of Athens transactions. Properties sell in 58 days. Here is how to choose an inspector who protects you, not the deal.",
       datePublished: "2026-05-25",
-      dateModified: "2026-07-21",
+      dateModified: "2026-07-27",
       faqs: [
         {
           question: "How do I find an independent property inspector in Athens?",
