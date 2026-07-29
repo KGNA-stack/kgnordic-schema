@@ -1,5 +1,33 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "greece-golden-visa-conversion-route-risks": {
+      headline: "Greece Golden Visa Conversion Property: The Real Risks",
+      description: "Greece golden visa conversion property means buying an unfinished building. What commercial to residential conversion actually requires before you commit.",
+      datePublished: "2026-07-29",
+      dateModified: "2026-07-29",
+      faqs: [
+        {
+          question: "What is the Greece golden visa conversion route?",
+          answer: "It is a path to Greece's golden visa that qualifies at a 250,000 euro investment threshold anywhere in the country, by converting a commercial building into residential use. The property must be a single unit of at least 120 square metres, and the change of use has to be legally completed and certified before the residency application is submitted."
+        },
+        {
+          question: "Is the €250,000 Greece golden visa route safe?",
+          answer: "The threshold itself is legitimate and confirmed in the current programme rules, but the route carries construction and permitting risk that a standard resale purchase does not. Safety depends on the specific project: the permit status, the contractor's track record and the payment structure, not on the programme in general."
+        },
+        {
+          question: "What happens if the conversion is not finished before I apply?",
+          answer: "The golden visa application for a conversion property requires the change of use to be completed and certified first. If the permit or construction timeline slips, the residency application timeline slips with it, which is why permit status should be verified independently before funds are committed."
+        },
+        {
+          question: "Can I convert any commercial property for the golden visa?",
+          answer: "No. The property has to meet the minimum size requirement, obtain both a use-change permit and a renovation permit, and be purchased as a single qualifying investment. Eligible property types and documentation requirements should be confirmed with a licensed immigration lawyer, since programme rules are updated between cycles."
+        },
+        {
+          question: "What should an independent review check before I commit to a conversion project?",
+          answer: "It should confirm the current status of both permits against the developer's stated timeline, compare the marketed floor plan to the filed drawings, review the contractor's scope of works and the payment schedule, and flag any historical alterations to the building that predate the conversion project."
+        }
+      ]
+    },
     "basic-vs-premium-property-inspection-greece": {
       headline: "Basic vs Premium Property Inspection in Greece",
       description: "Not all property inspections in Greece are the same. What separates a basic walkthrough from a premium technical assessment, and why it matters.",
@@ -52,7 +80,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greece Golden Visa from Dubai: Technical Checklist",
       description: "What Dubai and UAE based buyers should verify before committing to a Greece golden visa property: permit file, Building Identity, pricing and capex.",
       datePublished: "2026-07-22",
-      dateModified: "2026-07-22",
+      dateModified: "2026-07-29",
       faqs: [
         {
           question: "Can I get a Greece golden visa while living in Dubai?",
@@ -400,7 +428,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Illegal Constructions Greece: What Buyers Inherit",
       description: "Illegal constructions in Greece transfer to the buyer on purchase. Fines range from EUR 200 to 2,000 per sqm or demolition. What to find before you sign.",
       datePublished: "2026-03-11",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-29",
       faqs: [
         {
           question: "Do illegal constructions transfer to the buyer in Greece?",
@@ -500,7 +528,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-22",
+      dateModified: "2026-07-29",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
