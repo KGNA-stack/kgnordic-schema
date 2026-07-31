@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "buy-energy-poor-house-greece": {
+      headline: "Buy an Energy-Poor Greek House: The Arbitrage",
+      description: "Why the cheapest house on a Greek street can be the best buy: the energy class discount, the grant that funds the upgrade, and the two checks first.",
+      datePublished: "2026-07-31",
+      dateModified: "2026-07-31",
+      faqs: [
+        {
+          question: "Is it a good idea to buy a house with a bad energy rating in Greece?",
+          answer: "It can be, deliberately. Energy-poor houses trade at a visible discount because the EPC is mandatory at every sale, and a buyer who upgrades captures the difference, with state support covering up to 80 percent of eligible costs where the house becomes a primary residence. The trade only works after an independent inspection confirms the discount is an energy discount, not a structural one."
+        },
+        {
+          question: "How much of the upgrade can Greek grants cover?",
+          answer: "For primary residences the current framework covers up to 80 percent of eligible costs, up to around 24,800 euros with an owner contribution near 5,000 euros, with figures confirmed each cycle. Holiday homes upgrade on a privately financed basis, though the rooftop solar scheme has in some cycles been tied to the meter rather than residency."
+        },
+        {
+          question: "Why will the discount on energy-poor Greek houses grow?",
+          answer: "Two EU instruments push the same way: minimum energy performance standards for existing buildings are moving into Greek law, and from 2027 the ETS2 carbon price raises the running cost of oil- and gas-heated homes season by season. Both deepen the price gap between efficient and inefficient stock."
+        },
+        {
+          question: "What should I check before buying an older, cheaper house in Greece?",
+          answer: "The building before the boiler: structure, moisture, roof, installations and the permit file, through an independent pre-purchase inspection starting from 5,000 euros. Then the upgrade scope and its realistic cost, priced independently and in the right order, so the total acquisition cost can be negotiated against the purchase price before the deposit commits."
+        }
+      ]
+    },
     "greece-golden-visa-conversion-route-risks": {
       headline: "Greece Golden Visa Conversion Property: The Real Risks",
       description: "Greece golden visa conversion property means buying an unfinished building. What commercial to residential conversion actually requires before you commit.",
@@ -132,7 +156,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Hidden Costs of Buying Property in Greece (2026)",
       description: "Transfer tax, notary and agent fees are only the start. The hidden costs of buying property in Greece include unpermitted construction and structural risk.",
       datePublished: "2026-07-15",
-      dateModified: "2026-07-19",
+      dateModified: "2026-07-31",
       faqs: [
         {
           question: "What are the total costs of buying property in Greece?",
@@ -320,7 +344,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "EPC in Greece: Why Every Sale Needs One",
       description: "Greece requires an energy performance certificate at every sale and after major renovation. What an EPC is, what it costs and why buyers should read it.",
       datePublished: "2026-06-29",
-      dateModified: "2026-07-06",
+      dateModified: "2026-07-31",
       faqs: [
         {
           question: "Is an EPC required to sell property in Greece?",
@@ -808,7 +832,7 @@ window.addEventListener('DOMContentLoaded', function() {
     headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
     description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
     datePublished: "2026-06-10",
-    dateModified: "2026-07-17",
+    dateModified: "2026-07-31",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
