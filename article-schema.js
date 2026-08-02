@@ -1000,7 +1000,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Report: Mykonos Villa Guide",
       description: "What a technical due diligence report for a Mykonos villa covers: permit checks, title risk and who verifies each part before you buy.",
       datePublished: "2026-07-24",
-      dateModified: "2026-07-24",
+      dateModified: "2026-08-02",
       faqs: [
         {
           question: "What is included in a technical due diligence report for a Greek villa?",
@@ -1020,7 +1020,7 @@ window.addEventListener('DOMContentLoaded', function() {
         },
         {
           question: "What does a due diligence quote for a Mykonos villa cost?",
-          answer: "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to the size and complexity of the villa and the number of specialists the permit check requires. On a Mykonos acquisition, that is a small fraction of the purchase price set against regularization and defect exposure that routinely runs into six figures."
+          answer: "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to size and complexity. For a large or multi-structure Mykonos property in the seven or eight-figure range, the fee scales with the number of buildings, the specialist inputs the permit check requires, and whether a licensed engineer is brought in alongside the technical advisor for the control measurement, but it remains a small fraction of the acquisition price set against the regularization and defect exposure such properties typically carry. An exact scope and fee follow a short scoping call, not a fixed table."
         }
       ]
     },
