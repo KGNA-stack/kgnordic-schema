@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "golden-visa-property-due-diligence-greece": {
+      headline: "Golden Visa Greece: 800k Due Diligence Guide",
+      description: "Golden Visa property due diligence in Greece: why the 800,000 euro threshold concentrates risk, and what to verify before the investment is committed.",
+      datePublished: "2026-08-03",
+      dateModified: "2026-08-03",
+      faqs: [
+        {
+          question: "What are the Golden Visa investment thresholds in Greece?",
+          answer: "Under Law 5100/2024, 800,000 euros in Zone A, which covers Attica, Thessaloniki, Mykonos, Santorini and islands with larger populations, and 400,000 euros in the rest of Greece, in a single property. A lower 250,000 euro route exists for conversions of former commercial buildings and restorations of listed buildings, subject to its own conditions."
+        },
+        {
+          question: "Does the Golden Visa process include any inspection of the property?",
+          answer: "No. The process verifies the investment amount, the title and the immigration file. No authority or professional in the mandatory chain assesses the building's condition or measures it against its permits. Technical verification happens only if the investor commissions it independently."
+        },
+        {
+          question: "Why does the five-year holding period change the due diligence?",
+          answer: "Because the investor cannot exit without ending the residency, defects discovered after purchase are repaired at the owner's cost rather than negotiated or walked away from. Due diligence therefore prices the asset's condition across the full holding period, including the capital expenditure it will demand, not just its state on signing day."
+        },
+        {
+          question: "How much does technical due diligence cost for a Golden Visa property?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, with technical due diligence scoped to the size and complexity of the asset. Against a mandatory minimum investment of 400,000 or 800,000 euros held for five years, it is well under one percent of the exposure it verifies."
+        }
+      ]
+    },
     "buy-energy-poor-house-greece": {
       headline: "Buy an Energy-Poor Greek House: The Arbitrage",
       description: "Why the cheapest house on a Greek street can be the best buy: the energy class discount, the grant that funds the upgrade, and the two checks first.",
@@ -552,7 +576,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-07-29",
+      dateModified: "2026-08-03",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -772,7 +796,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Building Survey Greece: The UK Buyer's Guide",
       description: "What UK buyers call a building survey does not exist in Greece in the same form. What independent technical assessment covers, what it costs, and what British buyers get wrong.",
       datePublished: "2026-06-05",
-      dateModified: "2026-07-21",
+      dateModified: "2026-08-03",
       faqs: [
         {
           question: "What is the equivalent of a UK building survey in Greece?",
@@ -796,7 +820,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-07-21",
+      dateModified: "2026-08-03",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
