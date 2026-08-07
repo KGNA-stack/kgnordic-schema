@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "heat-pump-vs-oil-heating-cost-greece": {
+      headline: "Heat Pump vs Oil Heating Cost in Greece: 2026",
+      description: "Five heat pump brands common in Greece, how one unit heats and cools, and a calculation example comparing heat pump and oil boiler running costs.",
+      datePublished: "2026-08-07",
+      dateModified: "2026-08-07",
+      faqs: [
+        {
+          question: "Can the same heat pump that cools my house in summer also heat it in winter?",
+          answer: "Yes, provided it is a reversible unit, which almost all modern air-to-air split systems are. A reversing valve switches the direction of the refrigerant cycle, so the same outdoor and indoor units that extract heat from the room in summer extract heat from the outside air in winter. Central heating systems feeding radiators or underfloor pipework are usually a separate, heating-only installation."
+        },
+        {
+          question: "What heat pump brands are most common in Greece?",
+          answer: "Daikin, Mitsubishi Electric, LG, Hitachi and Panasonic are the five names that appear consistently across independent Greek buying guides and installer catalogs, covering both reversible wall-mounted splits and central-heating monobloc or hydronic systems. No official national sales-share data is published at model level, so this reflects market presence and buyer familiarity rather than a verified sales ranking."
+        },
+        {
+          question: "How much cheaper is a heat pump than an oil boiler in Greece?",
+          answer: "In a calculation example using current Greek electricity and heating oil prices, a heat pump delivered a kWh of heat for roughly 4.5 cents against close to 15.9 cents for an oil boiler, a difference in the region of 60 to 75 percent depending on the specific tariff, oil price and equipment involved. The real figure for any given property depends on its insulation, the size and age of the boiler, and how the heat pump is sized and used."
+        },
+        {
+          question: "What coefficient of performance (COP) should I expect from a heat pump in a Greek winter?",
+          answer: "Manufacturer test data for modern inverter units typically shows a COP in the range of 3.3 to 3.9 at 2 degrees Celsius outdoor air, rising to roughly 4.1 to 5.2 at 7 degrees, both measured to the EN14511 standard. At the milder end of a typical Greek winter, a COP around 3.8 to 4.2 is a reasonable expectation for a correctly sized modern unit."
+        }
+      ]
+    },
     "golden-visa-property-due-diligence-greece": {
       headline: "Golden Visa Greece: 800k Due Diligence Guide",
       description: "Golden Visa property due diligence in Greece: why the 800,000 euro threshold concentrates risk, and what to verify before the investment is committed.",
@@ -28,7 +52,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buy an Energy-Poor Greek House: The Arbitrage",
       description: "Why the cheapest house on a Greek street can be the best buy: the energy class discount, the grant that funds the upgrade, and the two checks first.",
       datePublished: "2026-07-31",
-      dateModified: "2026-07-31",
+      dateModified: "2026-08-07",
       faqs: [
         {
           question: "Is it a good idea to buy a house with a bad energy rating in Greece?",
@@ -104,7 +128,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "ETS2 Greece: Heating Costs Rise from 2027",
       description: "From 2027 the EU's ETS2 puts a carbon price on heating fuel. What it means for Greek property owners, and how the same system funds the way out.",
       datePublished: "2026-07-24",
-      dateModified: "2026-07-24",
+      dateModified: "2026-08-07",
       faqs: [
         {
           question: "What is ETS2 and when does it start?",
@@ -288,7 +312,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Heat Pump and Rooftop Solar Subsidies in Greece 2026",
       description: "Greece subsidizes heat pumps and rooftop solar with battery storage. What foreign owners can claim in 2026, the flat rates, and how the schemes combine.",
       datePublished: "2026-07-06",
-      dateModified: "2026-07-24",
+      dateModified: "2026-08-07",
       faqs: [
         {
           question: "Is there a heat pump subsidy in Greece?",
