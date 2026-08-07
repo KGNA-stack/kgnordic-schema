@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: 800k Due Diligence Guide",
       description: "Golden Visa property due diligence in Greece: why the 800,000 euro threshold concentrates risk, and what to verify before the investment is committed.",
       datePublished: "2026-08-03",
-      dateModified: "2026-08-03",
+      dateModified: "2026-08-07",
       faqs: [
         {
           question: "What are the Golden Visa investment thresholds in Greece?",
@@ -1048,7 +1048,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Report: Mykonos Villa Guide",
       description: "What a technical due diligence report for a Mykonos villa covers: permit checks, title risk and who verifies each part before you buy.",
       datePublished: "2026-07-24",
-      dateModified: "2026-08-02",
+      dateModified: "2026-08-07",
       faqs: [
         {
           question: "What is included in a technical due diligence report for a Greek villa?",
