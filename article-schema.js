@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "remote-property-review-greece": {
+      headline: "Remote Property Review Greece: Buy from Abroad",
+      description: "How foreign buyers evaluate Greek property from abroad: what a remote asset review verifies from documents, and what still needs an on-site inspection.",
+      datePublished: "2026-08-10",
+      dateModified: "2026-08-10",
+      faqs: [
+        {
+          question: "Can I buy property in Greece without visiting it?",
+          answer: "Legally yes, with a power of attorney the entire transaction can complete remotely. The risk is not the mechanics but the information: everything a remote buyer knows typically comes from parties paid on completion. Independent remote screening followed by an on-site inspection replaces that with verified information."
+        },
+        {
+          question: "What does a remote asset review of a Greek property check?",
+          answer: "It cross-checks the listing against permit documents and the Electronic Building Identity, reviews regularization declarations under Law 4495/2017, reads the energy performance certificate, and checks the plot against cadastral records and satellite imagery. It identifies inconsistencies, missing documents and unsettled exposure before the buyer commits to anything."
+        },
+        {
+          question: "Is a remote review a substitute for a property inspection?",
+          answer: "No. Documents cannot reveal moisture, structural condition or the state of installations. The remote review decides whether a property justifies an on-site inspection, and the inspection, starting from 5,000 euros with an independent technical advisor, decides whether it justifies a contract. They are sequential steps, not alternatives."
+        },
+        {
+          question: "How long does a remote asset review take?",
+          answer: "Typically within 7 working days of receiving the property details, subject to how quickly the seller's side produces documents. A seller who cannot produce the permit file within a reasonable time is itself a meaningful finding, and the review reports it as one."
+        }
+      ]
+    },
     "heat-pump-vs-oil-heating-cost-greece": {
       headline: "Heat Pump vs Oil Heating Cost in Greece: 2026",
       description: "Five heat pump brands common in Greece, how one unit heats and cools, and a calculation example comparing heat pump and oil boiler running costs.",
@@ -676,7 +700,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-07-22",
+      dateModified: "2026-08-10",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -796,7 +820,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece as an American: 2026 Guide",
       description: "Americans can buy property in Greece without restrictions. The process has US-specific tax and reporting layers most buyers discover too late. What to know before you commit.",
       datePublished: "2026-05-27",
-      dateModified: "2026-06-14",
+      dateModified: "2026-08-10",
       faqs: [
         {
           question: "Can Americans buy property in Greece?",
