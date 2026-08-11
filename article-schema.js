@@ -500,7 +500,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-07-22",
+      dateModified: "2026-08-11",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -624,7 +624,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Golden Visa Greece: Property Requirements and Technical Risks",
       description: "Greece Golden Visa requires EUR 400k-800k in a single property of 120m2 minimum. The legal process is handled. The technical risks rarely are.",
       datePublished: "2026-05-11",
-      dateModified: "2026-08-03",
+      dateModified: "2026-08-11",
       faqs: [
         {
           question: "What is the minimum investment for the Greece Golden Visa in 2026?",
@@ -700,7 +700,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-08-10",
+      dateModified: "2026-08-11",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -868,7 +868,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-08-03",
+      dateModified: "2026-08-11",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
@@ -1016,7 +1016,7 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "TDD vs Property Inspection Greece: Which Do You Need?",
   description: "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
   datePublished: "2026-06-15",
-  dateModified: "2026-07-21",
+  dateModified: "2026-08-11",
   faqs: [
     {
       question: "What is the difference between a house inspection and technical due diligence in Greece?",
