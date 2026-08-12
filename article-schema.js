@@ -256,7 +256,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Mykonos Villa: Technical Due Diligence Guide",
       description: "Mykonos carries Greece's highest property prices, not its highest build quality. What technical due diligence on a Mykonos villa covers, and why.",
       datePublished: "2026-07-13",
-      dateModified: "2026-07-24",
+      dateModified: "2026-08-12",
       faqs: [
         {
           question: "Do I really need due diligence on a brand-new villa in Mykonos?",
@@ -273,6 +273,14 @@ window.addEventListener('DOMContentLoaded', function() {
         {
           question: "What are the most common technical problems in Mykonos villas?",
           answer: "Waterproofing failures at pools, terraces and flat roofs, salt-driven corrosion in exposed steel and concrete, unpermitted extensions such as closed-in semi-outdoor areas and converted basements, and water or power installations undersized for peak-season use. Most are invisible at a viewing and all are expensive at Mykonos remediation prices."
+        },
+        {
+          question: "Is the due diligence process confidential?",
+          answer: "Yes. Engagements can be conducted under a mutual non-disclosure agreement on request, and reports are delivered directly to the client only. KG Nordic Advisory does not share findings, property details, or buyer identity with brokers, sellers, or third parties."
+        },
+        {
+          question: "Who typically commissions this kind of review on Mykonos?",
+          answer: "Buyers acquiring high-value villas, new-build properties, or off-market listings where verification cannot rely on the seller's or broker's representations alone. The process is the same regardless of price point, only the scope adjusts to the property's complexity."
         }
       ]
     },
@@ -1072,7 +1080,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Technical Due Diligence Report: Mykonos Villa Guide",
       description: "What a technical due diligence report for a Mykonos villa covers: permit checks, title risk and who verifies each part before you buy.",
       datePublished: "2026-07-24",
-      dateModified: "2026-08-07",
+      dateModified: "2026-08-12",
       faqs: [
         {
           question: "What is included in a technical due diligence report for a Greek villa?",
@@ -1093,6 +1101,14 @@ window.addEventListener('DOMContentLoaded', function() {
         {
           question: "What does a due diligence quote for a Mykonos villa cost?",
           answer: "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to size and complexity. For a large or multi-structure Mykonos property in the seven or eight-figure range, the fee scales with the number of buildings, the specialist inputs the permit check requires, and whether a licensed engineer is brought in alongside the technical advisor for the control measurement, but it remains a small fraction of the acquisition price set against the regularization and defect exposure such properties typically carry. An exact scope and fee follow a short scoping call, not a fixed table."
+        },
+        {
+          question: "Is the due diligence process confidential?",
+          answer: "Yes. Engagements can be conducted under a mutual non-disclosure agreement on request, and reports are delivered directly to the client only. KG Nordic Advisory does not share findings, property details, or buyer identity with brokers, sellers, or third parties."
+        },
+        {
+          question: "Who typically commissions this kind of review on Mykonos?",
+          answer: "Buyers acquiring high-value villas, new-build properties, or off-market listings where verification cannot rely on the seller's or broker's representations alone. The process is the same regardless of price point, only the scope adjusts to the property's complexity."
         }
       ]
     },
