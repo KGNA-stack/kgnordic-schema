@@ -228,7 +228,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Hidden Costs of Buying Property in Greece (2026)",
       description: "Transfer tax, notary and agent fees are only the start. The hidden costs of buying property in Greece include unpermitted construction and structural risk.",
       datePublished: "2026-07-15",
-      dateModified: "2026-07-31",
+      dateModified: "2026-08-12",
       faqs: [
         {
           question: "What are the total costs of buying property in Greece?",
@@ -600,7 +600,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Property CapEx Planning Greece: 10-Year Cost Framework",
       description: "The acquisition price is not the cost of ownership. A technical condition assessment projects what a Greek property will require over 10 years before you commit.",
       datePublished: "2026-05-04",
-      dateModified: "2026-07-21",
+      dateModified: "2026-08-12",
       faqs: [
         {
           question: "What is a property condition assessment in Greece?",
@@ -1093,6 +1093,34 @@ window.addEventListener('DOMContentLoaded', function() {
         {
           question: "What does a due diligence quote for a Mykonos villa cost?",
           answer: "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to size and complexity. For a large or multi-structure Mykonos property in the seven or eight-figure range, the fee scales with the number of buildings, the specialist inputs the permit check requires, and whether a licensed engineer is brought in alongside the technical advisor for the control measurement, but it remains a small fraction of the acquisition price set against the regularization and defect exposure such properties typically carry. An exact scope and fee follow a short scoping call, not a fixed table."
+        }
+      ]
+    },
+    "greek-property-investment-from-gulf": {
+      headline: "Greek Property Investment: Real Yield vs Capex Risk",
+      description: "Greek property investment yields look strong on paper. See the real numbers after closing costs, capex and short-term rental rules in Greece.",
+      datePublished: "2026-08-12",
+      dateModified: "2026-08-12",
+      faqs: [
+        {
+          question: "Is Greek property a good investment in 2026?",
+          answer: "It can be, but the answer depends on verifying the net yield rather than the advertised one. Greek residential property has produced an average gross rental yield of around 4.4 percent nationally and closer to 5.4 to 5.5 percent in Athens according to Global Property Guide's most recent survey, and returns above that range on a specific listing warrant scrutiny of how the figure was calculated before the acquisition decision is made."
+        },
+        {
+          question: "What is the average rental yield on Greek property?",
+          answer: "Global Property Guide's most recent data puts the national average gross rental yield at approximately 4.38 percent, with Athens outperforming at roughly 5.4 to 5.5 percent. These figures are gross, calculated on asking price and asking rent, and do not account for closing costs, vacancy, management or capital expenditure, all of which reduce the net figure an investor actually receives."
+        },
+        {
+          question: "Does a short-term rental licence transfer when you buy property in Greece?",
+          answer: "Not in the high-pressure districts currently under registration freeze. In defined zones of central Athens and, from March 2026, parts of Thessaloniki, the short-term rental registration is tied to the current owner rather than the property, and it is deleted automatically when ownership changes through sale, gift or inheritance. The incoming owner cannot obtain a new registration while the freeze remains in force, so short-term rental income advertised on a listing in these zones should not be assumed to continue after purchase."
+        },
+        {
+          question: "How much are closing costs when buying property in Greece?",
+          answer: "Closing costs typically run 8 to 12 percent above the purchase price. The main components are transfer tax at 3.09 percent of the tax authority's assessed value, notary fees of roughly 0.8 to 1 percent plus VAT, legal fees of 1 to 2 percent, and an agent fee commonly around 2 percent plus VAT. These costs should be added to the purchase price before calculating any yield figure, since they materially change the true acquisition cost."
+        },
+        {
+          question: "What capital expenditure should I budget for a Greek property investment?",
+          answer: "The figure depends on the building's age, construction type and system condition, which is why a ten-year capital expenditure projection rather than a rule of thumb is the appropriate tool. Pre-2000 concrete-frame apartment buildings, common across central Athens and Piraeus, carry higher roofing, waterproofing and MEP replacement exposure than newer stock. An independent technical advisor's property condition assessment starts from 5,000 euros and produces a scheduled capital expenditure forecast rather than an estimate."
         }
       ]
     },
