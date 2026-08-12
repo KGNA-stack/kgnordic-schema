@@ -996,7 +996,7 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "Property Survey Greece | Independent Buyer's Guide",
   description: "What a property survey in Greece covers, what it costs and how to commission one independently before contracts are signed. British buyer's guide.",
   datePublished: "2026-06-14",
-  dateModified: "2026-06-25",
+  dateModified: "2026-08-12",
   faqs: [
     {
       question: "What is a property survey in Greece?",
