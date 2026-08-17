@@ -1,5 +1,29 @@
 window.addEventListener('DOMContentLoaded', function() {
   var articles = {
+    "off-plan-property-greece-construction-oversight": {
+      headline: "Off-Plan Property Greece: Oversight Guide",
+      description: "Buying off-plan property in Greece: how to structure payment milestones, who verifies construction, and why handover decides who pays for defects.",
+      datePublished: "2026-08-17",
+      dateModified: "2026-08-17",
+      faqs: [
+        {
+          question: "Is buying off-plan property in Greece safe?",
+          answer: "It carries a structurally different risk from buying an existing home: the money moves before the asset exists. The protection is contractual and procedural, payments tied to independently verified physical milestones, an enforceable specification, defects and retention provisions, and buyer-side oversight during construction. With those in place, off-plan is a manageable purchase rather than an act of faith."
+        },
+        {
+          question: "How should payments be structured in a Greek off-plan contract?",
+          answer: "Against verified physical milestones, not calendar dates: indicatively on signing, foundation, frame, closed envelope, installations and delivery, with each installment released only after independent confirmation that the stage physically exists. A meaningful final payment or retention should survive until the handover snag list is resolved."
+        },
+        {
+          question: "Who supervises construction quality on a Greek new build?",
+          answer: "By default, only people engaged by the developer. The site manager and the supervising engineer work for the seller's side, and no mandatory role represents the buyer during construction. Independent oversight happens only if the buyer appoints a project manager or independent technical advisor to verify milestones and document the build."
+        },
+        {
+          question: "What happens at handover of an off-plan property in Greece?",
+          answer: "The buyer takes delivery, and with it the burden of proof. An independent snagging survey at or before handover documents construction and finishing defects, checks the installations by visual and functional examination, and itemizes what the contractor must fix while final payment and the defects window still provide leverage. Releasing the final payment before that verification surrenders the leverage permanently."
+        }
+      ]
+    },
     "remote-property-review-greece": {
       headline: "Remote Property Review Greece: Buy from Abroad",
       description: "How foreign buyers evaluate Greek property from abroad: what a remote asset review verifies from documents, and what still needs an on-site inspection.",
@@ -288,7 +312,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Snagging Survey Greece: New-Build Villa Inspection",
       description: "A snagging survey documents defects before a new-build Greek villa is accepted. What it covers, what it costs, and the window that closes fast.",
       datePublished: "2026-07-08",
-      dateModified: "2026-07-19",
+      dateModified: "2026-08-17",
       faqs: [
         {
           question: "What is a snagging survey?",
@@ -452,7 +476,7 @@ window.addEventListener('DOMContentLoaded', function() {
   headline: "Property Project Manager Greece | Independent Oversight",
   description: "What a property project manager, construction project manager or renovation project manager does in Greece and what independent oversight costs.",
   datePublished: "2026-06-26",
-  dateModified: "2026-06-26",
+  dateModified: "2026-08-17",
   faqs: [
     {
       question: "What does a property project manager do in Greece?",
