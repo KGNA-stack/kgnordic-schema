@@ -569,7 +569,7 @@
         },
         {
           question: "What is the deadline to regularise illegal constructions in Greece?",
-          answer: "Article 75 of Law 5261/2025 extended the declaration deadline to 31 March 2028 for eligible pre-28 July 2011 Category 1–4 infringements under Law 4495/2017. Eligibility, statutory exclusions and any later legislative change must be checked for the specific property; the deadline should not be described as eliminating every possible legal remedy."
+          answer: "Article 43(4) of Law 5270/2026 extended the filing deadline to 31 March 2028 for eligible pre-28 July 2011 Category 1–4 infringements. The rule is now codified in Article 389(1) of Law 5306/2026. Eligibility, exclusions and any later legislative change must be checked for the specific property."
         },
         {
           question: "How do I check for illegal constructions before buying property in Greece?",
@@ -737,7 +737,7 @@
         },
         {
           question: "What happens if I buy a property with unpermitted construction in Greece?",
-          answer: "The exposure transfers with the property. Unpermitted works must be regularized under Law 4495/2017, with fines based on the size and category of the violation, and Greece's settlement deadline for older violations now runs to 2028 under Law 5261/2025. Whatever is unsettled at transfer becomes the new owner's cost and risk."
+          answer: "Unpermitted works create asset-level commercial and transfer risk, while criminal, administrative and payment liabilities require separate legal analysis. The current general filing deadline for eligible older Category 1–4 cases runs to 31 March 2028 under Article 389(1) of Law 5306/2026. A buyer should verify the exact property before signing."
         },
         {
           question: "Who verifies the permit file when I buy property in Greece?",
@@ -770,14 +770,14 @@
       ]
     },
     "illegal-construction-law-5261-2025": {
-      headline: "Greece Illegal Construction Law 5261/2025: 2028 Deadline",
-      description: "Article 75 of Law 5261/2025 extended eligible Category 1–4 declaration deadlines under Law 4495/2017 to March 2028. See what buyers must verify.",
+      headline: "Greece Illegal Construction Law 5270/2026: 2028 Deadline",
+      description: "Law 5270/2026 extended eligible Category 1–4 filings to March 2028; the current rule is in Article 389 of Law 5306/2026. Buyer guide.",
       datePublished: "2026-05-18",
       dateModified: "2026-08-26",
       faqs: [
         {
-          question: "What does Article 75 of Law 5261/2025 change for property buyers in Greece?",
-          answer: "Article 75 of Law 5261/2025 extended the relevant declaration deadline under the existing Law 4495/2017 framework to 31 March 2028 for eligible Categories 1–4. It did not replace Law 4495/2017 or create a universal remedy for every unauthorised construction. Buyers must still verify category, eligibility, declaration status, payments and supporting plans for the property."
+          question: "What did Article 43(4) of Law 5270/2026 change for property buyers in Greece?",
+          answer: "Article 43(4) of Law 5270/2026 extended the filing deadline to 31 March 2028 for eligible Categories 1–4. The rule is now codified in Article 389(1) of Law 5306/2026. It does not create a universal remedy; buyers must verify category, eligibility, declaration status, payments and supporting plans."
         },
         {
           question: "Does the 2028 deadline mean it is safe to buy a property with illegal constructions?",
@@ -1133,7 +1133,7 @@
         },
         {
           question: "What is the process for legalizing illegal building works on Mykonos?",
-          answer: "Unpermitted works are regularized under Law 4495/2017 through an engineer-certified declaration and a fine based on the size and category of the violation. Greece extended the settlement deadline for older violations to 2028 under Law 5261/2025. Confirm the current status and requirements for any specific property with your legal advisor before relying on a declaration."
+          answer: "Eligible unpermitted works are handled through an engineer-filed declaration and a statutory calculation based on multiple property-specific factors. The current general filing deadline for eligible older Category 1–4 cases is 31 March 2028 under Article 389(1) of Law 5306/2026. Confirm the current status with a licensed Greek engineer and lawyer."
         },
         {
           question: "What is the risk of buying a Mykonos property with an unverified title?",
