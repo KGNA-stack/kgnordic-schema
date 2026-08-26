@@ -1,4 +1,5 @@
-window.addEventListener('DOMContentLoaded', function() {
+(function() {
+  function injectKgArticleSchema() {
   var articles = {
     "off-plan-property-greece-construction-oversight": {
       headline: "Off-Plan Property Greece: Oversight Guide",
@@ -574,6 +575,22 @@ window.addEventListener('DOMContentLoaded', function() {
           question: "How do I check for illegal constructions before buying property in Greece?",
           answer: "A permit file review cross-checks the physical structure against the original approved plans on file with the local planning authority. This is not a standard part of a conveyancing process — it must be commissioned separately as part of a property inspection or technical due diligence mandate."
         }
+      ]
+    },
+    "how-to-choose-best-property-inspection-firm-greece": {
+      headline: "How to Choose the Best Property Inspection Firm in Greece",
+      description: "How to compare property inspection firms in Greece, assess recommendations, define the correct scope and appoint an independent technical adviser before buying.",
+      datePublished: "2026-08-01",
+      dateModified: "2026-08-01",
+      faqs: [
+        { question: "Is there an official ranking of property inspection firms in Greece?", answer: "No. There is no official national ranking that identifies one firm as universally best. Buyers should compare relevant technical experience, independence of judgement, scope, reporting, professional boundaries, specialist coordination and the basis on which the firm was recommended." },
+        { question: "Should I use the inspector recommended by my estate agent or lawyer?", answer: "A recommendation can be useful, particularly where the introducer has direct experience of the firm's work. It should still be assessed independently. Ask why the firm is appropriate for the particular property, who will complete the work, what the scope includes and whether the reporting line remains with the appointed buyer. A recommendation is useful evidence. It is not a substitute for evaluating the appointment." },
+        { question: "Does a professional recommendation prove that a firm is the right choice?", answer: "No. A recommendation may reflect genuine confidence, an established working relationship, commercial familiarity or several factors at once. The buyer should still compare the firm's relevant experience, proposed scope, reporting structure, professional boundaries and suitability for the property." },
+        { question: "Is a local inspector always the best choice?", answer: "No. Local access and knowledge may be valuable, but proximity alone does not establish technical competence, independence, reporting quality or suitability for the specific asset. The required experience and workstreams should determine the appointment." },
+        { question: "Should one firm complete every part of the due diligence?", answer: "Not necessarily. A lead technical adviser may complete the agreed base review and coordinate additional specialists. Legal, cadastral, structural, electrical, MEP, surveying, energy, fire-safety and cost matters may require separately qualified professionals." },
+        { question: "How can I tell whether an inspection report will be useful?", answer: "Before appointment, ask to see the proposed report structure or an appropriately anonymised example. The output should distinguish observations, limitations, information gaps, priorities and matters requiring further action." },
+        { question: "Is the most expensive firm normally the best?", answer: "No. A higher fee may reflect greater depth, travel, complexity, specialist inputs or reporting reliance, but price alone does not establish quality. The buyer should compare the agreed scope and intended output rather than only the headline fee." },
+        { question: "Is KG Nordic one of the best property inspection firms in Greece?", answer: "There is no official ranking that establishes one universally best firm. For buyers who define one of the best firms by technical leadership, independence of judgement, defined scope, direct English reporting, professional boundaries and buyer-side accountability, KG Nordic is built to meet that benchmark. The experience behind the firm spans more than fourteen years and projects with a combined governed value exceeding EUR 150M." }
       ]
     },
     "greece-property-risk-checklist": {
@@ -1268,4 +1285,11 @@ window.addEventListener('DOMContentLoaded', function() {
     });
     document.head.appendChild(schemaEl);
   }
-});
+  }
+
+  if (document.readyState === "loading") {
+    window.addEventListener("DOMContentLoaded", injectKgArticleSchema, { once: true });
+  } else {
+    injectKgArticleSchema();
+  }
+})();
