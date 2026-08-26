@@ -52,7 +52,7 @@ window.addEventListener('DOMContentLoaded', function() {
       headline: "Heat Pump vs Oil Heating Cost in Greece: 2026",
       description: "Five heat pump brands common in Greece, how one unit heats and cools, and a calculation example comparing heat pump and oil boiler running costs.",
       datePublished: "2026-08-07",
-      dateModified: "2026-08-07",
+      dateModified: "2026-08-26",
       faqs: [
         {
           question: "Can the same heat pump that cools my house in summer also heat it in winter?",
@@ -80,19 +80,19 @@ window.addEventListener('DOMContentLoaded', function() {
       faqs: [
         {
           question: "What are the Golden Visa investment thresholds in Greece?",
-          answer: "Under Law 5100/2024, 800,000 euros in Zone A, which covers Attica, Thessaloniki, Mykonos, Santorini and islands with larger populations, and 400,000 euros in the rest of Greece, in a single property. A lower 250,000 euro route exists for conversions of former commercial buildings and restorations of listed buildings, subject to its own conditions."
+          answer: "The standard thresholds are €800,000 in Attica, Thessaloniki, Mykonos, Santorini and islands with a population above 3,100, and €400,000 elsewhere, generally through one property of at least 120 square metres. Separate €250,000 routes apply to qualifying commercial-to-residential conversions and listed-building restoration, subject to distinct statutory conditions. A licensed Greek immigration lawyer should confirm the route and asset eligibility before commitment."
         },
         {
           question: "Does the Golden Visa process include any inspection of the property?",
-          answer: "No. The process verifies the investment amount, the title and the immigration file. No authority or professional in the mandatory chain assesses the building's condition or measures it against its permits. Technical verification happens only if the investor commissions it independently."
+          answer: "Golden Visa approval is not a substitute for an independent condition and permit-compliance inspection. The immigration, conveyancing and technical-review scopes are different. Buyers should confirm the mandatory legal checks with Greek counsel and separately commission the technical checks appropriate to the asset."
         },
         {
-          question: "Why does the five-year holding period change the due diligence?",
-          answer: "Because the investor cannot exit without ending the residency, defects discovered after purchase are repaired at the owner's cost rather than negotiated or walked away from. Due diligence therefore prices the asset's condition across the full holding period, including the capital expenditure it will demand, not just its state on signing day."
+          question: "Why does the Golden Visa renewal cycle change the due diligence?",
+          answer: "A Greek Golden Visa residence permit is generally issued on a five-year renewable cycle. This is not a universal five-year minimum holding period. Renewal normally depends on continuing to meet the qualifying-investment conditions, so disposing of the qualifying asset can affect residence rights unless another eligible basis is established. Technical due diligence should therefore price defects and capital expenditure across the investor's actual ownership plan and verify the current immigration conditions with qualified counsel."
         },
         {
           question: "How much does technical due diligence cost for a Golden Visa property?",
-          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, with technical due diligence scoped to the size and complexity of the asset. Against a mandatory minimum investment of 400,000 or 800,000 euros held for five years, it is well under one percent of the exposure it verifies."
+          answer: "A property inspection from an independent technical advisor starts from €5,000, with technical due diligence scoped to the size and complexity of the asset. Against a standard qualifying investment of €400,000 or €800,000 that normally must remain in place for permit renewal, the inspection fee can be well under one percent of the capital exposure it evaluates. Exact scope and fee depend on the property."
         }
       ]
     },
@@ -112,7 +112,7 @@ window.addEventListener('DOMContentLoaded', function() {
         },
         {
           question: "Why will the discount on energy-poor Greek houses grow?",
-          answer: "Two EU instruments push the same way: minimum energy performance standards for existing buildings are moving into Greek law, and from 2027 the ETS2 carbon price raises the running cost of oil- and gas-heated homes season by season. Both deepen the price gap between efficient and inefficient stock."
+          answer: "EU building policy and carbon pricing can widen the value gap between efficient and inefficient stock. ETS2 is scheduled to become fully operational in 2028. Fuel suppliers, rather than homeowners directly, will surrender allowances for covered fuels, and some or all of that cost may be passed through to heating-oil and gas customers. The actual household impact will depend on allowance prices, fuel use, taxation, supplier pricing and support measures."
         },
         {
           question: "What should I check before buying an older, cheaper house in Greece?",
@@ -173,18 +173,18 @@ window.addEventListener('DOMContentLoaded', function() {
       ]
     },
     "ets2-greece-heating-costs": {
-      headline: "ETS2 Greece: Heating Costs Rise from 2027",
-      description: "From 2027 the EU's ETS2 puts a carbon price on heating fuel. What it means for Greek property owners, and how the same system funds the way out.",
+      headline: "ETS2 Greece: Heating Costs from 2028",
+      description: "ETS2 is scheduled to start in 2028. See how supplier carbon costs may affect heating-oil and gas prices for Greek property owners.",
       datePublished: "2026-07-24",
-      dateModified: "2026-08-07",
+      dateModified: "2026-08-26",
       faqs: [
         {
           question: "What is ETS2 and when does it start?",
-          answer: "ETS2 is the EU's second emissions trading system, extending carbon pricing to fuels used in buildings and road transport. Fuel suppliers must buy allowances from 2027 and the cost passes into retail fuel prices. A mechanism is designed to moderate the price around 45 euros per ton of CO2 in 2020 prices, but the final level will only be known once trading starts."
+          answer: "ETS2 is the EU's second emissions trading system, extending carbon pricing to fuels used in buildings and road transport. It is scheduled to become fully operational in 2028. Fuel suppliers will face the allowance obligation and may pass some or all of the cost into retail fuel prices. The actual household impact will depend on allowance prices, taxation, supplier pricing, fuel use and support measures."
         },
         {
           question: "How much will ETS2 add to heating costs in Greece?",
-          answer: "Indicatively, a carbon price near the 45 euro reference adds roughly 12 cents per liter of heating oil before VAT, on the order of a 10 percent increase at recent prices. A poorly insulated house burning 1,500 liters a season would pay an extra amount in the low hundreds of euros per year, rising if the carbon price runs higher."
+          answer: "At a carbon price around 45 euros per tonne of CO2, an illustrative calculation indicates roughly 12 cents per litre of heating oil before VAT. A house burning 1,500 litres in a season would therefore face an illustrative carbon component in the low hundreds of euros. This is a scenario, not a guaranteed retail-price increase: allowance prices, taxation, supplier pass-through and fuel use will determine the actual cost."
         },
         {
           question: "Does ETS2 apply to holiday homes in Greece?",
@@ -236,7 +236,7 @@ window.addEventListener('DOMContentLoaded', function() {
         },
         {
           question: "What heating system is best for an older Greek house?",
-          answer: "A modern heat pump is the default. It heats and cools from one unit, delivers roughly three to four units of output per unit of electricity, and replaces both the oil boiler and aging air conditioners. Fossil-boiler subsidies have ended across the EU and ETS2 is set to price carbon into heating oil from 2027."
+          answer: "A correctly designed heat pump can provide both heating and cooling and can deliver roughly three to four units of heat per unit of electricity under suitable operating conditions. Suitability depends on heat-loss calculations, emitter temperatures, climate, fabric performance and electricity tariffs. ETS2 is scheduled to become fully operational in 2028 and may add a carbon-cost component to heating oil through fuel suppliers."
         },
         {
           question: "Will upgrading an older home improve its energy rating?",
@@ -356,7 +356,7 @@ window.addEventListener('DOMContentLoaded', function() {
         },
         {
           question: "Will ETS2 make a Greek holiday home more expensive to run?",
-          answer: "If the house heats with oil or gas, yes. From 2027 the EU second emissions trading system is set to put a carbon price on fuels burned in buildings. A house that has switched to a heat pump running partly on rooftop solar is largely outside that exposure."
+          answer: "An oil- or gas-heated house may face additional supplier pass-through when ETS2 becomes fully operational in 2028. The amount is not yet fixed and will depend on allowance prices, taxation, supplier pricing and fuel use. Reducing heat demand and switching to an appropriately designed heat pump can reduce direct exposure to heating-fuel carbon costs."
         },
         {
           question: "What should a privately financed holiday-home upgrade prioritize?",
@@ -554,21 +554,21 @@ window.addEventListener('DOMContentLoaded', function() {
     },
     "illegal-constructions-greece": {
       headline: "Illegal Constructions Greece: What Buyers Inherit",
-      description: "Illegal constructions in Greece transfer to the buyer on purchase. Fines range from EUR 200 to 2,000 per sqm or demolition. What to find before you sign.",
+      description: "Illegal constructions in Greece can expose buyers to declaration costs, remedial work, transfer delays or demolition risk. Learn what to verify before signing.",
       datePublished: "2026-03-11",
-      dateModified: "2026-07-29",
+      dateModified: "2026-08-26",
       faqs: [
         {
-          question: "Do illegal constructions transfer to the buyer in Greece?",
-          answer: "Yes. Under Greek law, unauthorised constructions transfer with the title on sale. The buyer inherits both the physical structure and the full regularisation liability, regardless of whether the seller disclosed it."
+          question: "Can illegal-construction exposure affect the buyer in Greece?",
+          answer: "Unresolved unauthorised works and their associated compliance, cost and transferability exposure can remain attached to the property and affect the buyer after acquisition. The exact liability, available remedy and disclosure consequences depend on the property, transaction documents and current law. A licensed Greek engineer and the buyer's lawyer should verify them before signing."
         },
         {
           question: "What are the fines for illegal constructions in Greece?",
-          answer: "Regularisation fines run from €200 to €2,000 per square metre depending on zone, building use and construction type. A 40% surcharge applies to all current submissions. Category 5 constructions — typically coastal zone violations — cannot be regularised at all and must be demolished."
+          answer: "There is no universal statutory fine of €200–€2,000 per square metre for every unauthorised construction. Law 4495/2017 calculations depend on factors including affected area, zone value, use, age, permit status and type of infringement. For acquisition-risk screening, cases can span an indicative exposure from roughly €200 to €2,000 per affected square metre, while minor infringements may be lower and large or non-regularisable works may produce much greater loss or demolition exposure. This is a risk scenario, not a property-specific fine calculation; a licensed Greek engineer must calculate the actual amount."
         },
         {
           question: "What is the deadline to regularise illegal constructions in Greece?",
-          answer: "The current regularisation window closes 31 March 2028 under Law 5261/2025. After that date, there is no resolution pathway for unresolved exposures. Properties with open violations after the deadline carry liability with no legal remedy."
+          answer: "Article 75 of Law 5261/2025 extended the declaration deadline to 31 March 2028 for eligible pre-28 July 2011 Category 1–4 infringements under Law 4495/2017. Eligibility, statutory exclusions and any later legislative change must be checked for the specific property; the deadline should not be described as eliminating every possible legal remedy."
         },
         {
           question: "How do I check for illegal constructions before buying property in Greece?",
@@ -753,26 +753,26 @@ window.addEventListener('DOMContentLoaded', function() {
       ]
     },
     "illegal-construction-law-5261-2025": {
-      headline: "Greece Illegal Construction Law 5270/2026: 2028 Deadline",
-      description: "Greece extended the illegal construction regularization deadline to March 2028 under Law 5270/2026. What this means for foreign buyers and what it does not change.",
+      headline: "Greece Illegal Construction Law 5261/2025: 2028 Deadline",
+      description: "Article 75 of Law 5261/2025 extended eligible Category 1–4 declaration deadlines under Law 4495/2017 to March 2028. See what buyers must verify.",
       datePublished: "2026-05-18",
-      dateModified: "2026-08-14",
+      dateModified: "2026-08-26",
       faqs: [
         {
-          question: "What does Law 5270/2026 change for property buyers in Greece?",
-          answer: "Law 5270/2026 extended the regularisation deadline for illegal constructions to 31 March 2028. It did not change the liability framework — unauthorised constructions still transfer to the buyer on purchase, and Category 5 violations (primarily coastal zone) remain non-regularisable."
+          question: "What does Article 75 of Law 5261/2025 change for property buyers in Greece?",
+          answer: "Article 75 of Law 5261/2025 extended the relevant declaration deadline under the existing Law 4495/2017 framework to 31 March 2028 for eligible Categories 1–4. It did not replace Law 4495/2017 or create a universal remedy for every unauthorised construction. Buyers must still verify category, eligibility, declaration status, payments and supporting plans for the property."
         },
         {
           question: "Does the 2028 deadline mean it is safe to buy a property with illegal constructions?",
-          answer: "No. The deadline means eligible constructions can still be regularised before March 2028, at the buyer's cost. It does not eliminate the liability — it provides a time-limited resolution pathway. After March 2028, no pathway exists for unresolved exposures."
+          answer: "No. The deadline only extends the filing window for eligible older Category 1–4 infringements. It does not make a non-compliant building compliant automatically. Buyers must verify the category, declaration status, supporting plans, payments and whether the physical building matches what was declared before signing."
         },
         {
           question: "Which illegal constructions cannot be regularised under current Greek law?",
-          answer: "Category 5 constructions are excluded from regularisation under all frameworks, including the current deadline set by Law 5270/2026. These are primarily structures built within protected coastal zones (typically within 50 metres of the shoreline) without the required setback permits. They must be demolished."
+          answer: "The general extension does not create a universal regularisation route for Category 5. Category 5 is a statutory classification based principally on the scale and nature of planning or building-permit exceedances; it is not a synonym for coastal-zone construction. Separate exclusions can apply in protected or prohibited locations. Eligibility, transferability and demolition exposure must be determined from the property, construction date, location and current legislation by a licensed Greek engineer and lawyer."
         },
         {
           question: "What is the cost of regularising an illegal construction in Greece in 2026?",
-          answer: "Fines range from €200 to €2,000 per square metre depending on zone and use, with a 40% surcharge on current submissions. A 100 sqm unauthorised addition in a standard zone can carry a regularisation cost of €28,000 to €140,000 before legal and administrative fees."
+          answer: "There is no universal per-square-metre tariff. The statutory calculation can depend on affected area, zone value, use, age, permit status, infringement type and applicable timing adjustments. For acquisition-risk screening, an indicative exposure may span roughly €200 to €2,000 per affected square metre, while minor cases may be lower and extensive, high-value or non-regularisable works may create substantially greater financial or demolition exposure. A licensed Greek engineer must calculate the property-specific amount."
         }
       ]
     },
@@ -802,21 +802,21 @@ window.addEventListener('DOMContentLoaded', function() {
     },
     "property-inspection-crete": {
       headline: "Property Inspection Crete: Foreign Buyer's Guide",
-      description: "Crete sits in seismic Zone 4. Active demolitions of illegal coastal structures began in January 2026. What a property inspection in Crete must cover before you commit.",
+      description: "Buying in Crete? Learn what an independent property inspection should check, including structure, seismic design basis, moisture, permits and marine exposure.",
       datePublished: "2026-05-22",
-      dateModified: "2026-08-14",
+      dateModified: "2026-08-26",
       faqs: [
         {
           question: "What are the specific risks of buying property in Crete?",
-          answer: "Crete sits in seismic Zone 4 — the highest hazard classification in Greece — which affects structural assessment requirements for older buildings. Coastal demolitions of illegal structures began in January 2026 following enforcement action, making coastal zone permit compliance particularly material. Agricultural land is widespread and carries strict building restrictions that buyers frequently misunderstand."
+          answer: "Greece's current seismic classification uses Zones I, II and III, and the applicable zone must be checked for the property's exact location. A Crete inspection should consider the original seismic design basis, structural system, later alterations, current condition, permit compliance, boundaries, moisture and drainage, and marine exposure where relevant. Property risk must be established from evidence rather than an island-wide label."
         },
         {
           question: "Are coastal properties in Crete at risk of demolition?",
-          answer: "Yes. Greek authorities began active demolition of illegal coastal structures in Crete in January 2026. Properties within the coastal zone that have unauthorised construction not eligible for regularisation under current Greek law — primarily Category 5 constructions within 50 metres of the shoreline — face enforcement action. A permit compliance review before purchase is essential for any coastal property."
+          answer: "Potentially. Unauthorised works in protected coastal or otherwise prohibited locations can face enforcement and demolition exposure, but coastal restrictions and Law 4495/2017 violation categories are separate legal analyses. Distance from the shoreline, construction date, permit history, protected-area status and current legislation must be checked for the exact property by a licensed Greek engineer and lawyer. A coastal listing should never be treated as compliant from appearance or seller assurance alone."
         },
         {
           question: "Is Crete in a seismic risk zone?",
-          answer: "Yes. Crete is classified in seismic Zone 4, the highest hazard level in Greece. Buildings constructed before the 1985 seismic regulation update were designed to lower standards. A structural assessment for pre-1985 reinforced concrete buildings is recommended as part of any property inspection in Crete."
+          answer: "Greece uses Zones I–III, not Zone IV. The applicable zone must be checked for the exact property location on the official OASP map. Older construction is not automatically unsafe, but its original design basis, structural system, later alterations and current condition should be assessed, with a structural engineer engaged where warning signs or the asset's risk profile justify it."
         },
         {
           question: "What does a property inspection in Crete cover?",
@@ -934,41 +934,41 @@ window.addEventListener('DOMContentLoaded', function() {
     },
       "anakainizo-greece-renovation-programme-foreign-buyers": {
     headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
-    description: "Greece's 480M renovation subsidy opens June 2026. Qualification, technical barriers and what foreign buyers must check before acquisition.",
+    description: "How foreign buyers should verify Anakainizo eligibility, official programme terms, permit compliance and total renovation exposure before relying on a subsidy.",
     datePublished: "2026-06-10",
-    dateModified: "2026-07-31",
+    dateModified: "2026-08-26",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
-        answer: "Anakainizo is a 480 million euro government renovation programme targeting vacant and deteriorated properties in Greece. It offers subsidies covering 70% to 95% of renovation costs, subject to a cap of 300 euros per square metre and a maximum grant of 36,000 to 46,000 euros per applicant. The eligibility platform opens 15 June 2026. Applications open September 2026. Properties must have been built under permits issued before 31 December 1990 and have a maximum floor area of 120 square metres."
+        answer: "Anakainizo refers to a proposed or cycle-specific Greek renovation-support programme for older or vacant housing. Budget, subsidy percentages, cost caps, property criteria and application dates must be taken from the final official programme guide and current implementing decision. Buyers should not rely on reported figures or launch dates until the applicable scheme is formally open and their eligibility has been confirmed."
       },
       {
         question: "Can foreign buyers use the Anakainizo renovation subsidy?",
-        answer: "Yes, subject to income eligibility. Foreign buyers who acquire a qualifying vacant pre-1990 property in Greece and meet the income thresholds can apply. The property must be used for owner-occupation or long-term rental for at least five years. Short-term rental and resale within five years are not permitted."
+        answer: "Eligibility for a foreign owner depends on the final official guide, tax and income conditions, the property's lawful status and the permitted use. Any owner-occupation, long-term-rental, resale or short-term-rental restriction must be confirmed from the applicable programme decision before acquisition."
       },
       {
         question: "Why do unauthorised constructions block Anakainizo eligibility?",
-        answer: "Every Anakainizo application requires an Energy Performance Certificate before renovation begins. An EPC cannot be issued for a property with unresolved permit violations. A permit file cross-check confirming the physical structure matches the approved drawings is required before the EPC process can start. Properties with Category 5 coastal zone violations cannot be regularised and are permanently ineligible."
+        answer: "An unresolved planning infringement can affect the documentation, eligibility or lawful scope of subsidised works. An engineer should reconcile the permit file, Electronic Building Identity records and any declarations before an application. Category 5 is a statutory planning classification, not a synonym for coastal-zone construction, and eligibility must be checked under the current programme and planning rules."
       },
       {
         question: "What happens if renovation costs exceed the programme cap?",
-        answer: "The programme subsidises up to 300 euros per square metre. Any costs above this threshold are the buyer's responsibility. A technical condition assessment before acquisition identifies deferred maintenance and structural issues likely to push renovation costs beyond the programme cap, allowing the buyer to calculate the real cost of ownership before committing capital."
+        answer: "Programme cost caps and eligible expenditure vary by official cycle. Any amount above the applicable cap, any ineligible work and any structural or permit remediation remains the owner's exposure. A technical condition assessment before acquisition helps compare the full renovation requirement with the subsidy-eligible scope."
       },
       {
         question: "What does the five-year lock-in mean for property buyers?",
-        answer: "Properties renovated under Anakainizo cannot be sold or used for short-term rental for five years after completion. Rents are frozen at the initial rate for the first three years. The programme is designed for long-term residential occupation or rental, not short-term letting or early resale."
+        answer: "Any lock-in, resale, owner-occupation, rental-duration or rent-setting condition is programme-specific and must be confirmed from the final official guide and grant decision. These restrictions can materially affect an investment strategy, so they should be reviewed before purchase rather than inferred from earlier announcements."
       }
     ]
   },
     "what-to-check-before-signing-property-contract-greece": {
       headline: "What to Check Before Signing a Property Contract in Greece",
-      description: "Before signing a Greek property contract, verify urban planning status, Law 3819/2010 legacy, title chain and structural condition.",
+      description: "Before signing a Greek property contract, verify planning status, Law 3843/2010 declaration records, title history, permits and structural condition.",
       datePublished: "2026-06-12",
-      dateModified: "2026-07-03",
+      dateModified: "2026-08-26",
       faqs: [
         {
-          question: "What does Law 3819/2010 mean for a property I am buying in Greece?",
-          answer: "Law 3819/2010 allowed owners of unauthorised constructions to register them and receive a certificate of suspension, which halted demolition orders and administrative penalties. The certificate did not legalise the unauthorised elements. If a property you are evaluating has a 3819/2010 registration, you need to verify whether the original suspension is still active and whether the owner followed up with full legalisation under a later law. A lapsed suspension with no subsequent action leaves the construction exposed to enforcement under the current regularisation framework, which closes in March 2028."
+          question: "What does a Law 3843/2010 declaration mean for a property I am buying in Greece?",
+          answer: "Law 3843/2010 provided an earlier declaration route for specified changes of use and enclosed semi-outdoor spaces. A declaration under that law is not proof that the whole property matches its permit or that every unauthorised element has been resolved. The buyer's engineer should verify what was declared, whether payments and required documents were completed, whether later legislation affected the declaration, and whether the current building matches both the permit file and the declaration."
         },
         {
           question: "Is it safe to sign a preliminary property contract in Greece without a technical review?",
@@ -996,7 +996,7 @@ window.addEventListener('DOMContentLoaded', function() {
       faqs: [
       {
         question: "Is a home inspection required when buying property in Greece?",
-        answer: "No. Greek law requires the seller to provide a Technical Diagnostic File covering energy performance, electrical compliance and environmental checks. An independent structural and permit inspection is not legally required. It is the only mechanism available to the buyer for identifying structural defects, unauthorised constructions and deferred maintenance costs before purchase. The seller is not required to disclose these. Without an independent inspection, the buyer assumes them."
+        answer: "No general rule requires a buyer-side condition inspection. Greek transactions rely on several separate technical documents rather than a statutory document formally called a Technical Diagnostic File. Depending on the property, these can include Electronic Building Identity records or an extract, an engineer's compliance documentation, approved plans, an Energy Performance Certificate and electrical-installation documentation. None is equivalent to an independent buyer-side condition and permit inspection."
       },
       {
         question: "What does a house inspection in Greece cover?",
@@ -1008,7 +1008,7 @@ window.addEventListener('DOMContentLoaded', function() {
       },
       {
         question: "When should I get a house inspection in Greece?",
-        answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the purchase price, attach repair conditions or withdraw without financial penalty. A house inspection commissioned after the preliminary contract loses all practical leverage to act on what it finds."
+        answer: "Before signing a preliminary contract or paying a non-refundable deposit. Findings can then be used in negotiations and in deciding whether to proceed before contractual commitments remove or limit that flexibility. Withdrawal rights and deposit consequences depend on the signed documents and must be confirmed by the buyer's lawyer."
       },
       {
         question: "What is the difference between a house inspection and technical due diligence in Greece?",
@@ -1024,7 +1024,7 @@ window.addEventListener('DOMContentLoaded', function() {
   faqs: [
     {
       question: "What is a property survey in Greece?",
-      answer: "A property survey in Greece is an independent technical inspection commissioned by the buyer before purchase. It covers structural condition, permit compliance, building systems and deferred capital expenditure. Greece does not have a regulated pre-purchase survey market equivalent to the UK system. The seller-mandated Technical Diagnostic File covers energy and electrical compliance only and is not a structural assessment."
+      answer: "A property survey in Greece is an independent technical inspection commissioned by the buyer before purchase. It can cover structural condition, permit compliance, building systems and deferred capital expenditure. Seller-provided transfer documents, including applicable Electronic Building Identity records, engineer's certification, approved plans and the Energy Performance Certificate, do not constitute an independent buyer-side condition survey."
     },
     {
       question: "How much does a property survey cost in Greece?",
@@ -1032,11 +1032,11 @@ window.addEventListener('DOMContentLoaded', function() {
     },
     {
       question: "When should I commission a property survey in Greece?",
-      answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the price, attach conditions to the agreement or withdraw without financial penalty. A survey commissioned after the preliminary contract loses all of that leverage."
+      answer: "Before signing a preliminary contract or paying a non-refundable deposit. Findings can then support negotiations and the decision whether to proceed before contractual commitments remove or limit that flexibility. Withdrawal rights and deposit consequences depend on the signed documents and must be confirmed by the buyer's lawyer."
     },
     {
       question: "Is a building survey legally required in Greece?",
-      answer: "No. Greek law requires the seller to provide a Technical Diagnostic File covering energy performance, electrical compliance and environmental checks. An independent structural and permit survey is not legally required but is the only mechanism available to a buyer for identifying structural defects, unauthorised constructions and deferred maintenance costs before purchase."
+      answer: "No general rule requires an independent buyer-side structural and permit survey. Greek transfers can involve Electronic Building Identity records, engineer's documentation, approved plans, an Energy Performance Certificate and other property-specific records. These documents have different purposes and do not replace a buyer-commissioned condition and permit assessment."
     },
     {
       question: "What is the difference between a property survey and a property inspection in Greece?",
@@ -1064,7 +1064,7 @@ window.addEventListener('DOMContentLoaded', function() {
     },
     {
       question: "When should I commission a property inspection in Greece?",
-      answer: "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the purchase price, attach repair conditions or withdraw without financial penalty. An inspection commissioned after the preliminary contract loses all practical leverage to act on what it identifies."
+      answer: "Before signing a preliminary contract or paying a non-refundable deposit. Findings can then support negotiations and the decision whether to proceed before contractual commitments remove or limit that flexibility. Withdrawal rights and deposit consequences depend on the signed documents and must be confirmed by the buyer's lawyer."
     },
     {
       question: "What is the difference between a house inspection in Greece and the US?",
@@ -1170,26 +1170,33 @@ window.addEventListener('DOMContentLoaded', function() {
   var article = articles[slug];
 
   if (article) {
-    var url = "https://www.kgnordic.com/insights/" + slug;
+    var canonicalUrl =
+      document.querySelector('link[rel="canonical"]')?.href ||
+      ("https://www.kgnordic.com/insights/" + slug);
+    var ogImage = document.querySelector('meta[property="og:image"]')?.content;
+    var graph = [];
 
-    var schemaEl = document.createElement("script");
-    schemaEl.type = "application/ld+json";
-    schemaEl.textContent = JSON.stringify({
-      "@context": "https://schema.org",
+    var articleNode = {
       "@type": "Article",
+      "@id": canonicalUrl + "#article",
       headline: article.headline,
       description: article.description,
       datePublished: article.datePublished,
       dateModified: article.dateModified,
-      url: url,
-      mainEntityOfPage: url,
+      url: canonicalUrl,
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": canonicalUrl
+      },
       author: {
         "@type": "Organization",
+        "@id": "https://www.kgnordic.com/#organization",
         name: "KG Nordic Advisory",
         url: "https://www.kgnordic.com"
       },
       publisher: {
         "@type": "Organization",
+        "@id": "https://www.kgnordic.com/#organization",
         name: "KG Nordic Advisory",
         url: "https://www.kgnordic.com",
         logo: {
@@ -1197,15 +1204,45 @@ window.addEventListener('DOMContentLoaded', function() {
           url: "https://framerusercontent.com/images/OecjukoqBvcVKP4ftIntfAT2i9Y.png"
         }
       }
+    };
+
+    if (ogImage) {
+      articleNode.image = {
+        "@type": "ImageObject",
+        url: new URL(ogImage, window.location.origin).href
+      };
+    }
+    graph.push(articleNode);
+
+    graph.push({
+      "@type": "BreadcrumbList",
+      "@id": canonicalUrl + "#breadcrumb",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: "https://www.kgnordic.com/"
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Insights",
+          item: "https://www.kgnordic.com/insights"
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: article.headline,
+          item: canonicalUrl
+        }
+      ]
     });
-    document.head.appendChild(schemaEl);
 
     if (article.faqs && article.faqs.length > 0) {
-      var faqEl = document.createElement("script");
-      faqEl.type = "application/ld+json";
-      faqEl.textContent = JSON.stringify({
-        "@context": "https://schema.org",
+      graph.push({
         "@type": "FAQPage",
+        "@id": canonicalUrl + "#faq",
         mainEntity: article.faqs.map(function(f) {
           return {
             "@type": "Question",
@@ -1217,7 +1254,18 @@ window.addEventListener('DOMContentLoaded', function() {
           };
         })
       });
-      document.head.appendChild(faqEl);
     }
+
+    var existingSchema = document.getElementById("kg-article-schema");
+    if (existingSchema) existingSchema.remove();
+
+    var schemaEl = document.createElement("script");
+    schemaEl.id = "kg-article-schema";
+    schemaEl.type = "application/ld+json";
+    schemaEl.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@graph": graph
+    });
+    document.head.appendChild(schemaEl);
   }
 });
