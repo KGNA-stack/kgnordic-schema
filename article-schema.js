@@ -1,6 +1,134 @@
 (function() {
   function injectKgArticleSchema() {
   var articles = {
+    "greece-eu-energy-law-deadline": {
+    headline: "Greece Misses EU Building Energy Law Deadline 2026",
+    description: "Greece missed the 29 May 2026 EPBD deadline and faces EU infringement action. What it changes for property owners, and why grants run on their own clock.",
+    datePublished: "2026-10-01",
+    dateModified: "2026-10-01",
+    faqs: [
+      {
+        question: "Did Greece miss an EU deadline on building energy law?",
+        answer: "Yes. The deadline to transpose the recast EU Energy Performance of Buildings Directive, 2024/1275, into national law was 29 May 2026, and Greece had not completed it. On 15 July 2026 the European Commission opened infringement proceedings against Greece and the other 26 member states, sending a letter of formal notice with a two month deadline to respond and complete the transposition. That two month window closed in mid-September 2026."
+      },
+      {
+        question: "What happens if Greece does not finish the law in time?",
+        answer: "If Greece's response is not accepted, the European Commission can issue a reasoned opinion, the next formal stage of the infringement process, ahead of a possible referral to the Court of Justice of the European Union. This process typically runs over years, and it applies to the Greek state, not to individual property owners."
+      },
+      {
+        question: "Does the missed deadline delay Greece's minimum energy performance standards (MEPS)?",
+        answer: "It delays the exact published thresholds, which are still being finalized through a revision of the KENAK building energy code, but it does not remove the underlying obligation. Greece has already transposed the earliest-deadline piece of the directive, the ban on financial incentives for fossil-fuel boilers, applying from 1 January 2025 under Law 5215/2025, and the wider standards are being written under active EU pressure rather than on an open-ended timeline."
+      },
+      {
+        question: "Should I wait for Greece's building energy law to be finalized before upgrading my property?",
+        answer: "No. The current grant framework and the coming standards run on separate clocks, and subsidy rates and contractor pricing are not guaranteed once a compliance deadline and every other owner of older stock arrive at the same time. An independent pre-upgrade review checks what the property may qualify for now, before the threshold is fixed in law."
+      }
+    ]
+  },
+    "buying-property-ionian-islands-technical-risks": {
+    headline: "Ionian Islands Property: Technical Risks Guide",
+    description: "Buying property in Corfu, Kefalonia or Zakynthos? The seismic history, the damp and the survey gap British buyers miss in the Ionian Islands.",
+    datePublished: "2026-10-01",
+    dateModified: "2026-10-01",
+    faqs: [
+      {
+        question: "Are the Ionian Islands in an earthquake zone?",
+        answer: "Yes. Kefalonia, Zakynthos, Lefkada and Ithaca sit in Greece's highest seismic hazard zone, and the 1953 Ionian earthquake destroyed most of the older stock on Kefalonia and Zakynthos. Corfu is less exposed and retains far more pre-war building fabric. The construction date and any later structural alterations decide how a specific building should be assessed."
+      },
+      {
+        question: "Do I need a survey when buying property in Corfu?",
+        answer: "Greek law does not require one, and nobody in the standard transaction will suggest one, but that is a gap rather than a signal. A buyer can make an offer subject to a satisfactory building survey by a named independent firm, exactly as at home."
+      },
+      {
+        question: "How much does a building survey cost in the Ionian Islands?",
+        answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size, type and location of the property. Set against remediation of a single serious structural or moisture defect, or an unresolved regularization case inherited at transfer, it is the smaller figure in every scenario in which it matters."
+      },
+      {
+        question: "Is damp really a problem in Greek island properties?",
+        answer: "In the Ionian, yes. Corfu is the wettest of the Greek islands, and its rain is concentrated in the months when holiday homes stand closed. Stone walls wick ground moisture, terraces and flat roofs pond, and cosmetic redecoration before the viewing season hides the evidence. Moisture should be inspected as seriously as it would be in the UK."
+      }
+    ]
+  },
+    "cosmetic-renovation-problems-greek-property": {
+    headline: "Cosmetic Renovation Problems in Greek Property",
+    description: "Renovated Greek property often means repainted. How cosmetic renovations hide structural, electrical and moisture problems, and how buyers spot them.",
+    datePublished: "2026-10-01",
+    dateModified: "2026-10-01",
+    faqs: [
+      {
+        question: "How can I tell if a Greek property was really renovated or just repainted?",
+        answer: "Ask for the paper: permits or notifications for the works, invoices for rewiring and replumbing, installer details, and an energy certificate issued after the renovation. Substantive work leaves all of these. A renovated price supported by none of them is a repainted price, and an independent inspection confirms which one the building tells."
+      },
+      {
+        question: "What problems do cosmetic renovations hide most often in Greece?",
+        answer: "Filled and repainted cracks, damp painted over before the viewing season, 1960s and 1970s wiring behind new fittings, aged plumbing behind new tiles, tired roof membranes under fresh terraces, and unpermitted areas absorbed into the renovated layout. The common thread is a mismatch between year-old finishes and decades-old systems."
+      },
+      {
+        question: "Does a renovation fix unpermitted construction?",
+        answer: "No. A renovation can make an unpermitted extension look like an original part of the house, but the legal exposure remains and transfers to the buyer. Greece's current regularization window runs to 31 March 2028, but only for eligible violations completed by 28 July 2011, so recent works usually fall outside it. The renovated layout should be compared against the permit drawings before any offer."
+      },
+      {
+        question: "Is an inspection worth it on a recently renovated property?",
+        answer: "Especially there. The renovated premium is exactly what is at stake, and an inspection from an independent technical advisor, starting from 5,000 euros, dates the systems behind the finishes and tests the renovation story against the building. The findings either justify the premium or reprice it before the deposit commits."
+      }
+    ]
+  },
+    "what-is-in-a-technical-due-diligence-report-greece": {
+      headline: "Technical Due Diligence Report Greece: What's Included",
+      description: "What is included in a technical due diligence report for a Greek property: the nine report sections, how findings are graded and what the report excludes.",
+      datePublished: "2026-10-01",
+      dateModified: "2026-10-01",
+      faqs: [
+        {
+          question: "What is included in a technical due diligence report for a Greek property?",
+          answer: "A decision-grade TDD report typically contains nine sections: an executive decision summary, the asset and agreed scope, the documents reviewed, discipline-by-discipline findings with photographs, a material risk and action register, immediate, near-term and medium-term priorities, indicative CapEx observations where scoped, recommended specialist investigations, and the limitations of the review. The findings cover visible structure, envelope, building systems and a comparison of the approved drawings with the building on site."
+        },
+        {
+          question: "Does a technical due diligence report include a valuation or a legal title check?",
+          answer: "No. Legal title, encumbrances and the legal consequences of any permit irregularity remain with the buyer's Greek lawyer, and market value comes from an independent valuer. The technical report flags anything it observes on site that the lawyer should follow up, such as an occupation line or an addition that does not match the approved drawings."
+        },
+        {
+          question: "How are findings prioritized in a TDD report?",
+          answer: "Each finding is graded by materiality, meaning whether it could change the decision, the price or the contract terms, and by timing: immediate (before signing or occupation), near term (the first year or two of ownership) or medium term (within the holding period). The report also states whether each finding was directly observed or requires specialist verification."
+        },
+        {
+          question: "Is the CapEx figure in a TDD report a cost plan?",
+          answer: "No. Indicative CapEx observations give an order of magnitude for repair and replacement over the holding period, which is enough to support a price negotiation and a budget. Where a lender, fund or renovation needs priced quantities, a separately appointed cost consultant prepares a formal cost plan."
+        },
+        {
+          question: "How long does a technical due diligence report take in Greece?",
+          answer: "The timetable is confirmed after initial scoping and document review, because it depends on the scale of the asset, access, specialist inputs and how quickly the permit file can be obtained from the local building service. Request documents the day the mandate is signed and commission the report while the price is still open. A property inspection, the narrower scope for a single residential asset, starts from 5,000 euros."
+        }
+      ]
+    },
+    "legal-vs-technical-due-diligence-greece": {
+      headline: "Legal vs Technical Due Diligence: Buying Property in Greece",
+      description: "Legal due diligence when buying property in Greece covers title and tax, not the building. What your lawyer checks, what a technical advisor adds.",
+      datePublished: "2026-10-01",
+      dateModified: "2026-10-01",
+      faqs: [
+        {
+          question: "What does legal due diligence cover when buying property in Greece?",
+          answer: "Your lawyer traces the ownership chain through the Land Registry or Hellenic Cadastre, checks for mortgages, seizures, claims and easements, confirms the seller's tax position including the ENFIA certificate, and reviews the preliminary contract and final deed. It does not assess the physical building or compare it with its permits. That is a technical scope, commissioned separately."
+        },
+        {
+          question: "Do I need a lawyer and an engineer to buy property in Greece?",
+          answer: "A lawyer is not legally mandatory, but buyers should appoint one of their own, because the notary acts for the transaction rather than for either party. An engineer's certification of the property's planning status is required for the transfer, but it is usually commissioned by the seller. A buyer who wants the building checked on their own behalf needs an independent technical review."
+        },
+        {
+          question: "Does the notary do due diligence for the buyer in Greece?",
+          answer: "No. The notary is a public official who draws up the deed, verifies that the required documents are present and submits the deed for registration after signing. The notary does not represent the buyer, investigate the title on the buyer's behalf or assess the building."
+        },
+        {
+          question: "Should legal or technical due diligence come first?",
+          answer: "Run them in parallel. Appoint the lawyer first so the title documents and permit file can be requested, start the technical review from those documents straight away, and complete the site visit before the preliminary contract commits the deposit. Findings made before signing become negotiation points. Findings made after signing become disputes."
+        },
+        {
+          question: "How much does technical due diligence cost in Greece?",
+          answer: "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the property type, size and location. Technical due diligence on larger, older or investment assets is scoped individually once the documents have been reviewed. Legal fees are separate and agreed directly with the buyer's lawyer."
+        }
+      ]
+    },
     "off-plan-property-greece-construction-oversight": {
       headline: "Off-Plan Property Greece: Oversight Guide",
       description: "Buying off-plan property in Greece: how to structure payment milestones, who verifies construction, and why handover decides who pays for defects.",
@@ -101,7 +229,7 @@
       headline: "Buy an Energy-Poor Greek House: The Arbitrage",
       description: "Why the cheapest house on a Greek street can be the best buy: the energy class discount, the grant that funds the upgrade, and the two checks first.",
       datePublished: "2026-07-31",
-      dateModified: "2026-08-07",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "Is it a good idea to buy a house with a bad energy rating in Greece?",
@@ -421,7 +549,7 @@
       headline: "Greece MEPS: New Minimum Energy Standards",
       description: "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
       datePublished: "2026-07-01",
-      dateModified: "2026-07-24",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What are MEPS in Greece?",
@@ -505,7 +633,7 @@
       headline: "Greek Property Energy Upgrade Grants 2026: A Foreign Owner's Guide",
       description: "Greece is funding home energy upgrades through 2032. What foreign owners can claim, who qualifies, and how the grant actually reaches your project.",
       datePublished: "2026-06-26",
-      dateModified: "2026-07-06",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "How much does the Greek energy upgrade grant cover?",
@@ -533,7 +661,7 @@
       headline: "Buying Property in Greece: Risk Guide for Foreign Buyers",
       description: "Structural defects, illegal extensions and deferred maintenance rarely show in the asking price. A technical risk framework for foreign buyers in Greece.",
       datePublished: "2026-03-03",
-      dateModified: "2026-08-12",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What are the biggest technical risks of buying property in Greece?",
@@ -621,7 +749,7 @@
       headline: "You Got the Keys. Now the Problems Start.",
       description: "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
       datePublished: "2026-04-29",
-      dateModified: "2026-07-27",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What does a property inspection in Greece cover?",
@@ -725,7 +853,7 @@
       headline: "Building Permit Due Diligence in Greece",
       description: "What to verify in a Greek building permit file before you buy: drawings, structural study, Building Identity, and the mismatches that cost buyers.",
       datePublished: "2026-07-20",
-      dateModified: "2026-07-24",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What is building permit due diligence in Greece?",
@@ -749,7 +877,7 @@
       headline: "Greek Property Due Diligence for Non-EU Buyers",
       description: "Non-EU buyers face specific legal and technical risks when acquiring property in Greece. What independent due diligence covers and why it matters before you commit.",
       datePublished: "2026-05-15",
-      dateModified: "2026-08-12",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "Can non-EU citizens buy property in Greece?",
@@ -893,7 +1021,7 @@
       headline: "Building Survey Greece: The UK Buyer's Guide",
       description: "What UK buyers call a building survey does not exist in Greece in the same form. What independent technical assessment covers, what it costs, and what British buyers get wrong.",
       datePublished: "2026-06-05",
-      dateModified: "2026-08-03",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What is the equivalent of a UK building survey in Greece?",
@@ -917,7 +1045,7 @@
       headline: "Technical Due Diligence Greece: Scope, Cost and Process",
       description: "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
       datePublished: "2026-06-08",
-      dateModified: "2026-08-12",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What is technical due diligence in real estate?",
@@ -1009,7 +1137,7 @@
       headline: "House Inspection Greece | Independent Buyer's Guide",
       description: "What a house inspection in Greece covers, what it costs, and why the US model does not transfer. Independent guide for American and Canadian buyers.",
       datePublished: "2026-06-14",
-      dateModified: "2026-06-25",
+      dateModified: "2026-10-01",
       faqs: [
       {
         question: "Is a home inspection required when buying property in Greece?",
@@ -1065,7 +1193,7 @@
   headline: "TDD vs Property Inspection Greece: Which Do You Need?",
   description: "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
   datePublished: "2026-06-15",
-  dateModified: "2026-08-12",
+  dateModified: "2026-10-01",
   faqs: [
     {
       question: "What is the difference between a house inspection and technical due diligence in Greece?",
@@ -1121,7 +1249,7 @@
       headline: "Technical Due Diligence Report: Mykonos Villa Guide",
       description: "What a technical due diligence report for a Mykonos villa covers: permit checks, title risk and who verifies each part before you buy.",
       datePublished: "2026-07-24",
-      dateModified: "2026-08-12",
+      dateModified: "2026-10-01",
       faqs: [
         {
           question: "What is included in a technical due diligence report for a Greek villa?",
