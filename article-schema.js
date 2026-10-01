@@ -950,30 +950,30 @@
       ]
     },
       "anakainizo-greece-renovation-programme-foreign-buyers": {
-    headline: "Greece Anakainizo Programme: Foreign Buyer's Guide",
-    description: "How foreign buyers should verify Anakainizo eligibility, official programme terms, permit compliance and total renovation exposure before relying on a subsidy.",
+    headline: "Greece’s Anakainisi Katoikias Action: What Foreign Buyers Should Check",
+    description: "Anakainisi Katoikias for foreign buyers: the closed-home certificate deadline was 30 September 2026 and Stage B funding is separate. What to check first.",
     datePublished: "2026-06-10",
-    dateModified: "2026-08-26",
+    dateModified: "2026-10-01",
     faqs: [
       {
         question: "What is the Anakainizo programme in Greece?",
-        answer: "Anakainizo refers to a proposed or cycle-specific Greek renovation-support programme for older or vacant housing. Budget, subsidy percentages, cost caps, property criteria and application dates must be taken from the final official programme guide and current implementing decision. Buyers should not rely on reported figures or launch dates until the applicable scheme is formally open and their eligibility has been confirmed."
+        answer: "Anakainisi Katoikias is a Greek renovation and mild energy-upgrade action covering specified closed homes and main residences. YPEN cites a €500 million budget. The announced closed-home certificate deadline was 30 September 2026, and a separate Stage B funding application is still required. Check anakainisi.gov.gr for any later change."
       },
       {
         question: "Can foreign buyers use the Anakainizo renovation subsidy?",
-        answer: "Eligibility for a foreign owner depends on the final official guide, tax and income conditions, the property's lawful status and the permitted use. Any owner-occupation, long-term-rental, resale or short-term-rental restriction must be confirmed from the applicable programme decision before acquisition."
+        answer: "Do not assume that a foreign buyer can use the action. A closed home acquired during 2026 is excluded from the certificate stage because it must appear in the applicant’s 2025 tax declaration. Nationality, residence, ownership, tax evidence and later Stage B conditions require verification against the official rules."
       },
       {
-        question: "Why do unauthorised constructions block Anakainizo eligibility?",
-        answer: "An unresolved planning infringement can affect the documentation, eligibility or lawful scope of subsidised works. An engineer should reconcile the permit file, Electronic Building Identity records and any declarations before an application. Category 5 is a statutory planning classification, not a synonym for coastal-zone construction, and eligibility must be checked under the current programme and planning rules."
+        question: "Why should permit and as-built discrepancies be reviewed before applying?",
+        answer: "Permit and as-built questions can affect an acquisition and may require specialist review. This page cannot determine PEA issue, regularisation, Category 5 treatment or programme eligibility for a particular property. Obtain the permit file and competent Greek advice before relying on the action."
       },
       {
-        question: "What happens if renovation costs exceed the programme cap?",
-        answer: "Programme cost caps and eligible expenditure vary by official cycle. Any amount above the applicable cap, any ineligible work and any structural or permit remediation remains the owner's exposure. A technical condition assessment before acquisition helps compare the full renovation requirement with the subsidy-eligible scope."
+        question: "What if renovation costs exceed the grant-supported scope?",
+        answer: "The announced maximum grant is not a cap on the contractor’s actual cost. Prepare a property-specific budget, identify eligible and non-eligible work and confirm the award before calculating the owner’s final contribution."
       },
       {
         question: "What does the five-year lock-in mean for property buyers?",
-        answer: "Any lock-in, resale, owner-occupation, rental-duration or rent-setting condition is programme-specific and must be confirmed from the final official guide and grant decision. These restrictions can materially affect an investment strategy, so they should be reviewed before purchase rather than inferred from earlier announcements."
+        answer: "The June announcement describes at least five years of the declared residential use, with a fixed rent for at least the first three years where rented and no short-term letting. Do not infer a blanket resale rule from this summary; verify transfer and repayment conditions before an exit decision."
       }
     ]
   },
