@@ -45,11 +45,11 @@
         },
         {
           "question": "Does the missed deadline delay Greece’s minimum energy performance standards (MEPS)?",
-          "answer": "It delays the exact published thresholds, which are still being finalized through a revision of the KENAK building energy code, but it does not remove the underlying obligation. Greece has already transposed the earliest-deadline piece of the directive, the ban on financial incentives for fossil-fuel boilers, applying from 1 January 2025 under Law 5215/2025, and the wider standards are being written under active EU pressure rather than on an open-ended timeline."
+          "answer": "It delays the exact Greek rules, which have not yet been published, but it does not remove the underlying EU obligation on Greece. Greece has already transposed the earliest-deadline piece of the directive, the ban on financial incentives for fossil-fuel boilers, applying from 1 January 2025 under Law 5215/2025, and the wider standards are being written under active EU pressure rather than on an open-ended timeline."
         },
         {
           "question": "Should I wait for Greece’s building energy law to be finalized before upgrading my property?",
-          "answer": "No. The current grant framework and the coming standards run on separate clocks, and subsidy rates and contractor pricing are not guaranteed once a compliance deadline and every other owner of older stock arrive at the same time. An independent pre-upgrade review checks what the property may qualify for now, before the threshold is fixed in law."
+          "answer": "No. The current grant framework and the coming standards run on separate clocks, and subsidy rates and contractor pricing are not guaranteed to stay where they are. An independent pre-upgrade review checks what the property may qualify for now, based on the official rules in force."
         }
       ]
     },
@@ -425,7 +425,7 @@
         },
         {
           "question": "Do you pay annual property tax in Greece?",
-          "answer": "Yes. ENFIA, the unified property tax, is charged every year based on the property’s size, location, age and objective value. A separate municipal duty, TAP, runs at 0.025 to 0.035 percent of the objective value and is collected through the electricity bill. Both continue for as long as the property is held."
+          "answer": "Yes. ENFIA, the unified property tax, is charged every year based on the property’s size, location, age and objective value. A separate municipal duty, TAP, runs at 0.025 to 0.035 percent of the objective value and is collected through the electricity bill. From 1 January 2027 it is replaced by a new Local Development Fee, also collected through the electricity bill. Both ENFIA and the municipal charge continue for as long as the property is held."
         },
         {
           "question": "How much does it cost to check a property before buying in Greece?",
@@ -445,7 +445,7 @@
         },
         {
           "question": "How much does a property inspection or technical due diligence cost on Mykonos?",
-          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size and complexity of the asset. On Mykonos acquisition values, that is a fraction of one percent of the purchase price, set against defect and regularization exposure that routinely reaches six figures."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size and complexity of the asset. On Mykonos acquisition values, the fee is a small fraction of the purchase price, set against defect and regularization exposure that routinely reaches six figures."
         },
         {
           "question": "What is the Golden Visa threshold for property on Mykonos?",
@@ -508,7 +508,7 @@
       "faqs": [
         {
           "question": "Have Greek programmes supported heat pumps?",
-          "answer": "Greece has operated a programme supporting heat-pump systems and solar water heaters. The household application deadline for the 2025 programme was 5 May 2025. Later ministry notices concern existing vouchers and supplier payments, not a new household application window. Ministry notice confirming the 5 May 2025 household deadline; later notice on supplier payments."
+          "answer": "Greece has operated a programme supporting heat-pump systems and solar water heaters. The household application deadline for the 2025 programme was 5 May 2025. Later ministry notices concern existing vouchers and supplier payments, not a new household application window. Greece's Social Climate Fund plan, approved in August 2026, includes support for heat pumps and solar water heaters, but as checked on 24 October 2026 we found no published call or terms. Ministry notice confirming the 5 May 2025 household deadline ; later notice on supplier payments ."
         },
         {
           "question": "What should I check about rooftop solar or solar-water-heater support?",
@@ -588,7 +588,7 @@
       "faqs": [
         {
           "question": "Is an EPC required to sell property in Greece?",
-          "answer": "For a sale or lease of a building or building unit, the Ministry-hosted law says the owner or lessor shows the PEA, or a copy, to the prospective new buyer or tenant and delivers it to the new buyer or tenant. Statutory exceptions and transaction-specific requirements should be checked for the property."
+          "answer": "The Ministry-hosted text of Law 4122/2013 (Article 12) makes issuing a PEA mandatory on the sale of a building or building unit and on a lease to a new tenant, and says the owner or lessor shows the PEA, or a copy, to the prospective new buyer or tenant and delivers it to the new buyer or tenant. It also requires the energy class from the PEA to be stated in commercial advertisements for the sale or lease. Statutory exceptions and transaction-specific requirements should be checked for the property."
         },
         {
           "question": "What is a ΠΕΑ in Greece?",
@@ -596,7 +596,7 @@
         },
         {
           "question": "When do you need a new EPC in Greece?",
-          "answer": "The Ministry identifies completion of a new building, an addition and a major renovation as cases requiring a PEA for the construction-control certificate. A valid PEA has a maximum ten-year validity; the Ministry-hosted law says it expires when a major renovation is completed and does not need to be reissued simply for a sale or lease while valid. Confirm the classification of planned works for the property."
+          "answer": "The Ministry identifies completion of a new building, an addition and a major renovation as cases requiring a PEA for the construction-control certificate. A valid PEA has a maximum ten-year validity; the Ministry-hosted law says it expires when a major renovation is completed and does not need to be reissued simply for a sale or lease while valid. If there is no valid PEA, Article 12 makes issuing one mandatory for a sale or for a lease to a new tenant. Confirm the classification of planned works for the property."
         },
         {
           "question": "Can the EPC be free in Greece?",
@@ -644,7 +644,7 @@
       "faqs": [
         {
           "question": "How much does the Greek energy upgrade grant cover?",
-          "answer": "The support rate, eligible costs and any owner contribution must be taken from the official guide for an open cycle. As checked on 23 September 2026, Exoikonomo 2025 is closed to new applications; its later implementation extension is not a reopening. Official notice confirming the 13 April 2025 application deadline; Ministry notice on the 30 November 2026 completion extension."
+          "answer": "The support rate, eligible costs and any owner contribution must be taken from the official guide for an open cycle. As checked on 24 October 2026, Exoikonomo 2025 is closed to new applications; its later implementation extension is not a reopening. Official notice confirming the 13 April 2025 application deadline ; Ministry notice on the 30 November 2026 completion extension ."
         },
         {
           "question": "Can a foreign owner get an energy grant in Greece?",
@@ -660,7 +660,7 @@
         },
         {
           "question": "When does the 2026 Greek energy grant open?",
-          "answer": "No new Exoikonomo homeowner application opening was verified as of 23 September 2026. Exoikonomo 2025 applications closed on 13 April 2025; a later extension concerns completion of specified approved cases, not a new opening. Check the official programme page and guide for any future call. Official notice: Exoikonomo 2025 applications closed on 13 April 2025; the later notice concerns completion of specified approved cases."
+          "answer": "No new Exoikonomo homeowner application opening was verified as of 24 October 2026. Greece's Social Climate Fund plan, approved in August 2026, includes new Exoikonomo programmes, but we found no published call, terms or dates. Exoikonomo 2025 applications closed on 13 April 2025; a later extension concerns completion of specified approved cases, not a new opening. Check the official programme page and guide for any future call. Official notice: Exoikonomo 2025 applications closed on 13 April 2025 ; the later notice concerns completion of specified approved cases ."
         }
       ]
     },
@@ -896,7 +896,7 @@
       "faqs": [
         {
           "question": "How much does a building survey cost in Greece?",
-          "answer": "A building survey in Greece is priced as a fixed fee after a short scoping call. The fee covers on-site inspection, permit file review and a structured English-language report. Every property is quoted individually after the scoping call, based on scope and location."
+          "answer": "A building survey in Greece is priced as a fixed fee after a short scoping call. The fee covers on-site inspection, permit file review and a structured English-language report. Every property is quoted individually after the scoping call, based on scope and location. A snagging survey on a new-build or renovated villa at handover, the equivalent independent check for a property with no prior ownership history, is quoted the same way."
         },
         {
           "question": "What does a building survey in Greece include?",
@@ -968,11 +968,11 @@
       "faqs": [
         {
           "question": "Can Americans buy property in Greece?",
-          "answer": "Yes. There are no restrictions on US citizens purchasing residential or commercial property in Greece. Americans are treated as non-EU buyers and are entitled to the same property rights as Greek nationals, with the exception of certain properties in designated border regions which require additional Ministry of Defence approval."
+          "answer": "Yes. There are no restrictions on US citizens purchasing residential or commercial property in Greece. Americans are treated as non-EU buyers and are entitled to the same property rights as Greek nationals, with the exception of certain properties in designated border regions which require prior authorisation."
         },
         {
           "question": "What taxes do Americans pay when buying property in Greece?",
-          "answer": "The primary purchase tax is the property transfer tax at 3.09% of the taxable value. A rise to 15% for individual non-EU buyers, including Americans, has been announced for 2027. VAT applies on new builds from developers. US citizens must also comply with FBAR (FinCEN 114) reporting requirements if the purchase involves a foreign bank account exceeding $10,000 at any point, and FATCA reporting if applicable. Property ownership in Greece may also create Greek income tax obligations on rental income."
+          "answer": "The primary purchase tax is the property transfer tax at 3.09% of the taxable value. A rise to 15% for individual non-EU buyers, including Americans, is planned from 1 July 2027 and is in a draft bill that has not yet been passed. VAT applies on new builds from developers. US citizens must also comply with FBAR (FinCEN 114) reporting requirements if the purchase involves a foreign bank account exceeding $10,000 at any point, and FATCA reporting if applicable. Property ownership in Greece may also create Greek income tax obligations on rental income."
         },
         {
           "question": "Do Americans need a lawyer to buy property in Greece?",
@@ -1028,7 +1028,7 @@
       "faqs": [
         {
           "question": "What is the Anakainizo programme in Greece?",
-          "answer": "Anakainisi Katoikias is a Greek renovation and mild energy-upgrade action covering specified closed homes and main residences. YPEN cites a €500 million budget. The announced closed-home certificate deadline was 30 September 2026, and a separate Stage B funding application is still required. Check anakainisi.gov.gr for any later change."
+          "answer": "Anakainisi Katoikias is a Greek renovation and mild energy-upgrade action covering specified closed homes and main residences. YPEN cites a €500 million budget. The announced closed-home certificate deadline was 30 September 2026, and a separate Stage B funding application is still required. Stage B had not opened as of 24 October 2026. Check anakainisi.tee.gov.gr for current dates."
         },
         {
           "question": "Can foreign buyers use the Anakainizo renovation subsidy?",
@@ -1044,7 +1044,7 @@
         },
         {
           "question": "What does the five-year lock-in mean for property buyers?",
-          "answer": "The June announcement describes at least five years of the declared residential use, with a fixed rent for at least the first three years where rented and no short-term letting. Do not infer a blanket resale rule from this summary; verify transfer and repayment conditions before an exit decision."
+          "answer": "The official implementation guide requires at least five years of the declared residential use after the works are completed. Where the home is rented, it must be let long term with a fixed rent for at least the first three years and no short-term letting. Transferring the property within the five years triggers repayment of the full grant, so verify the conditions before an exit decision."
         }
       ]
     },
@@ -1120,7 +1120,7 @@
         },
         {
           "question": "What is the process for legalizing illegal building works on Mykonos?",
-          "answer": "Unpermitted works are regularized under Law 4495/2017 through an engineer-certified declaration and a fine based on the size and category of the violation. Greece extended the settlement deadline for older violations to 2028 under Law 5270/2026. Confirm the current status and requirements for any specific property with your legal advisor before relying on a declaration."
+          "answer": "Eligible unpermitted works can be regularized under Law 4495/2017, now codified in Law 5306/2026, through an engineer-certified declaration and a fine based on the size and category of the violation. Greece extended the filing deadline for Categories 1 to 4 to 31 March 2028 under Law 5270/2026. Confirm the current status and requirements for any specific property with your legal advisor before relying on a declaration."
         },
         {
           "question": "What is the risk of buying a Mykonos property with an unverified title?",
@@ -1156,7 +1156,7 @@
         },
         {
           "question": "Does a short-term rental licence transfer when you buy property in Greece?",
-          "answer": "Not in the high-pressure districts currently under registration freeze. In defined zones of central Athens and, from March 2026, parts of Thessaloniki, the short-term rental registration is tied to the current owner rather than the property, and it is deleted automatically when ownership changes through sale, gift or inheritance. The incoming owner cannot obtain a new registration while the freeze remains in force, so short-term rental income advertised on a listing in these zones should not be assumed to continue after purchase."
+          "answer": "Not in the high-pressure districts currently under registration freeze. In defined zones of central Athens and, as reported, part of Thessaloniki, the short-term rental registration is tied to the current owner rather than the property, and it is deleted when ownership changes through sale or gift. The incoming owner cannot obtain a new registration while the freeze remains in force, so short-term rental income advertised on a listing in these zones should not be assumed to continue after purchase."
         },
         {
           "question": "How much are closing costs when buying property in Greece?",
