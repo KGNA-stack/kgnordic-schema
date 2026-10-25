@@ -25,7 +25,7 @@
         },
         {
           "question": "Do coastal building restrictions in Mykonos differ from the rest of Greece?",
-          "answer": "The national foreshore and beach zone rules apply on Mykonos as everywhere else, with island-specific planning rules layered on top. The island has also been a focus of Environment Ministry inspections of unauthorized construction, so seafront terraces, pools and access steps attract scrutiny. Have the plot surveyed against the approved line and the structures compared with the permit drawings before signing. A property inspection starts from 5,000 euros."
+          "answer": "The national foreshore and beach zone rules apply on Mykonos as everywhere else, with island-specific planning rules layered on top. The island has also been a focus of Environment Ministry inspections of unauthorized construction, so seafront terraces, pools and access steps attract scrutiny. Have the plot surveyed against the approved line and the structures compared with the permit drawings before signing. The fee for a property inspection is fixed after a short scoping call and confirmed in writing before any work starts."
         }
       ]
     },
@@ -69,7 +69,7 @@
         },
         {
           "question": "How much does a building survey cost in the Ionian Islands?",
-          "answer": "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size, type and location of the property. Set against remediation of a single serious structural or moisture defect, or an unresolved regularization case inherited at transfer, it is the smaller figure in every scenario in which it matters."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size, type and location of the property. Set against remediation of a single serious structural or moisture defect, or an unresolved regularization case inherited at transfer, it is the smaller figure in every scenario in which it matters."
         },
         {
           "question": "Is damp really a problem in Greek island properties?",
@@ -97,7 +97,7 @@
         },
         {
           "question": "Is an inspection worth it on a recently renovated property?",
-          "answer": "Especially there. The renovated premium is exactly what is at stake, and an inspection from an independent technical advisor, starting from 5,000 euros, dates the systems behind the finishes and tests the renovation story against the building. The findings either justify the premium or reprice it before the deposit commits."
+          "answer": "Especially there. The renovated premium is exactly what is at stake, and an inspection from an independent technical advisor dates the systems behind the finishes and tests the renovation story against the building. The findings either justify the premium or reprice it before the deposit commits."
         }
       ]
     },
@@ -125,7 +125,7 @@
         },
         {
           "question": "How long does a technical due diligence report take in Greece?",
-          "answer": "The timetable is confirmed after initial scoping and document review, because it depends on the scale of the asset, access, specialist inputs and how quickly the permit file can be obtained from the local building service. Request documents the day the mandate is signed and commission the report while the price is still open. A property inspection, the narrower scope for a single residential asset, starts from 5,000 euros."
+          "answer": "The timetable is confirmed after initial scoping and document review, because it depends on the scale of the asset, access, specialist inputs and how quickly the permit file can be obtained from the local building service. Request documents the day the mandate is signed and commission the report while the price is still open. For a single residential asset, a property inspection is the narrower scope, with the fee fixed after a short scoping call."
         }
       ]
     },
@@ -153,7 +153,7 @@
         },
         {
           "question": "How much does technical due diligence cost in Greece?",
-          "answer": "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the property type, size and location. Technical due diligence on larger, older or investment assets is scoped individually once the documents have been reviewed. Legal fees are separate and agreed directly with the buyer’s lawyer."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the property type, size and location. Technical due diligence on larger, older or investment assets is scoped individually once the documents have been reviewed. Legal fees are separate and agreed directly with the buyer’s lawyer."
         }
       ]
     },
@@ -197,7 +197,7 @@
         },
         {
           "question": "Is a remote review a substitute for a property inspection?",
-          "answer": "No. Documents cannot reveal moisture, structural condition or the state of installations. The remote review decides whether a property justifies an on-site inspection, and the inspection, starting from 5,000 euros with an independent technical advisor, decides whether it justifies a contract. They are sequential steps, not alternatives."
+          "answer": "No. Documents cannot reveal moisture, structural condition or the state of installations. The remote review decides whether a property justifies an on-site inspection, and the inspection with an independent technical advisor decides whether it justifies a contract. They are sequential steps, not alternatives."
         },
         {
           "question": "How long does a remote asset review take?",
@@ -249,7 +249,7 @@
         },
         {
           "question": "How much does technical due diligence cost for a Golden Visa property?",
-          "answer": "A property inspection from an independent technical advisor starts from €5,000, with technical due diligence scoped to the size and complexity of the asset. That starting price equals 1.25% of a €400,000 investment and 0.625% of an €800,000 investment before any scope adjustment."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, with technical due diligence scoped to the size and complexity of the asset. Set against a €400,000 or €800,000 investment, it is a small fraction of the amount committed."
         }
       ]
     },
@@ -273,7 +273,7 @@
         },
         {
           "question": "What should I check before buying an older, cheaper house in Greece?",
-          "answer": "Check structure, moisture, roof, installations and the permit file through an independent pre-purchase inspection starting from 5,000 euros, with specialist investigations where needed. Then obtain a scoped upgrade budget with exclusions and contingency. Review the total acquisition cost and contract terms before committing a deposit."
+          "answer": "Check structure, moisture, roof, installations and the permit file through an independent pre-purchase inspection, with specialist investigations where needed. Then obtain a scoped upgrade budget with exclusions and contingency. Review the total acquisition cost and contract terms before committing a deposit."
         }
       ]
     },
@@ -321,7 +321,7 @@
         },
         {
           "question": "Is a more expensive property inspection actually worth it?",
-          "answer": "Yes, when the added cost reflects a wider scope rather than just a higher price for the same walkthrough. An inspection starting from €5,000 typically includes a full site review, cross-referencing against the property’s permit documentation, and a written English-language report with findings categorised by severity. A basic inspection priced in the hundreds of euros is not built to deliver the same level of scrutiny, regardless of what it is called."
+          "answer": "Yes, when the added cost reflects a wider scope rather than just a higher price for the same walkthrough. A premium technical inspection typically includes a full site review, cross-referencing against the property’s permit documentation, and a written English-language report with findings categorised by severity. A basic inspection priced in the hundreds of euros is not built to deliver the same level of scrutiny, regardless of what it is called."
         },
         {
           "question": "What should I ask before commissioning a property inspection in Greece?",
@@ -373,7 +373,7 @@
         },
         {
           "question": "How much does an independent inspection cost for a golden visa property?",
-          "answer": "A property inspection in Greece starts from 5,000 euros, scaled to the size and complexity of the asset. Set against a purchase at the 400,000 or 800,000 euro threshold, it is the smallest number in the transaction, and it is the only spend whose purpose is to find reasons not to proceed."
+          "answer": "A property inspection in Greece is quoted as a fixed fee, scaled to the size and complexity of the asset. Set against a purchase at the 400,000 or 800,000 euro threshold, it is the smallest number in the transaction, and it is the only spend whose purpose is to find reasons not to proceed."
         }
       ]
     },
@@ -429,7 +429,7 @@
         },
         {
           "question": "How much does it cost to check a property before buying in Greece?",
-          "answer": "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the asset type and location. A preliminary remote asset review can be arranged from documents and public records before a site visit. Against typical closing costs and an unknown regularization bill, this is the smallest and most useful number in the transaction."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the asset type and location. A preliminary remote asset review can be arranged from documents and public records before a site visit. Against typical closing costs and an unknown regularization bill, this is the smallest and most useful number in the transaction."
         }
       ]
     },
@@ -445,7 +445,7 @@
         },
         {
           "question": "How much does a property inspection or technical due diligence cost on Mykonos?",
-          "answer": "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size and complexity of the asset. On Mykonos acquisition values, that is a fraction of one percent of the purchase price, set against defect and regularization exposure that routinely reaches six figures."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size and complexity of the asset. On Mykonos acquisition values, that is a fraction of one percent of the purchase price, set against defect and regularization exposure that routinely reaches six figures."
         },
         {
           "question": "What is the Golden Visa threshold for property on Mykonos?",
@@ -548,7 +548,7 @@
         },
         {
           "question": "How much does a property inspection cost in Greece?",
-          "answer": "A property inspection from an independent technical advisor starts from 5,000 euros, scoped to the size, location and type of the asset. Set against a typical deposit of 10 percent committed at the preliminary contract, it is the smaller figure in the transaction. A remote asset review from documents and public records can be arranged before any site visit."
+          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size, location and type of the asset. Set against a typical deposit of 10 percent committed at the preliminary contract, it is the smaller figure in the transaction. A remote asset review from documents and public records can be arranged before any site visit."
         }
       ]
     },
@@ -723,8 +723,8 @@
           "answer": "No. A higher fee may reflect greater depth, travel, complexity, specialist inputs or reporting reliance, but price alone does not establish quality. The buyer should compare the agreed scope and intended output rather than only the headline fee."
         },
         {
-          "question": "Is KG Nordic one of the best property inspection firms in Greece?",
-          "answer": "There is no official ranking that establishes one universally best firm. For buyers who define one of the best firms by technical leadership, independence of judgement, defined scope, direct English reporting, professional boundaries and buyer-side accountability, KG Nordic is built to meet that benchmark. The experience behind the firm spans more than fourteen years and projects with a combined governed value exceeding EUR 150M."
+          "question": "How do I choose the best property inspection firm in Mykonos?",
+          "answer": "There is no official ranking of property inspection firms in Mykonos. Compare firms on independence from the transaction, engineering-led experience with villas and multi-building sites, a clearly defined scope, direct English reporting and the ability to coordinate specialist input, such as pool, water or structural review, where the property needs it."
         }
       ]
     },
@@ -760,7 +760,7 @@
         },
         {
           "question": "How much does a property inspection in Greece cost?",
-          "answer": "An independent property inspection in Greece starts from €5,000 for a standard residential asset. The fee reflects travel, on-site time, permit file review and a structured English-language written report. Multi-unit properties, commercial assets and larger villas carry a higher fee. The cost is typically recovered in the first negotiation it supports."
+          "answer": "The fee for an independent property inspection in Greece is fixed after a short scoping call and confirmed in writing before any work starts. The fee reflects travel, on-site time, permit file review and a structured English-language written report. Multi-unit properties, commercial assets and larger villas carry a higher fee. The cost is typically recovered in the first negotiation it supports."
         },
         {
           "question": "Is a property inspection legally required in Greece?",
@@ -848,7 +848,7 @@
         },
         {
           "question": "Who verifies the permit file when I buy property in Greece?",
-          "answer": "In the standard transaction, effectively no one on the buyer’s side. The notary handles the contract, the lawyer checks title, and the seller’s engineer certifies compliance from documents. An independent technical advisor engaged by the buyer is the only party who measures the building against its permits, typically as part of a property inspection or technical due diligence starting from 5,000 euros."
+          "answer": "In the standard transaction, effectively no one on the buyer’s side. The notary handles the contract, the lawyer checks title, and the seller’s engineer certifies compliance from documents. An independent technical advisor engaged by the buyer is the only party who measures the building against its permits, typically as part of a property inspection or technical due diligence."
         }
       ]
     },
@@ -878,13 +878,13 @@
     },
     "cost-of-building-survey-greece": {
       "headline": "What Does a Building Survey in Greece Actually Cost?",
-      "description": "A building survey in Greece starts from EUR 5,000 for a standard residential property. What the fee covers, what it does not, and what you inherit without one.",
+      "description": "A building survey in Greece is priced as a fixed fee after a short scoping call. What the fee covers, what it does not, and what you inherit without one.",
       "datePublished": "2026-05-20",
       "dateModified": "2026-07-27",
       "faqs": [
         {
           "question": "How much does a building survey cost in Greece?",
-          "answer": "A building survey in Greece starts from €5,000 for a standard residential property. The fee covers on-site inspection, permit file review and a structured English-language report. Larger properties, rural estates, multi-unit buildings and commercial assets are quoted individually based on scope and location. The same starting fee applies to a snagging survey on a new-build or renovated villa at handover, the equivalent independent check for a property with no prior ownership history."
+          "answer": "The fee for a building survey in Greece is fixed after a short scoping call, based on the property, the documents available and the depth of review needed, and confirmed in writing before any work starts. The fee covers on-site inspection, permit file review and a structured English-language report. Larger properties, rural estates, multi-unit buildings and commercial assets are quoted individually based on scope and location. The same starting fee applies to a snagging survey on a new-build or renovated villa at handover, the equivalent independent check for a property with no prior ownership history."
         },
         {
           "question": "What does a building survey in Greece include?",
@@ -1060,7 +1060,7 @@
         },
         {
           "question": "What does a property inspection cost in Greece before signing a contract?",
-          "answer": "A property inspection from an independent technical advisor starts from €5,000. The scope covers structural condition, building permit compliance and technical risk indicators. A preliminary remote acquisition review, which can be conducted from documents and publicly available records before a physical site visit is arranged, is typically scoped separately. Contact us to confirm the appropriate scope for the specific property type and location."
+          "answer": "The fee for a property inspection is fixed after a short scoping call, based on the property, the documents available and the depth of review needed, and confirmed in writing before any work starts. The scope covers structural condition, building permit compliance and technical risk indicators. A preliminary remote acquisition review, which can be conducted from documents and publicly available records before a physical site visit is arranged, is typically scoped separately. Contact us to confirm the appropriate scope for the specific property type and location."
         }
       ]
     },
@@ -1116,7 +1116,7 @@
         },
         {
           "question": "What does a due diligence quote for a Mykonos villa cost?",
-          "answer": "A property inspection or technical due diligence engagement from an independent technical advisor starts from 5,000 euros, scoped to size and complexity. For a large or multi-structure Mykonos property in the seven or eight-figure range, the fee scales with the number of buildings, the specialist inputs the permit check requires, and whether a licensed engineer is brought in alongside the technical advisor for the control measurement, but it remains a small fraction of the acquisition price set against the regularization and defect exposure such properties typically carry. An exact scope and fee follow a short scoping call, not a fixed table."
+          "answer": "A property inspection or technical due diligence engagement from an independent technical advisor is quoted as a fixed fee, scoped to size and complexity. For a large or multi-structure Mykonos property in the seven or eight-figure range, the fee scales with the number of buildings, the specialist inputs the permit check requires, and whether a licensed engineer is brought in alongside the technical advisor for the control measurement, but it remains a small fraction of the acquisition price set against the regularization and defect exposure such properties typically carry. An exact scope and fee follow a short scoping call, not a fixed table."
         },
         {
           "question": "Is the due diligence process confidential?",
@@ -1152,7 +1152,7 @@
         },
         {
           "question": "What capital expenditure should I budget for a Greek property investment?",
-          "answer": "The figure depends on the building’s age, construction type and system condition, which is why a ten-year capital expenditure projection rather than a rule of thumb is the appropriate tool. Pre-2000 concrete-frame apartment buildings, common across central Athens and Piraeus, carry higher roofing, waterproofing and MEP replacement exposure than newer stock. An independent technical advisor’s property condition assessment starts from 5,000 euros and produces a scheduled capital expenditure forecast rather than an estimate."
+          "answer": "The figure depends on the building’s age, construction type and system condition, which is why a ten-year capital expenditure projection rather than a rule of thumb is the appropriate tool. Pre-2000 concrete-frame apartment buildings, common across central Athens and Piraeus, carry higher roofing, waterproofing and MEP replacement exposure than newer stock. An independent technical advisor’s property condition assessment produces a scheduled capital expenditure forecast rather than an estimate."
         }
       ]
     },
