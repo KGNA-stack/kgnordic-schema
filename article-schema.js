@@ -832,7 +832,7 @@
       "headline": "Building Permit Due Diligence in Greece",
       "description": "What to verify in a Greek building permit file before you buy: drawings, structural study, Building Identity, and the mismatches that cost buyers.",
       "datePublished": "2026-07-20",
-      "dateModified": "2026-10-01",
+      "dateModified": "2026-10-25",
       "faqs": [
         {
           "question": "What is building permit due diligence in Greece?",
@@ -849,6 +849,18 @@
         {
           "question": "Who verifies the permit file when I buy property in Greece?",
           "answer": "In the standard transaction, effectively no one on the buyer’s side. The notary handles the contract, the lawyer checks title, and the seller’s engineer certifies compliance from documents. An independent technical advisor engaged by the buyer is the only party who measures the building against its permits, typically as part of a property inspection or technical due diligence."
+        },
+        {
+          "question": "Should I get a technical inspection before buying a house in Greece?",
+          "answer": "In most cases, yes. Your lawyer checks title and the legal transfer file, but nobody in a standard Greek transaction is tasked with comparing the building to its permit drawings on the buyer’s behalf, or with assessing condition, damp and building services. An inspection before a deposit gives you findings you can still act on, whether that means renegotiating, asking the seller to resolve an issue or walking away."
+        },
+        {
+          "question": "Is the engineer’s certificate at the notary not enough?",
+          "answer": "It is a legal requirement and an important document, but it is normally commissioned by the seller and answers a narrow legal question: whether unauthorised works exist beyond what the law permits. It is not a condition survey and does not describe defects, damp or services. A buyer is better protected when someone working only for them has compared the building with the file independently."
+        },
+        {
+          "question": "Does the Ktimatologio confirm that the building is legal?",
+          "answer": "No. The Hellenic Cadastre records ownership, registered rights and the shape, location and size of the plot. Your lawyer relies on it for title. It does not describe what has been built on the plot or whether the building matches a permit, so it does not replace a permit comparison on site."
         }
       ]
     },
@@ -877,26 +889,26 @@
       ]
     },
     "cost-of-building-survey-greece": {
-      "headline": "What Does a Building Survey in Greece Actually Cost?",
-      "description": "A building survey in Greece is priced as a fixed fee after a short scoping call. What the fee covers, what it does not, and what you inherit without one.",
+      "headline": "What Drives the Cost of a Building Survey in Greece",
+      "description": "How a Greek property survey fee is set, what a proper building survey covers, and the repair and permit costs a buyer can inherit without one.",
       "datePublished": "2026-05-20",
-      "dateModified": "2026-07-27",
+      "dateModified": "2026-10-25",
       "faqs": [
         {
           "question": "How much does a building survey cost in Greece?",
-          "answer": "The fee for a building survey in Greece is fixed after a short scoping call, based on the property, the documents available and the depth of review needed, and confirmed in writing before any work starts. The fee covers on-site inspection, permit file review and a structured English-language report. Larger properties, rural estates, multi-unit buildings and commercial assets are quoted individually based on scope and location. The same starting fee applies to a snagging survey on a new-build or renovated villa at handover, the equivalent independent check for a property with no prior ownership history."
+          "answer": "A building survey in Greece is priced as a fixed fee after a short scoping call. The fee covers on-site inspection, permit file review and a structured English-language report. Every property is quoted individually after the scoping call, based on scope and location."
         },
         {
           "question": "What does a building survey in Greece include?",
-          "answer": "A building survey in Greece should include: structural condition assessment, building envelope review (roof, walls, windows), MEP systems evaluation, permit file cross-check against the physical structure, moisture and dampness inspection, and a written English-language report with findings and recommended actions. Not all providers in Greece offer the same scope. Confirm what the report covers before commissioning."
+          "answer": "A building survey in Greece should include: visible structural condition, building envelope review (roof, walls, windows), MEP systems evaluation, permit file cross-check against the physical structure, moisture and dampness inspection, and a written English-language report with findings and recommended actions. Not all providers in Greece offer the same scope. Confirm what the report covers before commissioning."
         },
         {
           "question": "Is a building survey worth it in Greece?",
-          "answer": "Yes. In a market where unauthorised constructions are common, legal due diligence does not cover technical condition, and most buyers do not have local technical knowledge, a building survey is the primary tool for identifying risks before capital is committed. Findings from a survey regularly support price reductions that exceed the survey fee by a factor of 10 or more."
+          "answer": "Yes. In a market where unauthorised constructions are common, legal due diligence does not cover technical condition, and most buyers do not have local technical knowledge, a building survey is the primary tool for identifying risks before capital is committed. Findings from a survey can support price reductions or repair obligations that exceed the survey fee."
         },
         {
           "question": "How long does a building survey take in Greece?",
-          "answer": "The physical inspection of a standard residential property takes 3–6 hours on site. The written report is typically delivered within 5–10 working days. For properties outside Athens, Thessaloniki and major island hubs, access and travel logistics may extend the timeline. A remote asset review can precede the physical inspection and is typically delivered within 3–5 working days."
+          "answer": "The physical inspection of a standard residential property usually takes four to six hours on site. The written report is typically delivered within five to seven working days after attendance. For properties outside Athens, Thessaloniki and major island hubs, access and travel logistics may extend the timeline. A remote asset review can precede the physical inspection."
         }
       ]
     },
