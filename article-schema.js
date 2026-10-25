@@ -374,6 +374,10 @@
         {
           "question": "How much does an independent inspection cost for a golden visa property?",
           "answer": "A property inspection in Greece is quoted as a fixed fee, scaled to the size and complexity of the asset. Set against a purchase at the 400,000 or 800,000 euro threshold, it is the smallest number in the transaction, and it is the only spend whose purpose is to find reasons not to proceed."
+        },
+        {
+          "question": "Is the technical review independent of the agency, the developer and the lawyer?",
+          "answer": "It should be. A buyer-side technical advisor takes no commission from agencies or developers and reports without an interest in whether the purchase goes ahead. The role is limited to the building: condition, permits, delivery risk and capital expenditure. It does not decide golden visa eligibility or give legal certification. Those remain with your licensed Greek lawyer and immigration adviser, and the technical findings are coordinated with them where needed."
         }
       ]
     },
@@ -1164,7 +1168,11 @@
         },
         {
           "question": "What capital expenditure should I budget for a Greek property investment?",
-          "answer": "The figure depends on the building’s age, construction type and system condition, which is why a ten-year capital expenditure projection rather than a rule of thumb is the appropriate tool. Pre-2000 concrete-frame apartment buildings, common across central Athens and Piraeus, carry higher roofing, waterproofing and MEP replacement exposure than newer stock. An independent technical advisor’s property condition assessment produces a scheduled capital expenditure forecast rather than an estimate."
+          "answer": "The figure depends on the building’s age, construction type and system condition, which is why a ten-year capital expenditure projection rather than a rule of thumb is the appropriate tool. Pre-2000 concrete-frame apartment buildings, common across central Athens and Piraeus, carry higher roofing, waterproofing and MEP replacement exposure than newer stock. An independent technical advisor’s condition assessment produces a capital expenditure forecast based on the observed condition of the building rather than a rule of thumb."
+        },
+        {
+          "question": "What does a pre-purchase technical inspection not cover?",
+          "answer": "The inspection is visual and non-invasive. It covers areas and systems that are safely and reasonably accessible on the day of the visit. Pressure testing, destructive opening-up, laboratory analysis, specialist certification and verification of concealed components are not included unless agreed in advance. Where the visible evidence points to a deeper issue, the report states what further specialist investigation is needed before you commit."
         }
       ]
     },
