@@ -53,30 +53,6 @@
         }
       ]
     },
-    "buying-property-ionian-islands-technical-risks": {
-      "headline": "Ionian Islands Property: Technical Risks Guide",
-      "description": "Buying property in Corfu, Kefalonia or Zakynthos? The seismic history, the damp and the survey gap British buyers miss in the Ionian Islands.",
-      "datePublished": "2026-10-01",
-      "dateModified": "2026-10-01",
-      "faqs": [
-        {
-          "question": "Are the Ionian Islands in an earthquake zone?",
-          "answer": "Yes. Kefalonia, Zakynthos, Lefkada and Ithaca sit in Greece’s highest seismic hazard zone, and the 1953 Ionian earthquake destroyed most of the older stock on Kefalonia and Zakynthos. Corfu is less exposed and retains far more pre-war building fabric. The construction date and any later structural alterations decide how a specific building should be assessed."
-        },
-        {
-          "question": "Do I need a survey when buying property in Corfu?",
-          "answer": "Greek law does not require one, and nobody in the standard transaction will suggest one, but that is a gap rather than a signal. A buyer can make an offer subject to a satisfactory building survey by a named independent firm, exactly as at home."
-        },
-        {
-          "question": "How much does a building survey cost in the Ionian Islands?",
-          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size, type and location of the property. Set against remediation of a single serious structural or moisture defect, or an unresolved regularization case inherited at transfer, it is the smaller figure in every scenario in which it matters."
-        },
-        {
-          "question": "Is damp really a problem in Greek island properties?",
-          "answer": "In the Ionian, yes. Corfu is the wettest of the Greek islands, and its rain is concentrated in the months when holiday homes stand closed. Stone walls wick ground moisture, terraces and flat roofs pond, and cosmetic redecoration before the viewing season hides the evidence. Moisture should be inspected as seriously as it would be in the UK."
-        }
-      ]
-    },
     "cosmetic-renovation-problems-greek-property": {
       "headline": "Cosmetic Renovation Problems in Greek Property",
       "description": "Renovated Greek property often means repainted. How cosmetic renovations hide structural, electrical and moisture problems, and how buyers spot them.",
@@ -178,30 +154,6 @@
         {
           "question": "What happens at handover of an off-plan property in Greece?",
           "answer": "The buyer takes delivery, and with it the burden of proof. An independent snagging survey at or before handover documents construction and finishing defects, checks the installations by visual and functional examination, and itemizes what the contractor must fix while final payment and the defects window still provide leverage. Releasing the final payment before that verification surrenders the leverage permanently."
-        }
-      ]
-    },
-    "remote-property-review-greece": {
-      "headline": "Remote Property Review Greece: Buy from Abroad",
-      "description": "How foreign buyers evaluate Greek property from abroad: what a remote asset review verifies from documents, and what still needs an on-site inspection.",
-      "datePublished": "2026-08-10",
-      "dateModified": "2026-08-10",
-      "faqs": [
-        {
-          "question": "Can I buy property in Greece without visiting it?",
-          "answer": "Legally yes, with a power of attorney the entire transaction can complete remotely. The risk is not the mechanics but the information: everything a remote buyer knows typically comes from parties paid on completion. Independent remote screening followed by an on-site inspection replaces that with verified information."
-        },
-        {
-          "question": "What does a remote asset review of a Greek property check?",
-          "answer": "It cross-checks the listing against permit documents and the Electronic Building Identity, reviews regularization declarations under Law 4495/2017, reads the energy performance certificate, and checks the plot against cadastral records and satellite imagery. It identifies inconsistencies, missing documents and unsettled exposure before the buyer commits to anything."
-        },
-        {
-          "question": "Is a remote review a substitute for a property inspection?",
-          "answer": "No. Documents cannot reveal moisture, structural condition or the state of installations. The remote review decides whether a property justifies an on-site inspection, and the inspection with an independent technical advisor decides whether it justifies a contract. They are sequential steps, not alternatives."
-        },
-        {
-          "question": "How long does a remote asset review take?",
-          "answer": "Typically within 7 working days of receiving the property details, subject to how quickly the seller’s side produces documents. A seller who cannot produce the permit file within a reasonable time is itself a meaningful finding, and the review reports it as one."
         }
       ]
     },
@@ -532,30 +484,6 @@
         }
       ]
     },
-    "can-you-buy-property-greece-without-inspection": {
-      "headline": "Can You Buy Property in Greece Without an Inspection?",
-      "description": "No Greek law requires a property inspection before you buy. What the notary and the sellers engineer actually check, and the risk nobody checks for you.",
-      "datePublished": "2026-07-03",
-      "dateModified": "2026-07-15",
-      "faqs": [
-        {
-          "question": "Is a property inspection legally required when buying property in Greece?",
-          "answer": "No. Greek law requires a notary, tax clearance, a seller’s engineer certificate on permit compliance and an energy performance certificate at the sale. None of these involves an assessment of the building’s condition. A buyer-side inspection happens only if the buyer commissions it directly."
-        },
-        {
-          "question": "Does the notary or my lawyer check the condition of the property?",
-          "answer": "No. The notary validates the contract, the taxes and the transfer as a public official. The lawyer checks title, liens and the inheritance chain at the registry. Neither role includes visiting the property or assessing the building, and in practice neither does."
-        },
-        {
-          "question": "What does the seller’s engineer certificate actually confirm?",
-          "answer": "It confirms that the property has no unpermitted constructions, or that any have been regularized under Law 4495/2017. It is a permit compliance statement, not a condition assessment. It says nothing about structure, roof, moisture, concrete or installations, and it is produced by an engineer paid by the seller."
-        },
-        {
-          "question": "How much does a property inspection cost in Greece?",
-          "answer": "A property inspection from an independent technical advisor is quoted as a fixed fee, scoped to the size, location and type of the asset. Set against a typical deposit of 10 percent committed at the preliminary contract, it is the smaller figure in the transaction. A remote asset review from documents and public records can be arranged before any site visit."
-        }
-      ]
-    },
     "meps-greece-property-owners": {
       "headline": "Greece MEPS: New Minimum Energy Standards",
       "description": "Greece is transposing EU minimum energy performance standards for existing homes. What MEPS means for foreign owners, and why it changes upgrade timing.",
@@ -609,34 +537,6 @@
         {
           "question": "Why should a buyer read the EPC?",
           "answer": "Because it gives a standardised energy-performance input before you commit. A low rating can point to questions about comfort, running costs and upgrade scope, but it should be assessed alongside the property’s condition and documents before it is used in negotiation or a renovation budget."
-        }
-      ]
-    },
-    "property-project-manager-greece": {
-      "headline": "Property Project Manager Greece | Independent Oversight",
-      "description": "What a property project manager, construction project manager or renovation project manager does in Greece and what independent oversight costs.",
-      "datePublished": "2026-06-26",
-      "dateModified": "2026-08-17",
-      "faqs": [
-        {
-          "question": "What does a property project manager do in Greece?",
-          "answer": "An independent property project manager in Greece oversees the construction or renovation process on the owner’s behalf. This covers contractor procurement, written scope and contract management, construction oversight with site visits at critical stages, quality verification and close-out documentation. The role is structurally separate from the contractor’s site manager, who reports to and works for the contractor."
-        },
-        {
-          "question": "What is the difference between a construction project manager and owner’s representation in Greece?",
-          "answer": "In Greece, foreign buyers searching for a construction project manager or renovation project manager are describing the owner’s representation function. Owner’s representation is the professional term for an advisor paid by and reporting exclusively to the property owner. A construction project manager on the contractor side reports to the contractor and optimises for the contractor’s schedule and margin. The distinction determines whose interests are being protected on site."
-        },
-        {
-          "question": "When does a renovation in Greece need independent project management?",
-          "answer": "Any renovation above 100,000 euros in scope benefits from independent management. At this scale, informal contractor arrangements routinely produce cost overruns of 25 to 40% above the original budget. Independent management fees typically run at 8 to 12% of construction contract value, which is less than the average overrun on unmanaged projects in this range."
-        },
-        {
-          "question": "Can a property project manager be hired remotely for a renovation in Greece?",
-          "answer": "Partial remote oversight is practical for the procurement and planning phases. Construction oversight requires physical site presence at critical stages, including structural work, waterproofing installation and MEP commissioning. For foreign buyers who cannot travel regularly, KG Nordic provides local site representation with English-language reporting delivered directly to the owner."
-        },
-        {
-          "question": "Does KG Nordic act as a general contractor in Greece?",
-          "answer": "No. KG Nordic provides owner’s representation and independent technical oversight. We do not act as a general contractor and maintain no commercial relationships with construction or renovation firms. The independence of the oversight function from the contractor is the basis on which it operates."
         }
       ]
     },
@@ -749,34 +649,6 @@
         {
           "question": "Can KG Nordic verify that there are no illegal constructions?",
           "answer": "No technical adviser can guarantee this through visual inspection alone. KG Nordic can identify apparent differences between the accessible built condition and the documents provided. Formal planning, cadastral and legal confirmation remains with the client's licensed Greek advisers."
-        }
-      ]
-    },
-    "property-inspection-greece": {
-      "headline": "You Got the Keys. Now the Problems Start.",
-      "description": "Most defects in Greek property surface after purchase, not during. What foreign buyers discover after getting the keys and how an independent property inspection prevents it.",
-      "datePublished": "2026-04-29",
-      "dateModified": "2026-10-01",
-      "faqs": [
-        {
-          "question": "What does a property inspection in Greece cover?",
-          "answer": "An independent property inspection in Greece covers structural condition, building envelope integrity, MEP systems (mechanical, electrical, plumbing), permit compliance cross-check, visible moisture and dampness indicators, roofing condition, and documented defects with repair cost estimates. The scope includes a written English-language report. For new-build or freshly renovated properties specifically, this takes the form of a snagging survey carried out at handover rather than a pre-purchase inspection."
-        },
-        {
-          "question": "How much does a property inspection in Greece cost?",
-          "answer": "The fee for an independent property inspection in Greece is fixed after a short scoping call and confirmed in writing before any work starts. The fee reflects travel, on-site time, permit file review and a structured English-language written report. Multi-unit properties, commercial assets and larger villas carry a higher fee. The cost is typically recovered in the first negotiation it supports."
-        },
-        {
-          "question": "Is a property inspection legally required in Greece?",
-          "answer": "No. A property inspection is not a legal requirement in Greece. Unlike the UK or parts of the US, there is no mandatory pre-purchase survey system. Buyers who do not independently commission an inspection proceed with no verified technical information about the asset they are purchasing."
-        },
-        {
-          "question": "Who carries out a property inspection in Greece?",
-          "answer": "An independent technical advisor carries out the inspection. The assessment covers the physical structure, a cross-check against the permit file at the local planning authority and documented technical findings in a written report. This is separate from the lawyer’s role in the transaction, which covers title, encumbrances and legal due diligence."
-        },
-        {
-          "question": "What is the difference between a property inspection and a building survey in Greece?",
-          "answer": "The terms are used interchangeably in the Greek context. Neither is a regulated profession with a standardised scope in Greece, unlike the RICS-structured surveys available in the UK. What matters is who carries out the inspection and what the report covers. Structural condition, permit verification and MEP systems should all be included."
         }
       ]
     },
@@ -916,54 +788,6 @@
         }
       ]
     },
-    "property-inspection-crete": {
-      "headline": "Property Inspection Crete: Foreign Buyer's Guide",
-      "description": "Buying in Crete? Learn what an independent property inspection should check, including structure, seismic design basis, moisture, permits and marine exposure.",
-      "datePublished": "2026-05-22",
-      "dateModified": "2026-08-26",
-      "faqs": [
-        {
-          "question": "What are the specific risks of buying property in Crete?",
-          "answer": "The applicable seismic classification in Crete is location-specific under Greece’s current three-zone framework and affects how older buildings should be assessed. Coastal demolitions of illegal structures began in January 2026 following enforcement action, making coastal zone permit compliance particularly material. Agricultural land is widespread and carries strict building restrictions that buyers frequently misunderstand."
-        },
-        {
-          "question": "Are coastal properties in Crete at risk of demolition?",
-          "answer": "Potentially. Unauthorised works in protected coastal or otherwise prohibited locations can face enforcement and demolition exposure, but coastal restrictions and Law 4495/2017 violation categories are separate legal analyses. Distance from the shoreline, construction date, permit history, protected-area status and current legislation must be checked for the exact property by a licensed Greek engineer and lawyer. A coastal listing should never be treated as compliant from appearance or seller assurance alone."
-        },
-        {
-          "question": "Is Crete in a seismic risk zone?",
-          "answer": "Yes. Crete’s applicable seismic classification must be verified for the property’s exact location under Greece’s current Zones I–III framework. Buildings constructed before the 1985 seismic regulation update were designed to lower standards. A structural assessment for pre-1985 reinforced concrete buildings is recommended as part of any property inspection in Crete."
-        },
-        {
-          "question": "What does a property inspection in Crete cover?",
-          "answer": "A property inspection in Crete covers structural condition (with particular attention to seismic vulnerability in older buildings), building envelope integrity, MEP systems, permit file cross-check against the physical structure, and coastal zone compliance status for waterfront properties. The written report is delivered in English."
-        }
-      ]
-    },
-    "how-to-choose-a-property-inspector-in-athens": {
-      "headline": "How to Choose a Property Inspector in Athens",
-      "description": "Foreign buyers account for 40% of Athens transactions. Properties sell in 58 days. Here is how to choose an inspector who protects you, not the deal.",
-      "datePublished": "2026-05-25",
-      "dateModified": "2026-07-27",
-      "faqs": [
-        {
-          "question": "How do I find an independent property inspector in Athens?",
-          "answer": "The key word is independent, meaning the inspector has no connection to the seller, the agent or the developer. An inspector introduced through the seller’s network has a structural conflict of interest. An independent technical advisor is commissioned directly by the buyer, reports only to the buyer and has no financial interest in whether the transaction completes."
-        },
-        {
-          "question": "What should a property inspection in Athens cover?",
-          "answer": "A property inspection in Athens should cover structural condition (with attention to building era: pre-1985 concrete carries different risk than post-2000 construction), building envelope, MEP systems, permit compliance cross-check, rooftop additions (common in Athens and frequently unauthorised), and enclosed balconies. The report should be delivered in written English."
-        },
-        {
-          "question": "What questions should I ask before commissioning a property inspection?",
-          "answer": "Ask: Who do you work for: buyer or seller? Do you carry out the permit file review as part of the inspection? Do you provide a written English report? Have you inspected properties in this building era and neighbourhood before? If the inspector cannot confirm buyer-only representation and a permit review, the scope is incomplete."
-        },
-        {
-          "question": "Why does the pace of the Athens market make inspection timing critical?",
-          "answer": "Properties in Athens sell in an average of 58 days in the current market, with foreign buyers accounting for approximately 40% of transactions. This pace creates pressure to skip technical review. An inspection commissioned before the preliminary contract, not after, is the point at which findings can still affect the price or the decision to proceed."
-        }
-      ]
-    },
     "buying-property-greece-as-an-american": {
       "headline": "Buying Property in Greece as an American: 2026 Guide",
       "description": "Americans can buy property in Greece without restrictions. The process has US-specific tax and reporting layers most buyers discover too late. What to know before you commit.",
@@ -985,42 +809,6 @@
         {
           "question": "What is the process for Americans buying property in Greece?",
           "answer": "The standard process involves: obtaining a Greek tax number (AFM), opening a Greek bank account, conducting legal and technical due diligence, signing a preliminary agreement if applicable, and completing the final transfer before a notary. US buyers should confirm compliance with FBAR and FATCA obligations with a US tax adviser before funds are transferred."
-        }
-      ]
-    },
-    "technical-due-diligence-greece": {
-      "headline": "Technical Due Diligence Greece: Scope, Cost and Process",
-      "description": "Technical due diligence in Greece covers structural condition, permit compliance, MEP systems and a ten-year CapEx projection. What the process involves, what it costs, and when it is non-negotiable.",
-      "datePublished": "2026-06-08",
-      "dateModified": "2026-10-01",
-      "faqs": [
-        {
-          "question": "What is technical due diligence in real estate?",
-          "answer": "Technical due diligence is an independent assessment of a property’s physical condition, permit status, building systems, technical liabilities and future capital expenditure requirements before acquisition."
-        },
-        {
-          "question": "How is technical due diligence different from a property inspection?",
-          "answer": "A property inspection focuses on identifying visible defects and technical issues in a specific asset. Technical due diligence has a broader investment focus and evaluates compliance, condition, risk exposure and future capital requirements to support acquisition decisions."
-        },
-        {
-          "question": "What does technical due diligence typically cover?",
-          "answer": "A technical due diligence scope typically includes permit compliance, structural condition, building envelope assessment, MEP systems, life-safety systems, deferred maintenance, technical liabilities and a multi-year capital expenditure forecast."
-        },
-        {
-          "question": "How much does technical due diligence cost in Greece?",
-          "answer": "The cost depends on asset type, location, size and complexity. Commercial assets, hospitality properties, mixed-use developments and conversion projects generally require a broader scope than standard residential properties."
-        },
-        {
-          "question": "When is technical due diligence necessary?",
-          "answer": "Technical due diligence becomes essential when acquiring commercial property, development assets, hospitality projects, conversion schemes or any transaction where technical risk could materially affect value, financing, operations, future development plans, or properties targeted for the Anakainizo renovation programme."
-        },
-        {
-          "question": "Can technical due diligence identify permit discrepancies?",
-          "answer": "Yes. A core objective is to verify that the property’s physical condition, approved drawings, permits and recorded documentation are aligned, and to identify discrepancies that may create legal, technical or financial risk."
-        },
-        {
-          "question": "Is technical due diligence relevant for Golden Visa investments?",
-          "answer": "Yes. While many Golden Visa acquisitions focus on legal eligibility, technical due diligence helps identify hidden liabilities, permit issues, construction risks and future capital expenditure requirements before funds are committed."
         }
       ]
     },
@@ -1077,34 +865,6 @@
         {
           "question": "What does a property inspection cost in Greece before signing a contract?",
           "answer": "The fee for a property inspection is fixed after a short scoping call, based on the property, the documents available and the depth of review needed, and confirmed in writing before any work starts. The scope covers structural condition, building permit compliance and technical risk indicators. A preliminary remote acquisition review, which can be conducted from documents and publicly available records before a physical site visit is arranged, is typically scoped separately. Contact us to confirm the appropriate scope for the specific property type and location."
-        }
-      ]
-    },
-    "tdd-vs-property-inspection-greece": {
-      "headline": "TDD vs Property Inspection Greece: Which Do You Need?",
-      "description": "A property inspection identifies defects. TDD evaluates whether the price reflects the asset. Four questions to determine which scope your Greek acquisition requires.",
-      "datePublished": "2026-06-15",
-      "dateModified": "2026-10-01",
-      "faqs": [
-        {
-          "question": "What is the difference between a house inspection and technical due diligence in Greece?",
-          "answer": "A house inspection, also called a property inspection, building survey or property survey depending on the buyer’s nationality, covers structural condition, permit compliance, building systems and deferred capital expenditure. It is appropriate for most private residential acquisitions. Technical due diligence is a more extensive mandate covering MEP systems review at operational depth, regulatory compliance mapping, formal CapEx modelling and a report structure suitable for lenders, investment committees or legal negotiations. TDD is the right instrument for hospitality assets, multi-unit developments and institutional purchases, and becomes increasingly likely as acquisition value rises above approximately €500,000, though value alone never decides it."
-        },
-        {
-          "question": "Is a property survey the same as a property inspection in Greece?",
-          "answer": "Yes. In the Greek market, property survey and property inspection describe the same independent technical assessment when commissioned by the buyer. Property survey is the term more commonly used by British buyers; property inspection is more common among American, Nordic and international buyers; building survey is the formal UK RICS terminology. All three describe an independent review of structural condition, permit compliance, building systems and capital expenditure exposure. The scope and methodology determine the quality, not the label applied to the service."
-        },
-        {
-          "question": "Do I need TDD or a property inspection for a Greek villa purchase?",
-          "answer": "For most straightforward private villa purchases, particularly below €500,000, an independent property inspection is the appropriate scope. It covers structural condition, permit compliance review, building systems and a ten-year capital expenditure projection. TDD becomes the right instrument as value rises above €500,000, if the report needs to support financing or co-investor review, or if the acquisition includes a hospitality or development component. Complexity and reporting audience matter more than the price alone."
-        },
-        {
-          "question": "When should I commission a property inspection in Greece?",
-          "answer": "Before the preliminary contract is signed. Findings at this stage can be used to renegotiate the purchase price, attach repair conditions or withdraw without financial penalty. An inspection commissioned after the preliminary contract loses all practical leverage to act on what it identifies. The inspection cost is the same either way."
-        },
-        {
-          "question": "What is the difference between a house inspection in Greece and the US?",
-          "answer": "In the United States and Canada, home inspections are conducted by licensed professionals operating in a regulated market. In Greece, no equivalent regulated profession exists. What differs most significantly is the permit compliance review: in the Greek market, comparing the physical structure against the approved building permits is the most consequential part of any pre-purchase inspection, and it requires specific knowledge of the Greek planning system that standard US home inspection practice does not address."
         }
       ]
     },
