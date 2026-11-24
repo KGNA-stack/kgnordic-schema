@@ -616,7 +616,7 @@
         },
         {
           "question": "What is the deadline to regularise illegal constructions in Greece?",
-          "answer": "Article 43(4) of Law 5270/2026 extended the declaration deadline to 31 March 2028 for eligible pre-28 July 2011 Category 1–4 infringements under Law 4495/2017. Eligibility, statutory exclusions and any later legislative change must be checked for the specific property; the deadline does not automatically eliminate every possible remedy or make every violation eligible."
+          "answer": "Article 43(4) of Law 5270/2026 extended the declaration deadline to 31 March 2028 for eligible pre-28 July 2011 Category 1–4 infringements under Law 5306/2026 (formerly Law 4495/2017). Eligibility, statutory exclusions and any later legislative change must be checked for the specific property; the deadline does not automatically eliminate every possible remedy or make every violation eligible."
         },
         {
           "question": "How do I check for illegal constructions before buying property in Greece?",
@@ -752,7 +752,7 @@
         },
         {
           "question": "Does the Electronic Building Identity prove a property is legal?",
-          "answer": "Not by itself. The Building Identity under Law 4495/2017 is a digital dossier compiled from documents and declarations, usually by an engineer engaged by the seller. It records what has been declared, not what an independent measurement finds on site, so it should be read alongside the original permit file, not instead of it."
+          "answer": "Not by itself. The Building Identity under Law 5306/2026 (formerly Law 4495/2017) is a digital dossier compiled from documents and declarations, usually by an engineer engaged by the seller. It records what has been declared, not what an independent measurement finds on site, so it should be read alongside the original permit file, not instead of it."
         },
         {
           "question": "What happens if I buy a property with unpermitted construction in Greece?",
