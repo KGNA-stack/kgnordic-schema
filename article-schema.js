@@ -50,6 +50,26 @@
         {
           "question": "Should I wait for Greece’s building energy law to be finalized before upgrading my property?",
           "answer": "No. The current grant framework and the coming standards run on separate clocks, and subsidy rates and contractor pricing are not guaranteed to stay where they are. An independent pre-upgrade review checks what the property may qualify for now, based on the official rules in force."
+        },
+        {
+          "question": "What are MEPS in Greece?",
+          "answer": "MEPS are minimum energy performance standards. Under Article 9 of the recast EPBD, Member States must set maximum energy-performance thresholds for non-residential buildings. For homes, the Directive requires a national renovation trajectory; it does not itself impose an EU-wide EPC class at sale or lease."
+        },
+        {
+          "question": "When do Greek minimum energy standards take effect?",
+          "answer": "The general transposition deadline was 29 May 2026. Article 9 uses the worst-performing 16% and 26% of the 2020 non-residential stock to set national maximum energy-performance thresholds for 2030 and 2033. Homes instead fall under a national renovation trajectory. Check the current Greek implementing measure for a particular building’s obligations, dates and exemptions."
+        },
+        {
+          "question": "Does MEPS affect older and holiday homes?",
+          "answer": "The residential trajectory concerns the national housing stock. Whether a particular holiday home is covered by a Greek obligation, or qualifies for any support, depends on the current national rule and programme call. Plan a holiday-home upgrade on its own technical and financial merits unless an official live scheme says otherwise."
+        },
+        {
+          "question": "Can fossil-fuel boilers still be subsidized in Greece?",
+          "answer": "From 1 January 2025, Article 17(15) requires Member States not to provide financial incentives for installing stand-alone fossil-fuel boilers, subject to its exception for investments selected before 2025 under specified EU funds. The Directive does not make every heating-system choice or Greek support route identical; check the live programme terms, including for heat pumps ."
+        },
+        {
+          "question": "How do I find out if my Greek home meets the standard?",
+          "answer": "Start with the building’s energy performance certificate, which records its current rating. A preliminary assessment can identify the technical questions to resolve, but it is not a statutory EPC or confirmation that a property meets future Greek requirements."
         }
       ]
     },
@@ -377,7 +397,7 @@
         },
         {
           "question": "How much is property transfer tax in Greece?",
-          "answer": "Property transfer tax is 3.09 percent of the taxable value, which is the objective value set by the tax authority rather than the agreed price. A rise to 15 percent for individual buyers from outside the EU and EEA has been announced for 2027; confirm the final rules before signing. New builds sold by a developer can fall under 24 percent VAT instead, although a long-running suspension has kept most transfers under the transfer tax. The tax is paid before the contract is signed at the notary."
+          "answer": "Property transfer tax is 3.09 percent of the taxable value, which is the objective value set by the tax authority, or the deed price where that is higher. For homes bought by individuals who are tax resident outside the EU and EEA the rate is 15 percent on final contracts from 1 July 2027 (Law 5355/2026). New builds sold by a developer can fall under 24 percent VAT instead, although a long-running suspension has kept most transfers under the transfer tax. The tax is paid before the contract is signed at the notary."
         },
         {
           "question": "Do you pay annual property tax in Greece?",
@@ -464,7 +484,7 @@
       "faqs": [
         {
           "question": "Have Greek programmes supported heat pumps?",
-          "answer": "Greece has operated a programme supporting heat-pump systems and solar water heaters. The household application deadline for the 2025 programme was 5 May 2025. Later ministry notices concern existing vouchers and supplier payments, not a new household application window. Greece's Social Climate Fund plan, approved in August 2026, includes support for heat pumps and solar water heaters, but as checked on 24 October 2026 we found no published call or terms. Ministry notice confirming the 5 May 2025 household deadline ; later notice on supplier payments ."
+          "answer": "Greece has operated a programme supporting heat-pump systems and solar water heaters. The household application deadline for the 2025 programme was 5 May 2025. Later ministry notices concern existing vouchers and supplier payments, not a new household application window. Greece’s Social Climate Fund plan, approved in August 2026, includes support for heat pumps and solar water heaters, but as checked on 24 October 2026 we found no published call or terms. Ministry notice confirming the 5 May 2025 household deadline ; later notice on supplier payments ."
         },
         {
           "question": "What should I check about rooftop solar or solar-water-heater support?",
@@ -481,6 +501,18 @@
         {
           "question": "Do you mark up the subsidized equipment cost?",
           "answer": "No. The contractor invoices you directly and we never add a margin on subsidized costs. Our fee is for assessment, scheme navigation and coordination, kept separate from the funded works."
+        },
+        {
+          "question": "How much does the Greek energy upgrade grant cover?",
+          "answer": "The support rate, eligible costs and any owner contribution must be taken from the official guide for an open cycle. As checked on 24 October 2026, Exoikonomo 2025 is closed to new applications; its later implementation extension is not a reopening. Official notice confirming the 13 April 2025 application deadline ; Ministry notice on the 30 November 2026 completion extension ."
+        },
+        {
+          "question": "Can a foreign owner get an energy grant in Greece?",
+          "answer": "A foreign owner may be eligible only if a live programme’s own conditions are met. The 2025 Exoikonomo terms are historic and the call is closed, so they should not be used as a current qualification answer."
+        },
+        {
+          "question": "When does the 2026 Greek energy grant open?",
+          "answer": "No new Exoikonomo homeowner application opening was verified as of 24 October 2026. Greece’s Social Climate Fund plan, approved in August 2026, includes new Exoikonomo programmes, but we found no published call, terms or dates. Exoikonomo 2025 applications closed on 13 April 2025; a later extension concerns completion of specified approved cases, not a new opening. Check the official programme page and guide for any future call. Official notice: Exoikonomo 2025 applications closed on 13 April 2025 ; the later notice concerns completion of specified approved cases ."
         }
       ]
     },
@@ -701,6 +733,10 @@
         {
           "question": "How long does the Greece Golden Visa process take in 2026?",
           "answer": "The statute provides for issuance within two months after all elements of a complete file reach the issuing authority. The full property-acquisition, filing and card-delivery timeline may be longer and varies with file readiness and administrative workload, so applicants should obtain a current case-specific estimate. The residence permit is issued for five years and is renewable while the statutory conditions remain satisfied."
+        },
+        {
+          "question": "Why does the five-year residence-permit cycle change the due diligence?",
+          "answer": "A sale during the permit’s validity affects the seller’s residence permit under the current rules, so exit and residence planning should be reviewed together with immigration counsel. Defects found after purchase are also harder to negotiate with the seller. Due diligence therefore prices condition and capital expenditure before commitment and across the intended ownership period."
         }
       ]
     },
@@ -800,7 +836,7 @@
         },
         {
           "question": "What taxes do Americans pay when buying property in Greece?",
-          "answer": "The primary purchase tax is the property transfer tax at 3.09% of the taxable value. A rise to 15% for individual non-EU buyers, including Americans, is planned from 1 July 2027 and is in a draft bill that has not yet been passed. VAT applies on new builds from developers. US citizens must also comply with FBAR (FinCEN 114) reporting requirements if the purchase involves a foreign bank account exceeding $10,000 at any point, and FATCA reporting if applicable. Property ownership in Greece may also create Greek income tax obligations on rental income."
+          "answer": "The primary purchase tax is the property transfer tax at 3.09% of the taxable value. For homes bought by individuals who are tax resident outside the EU and EEA, which includes buyers tax resident in the United States, the rate is 15% on final contracts from July 1, 2027 (Law 5355/2026). VAT applies on new builds from developers. US citizens must also comply with FBAR (FinCEN 114) reporting requirements if the purchase involves a foreign bank account exceeding $10,000 at any point, and FATCA reporting if applicable. Property ownership in Greece may also create Greek income tax obligations on rental income."
         },
         {
           "question": "Do Americans need a lawyer to buy property in Greece?",
